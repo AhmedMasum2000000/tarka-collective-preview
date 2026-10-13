@@ -1,0 +1,199 @@
+{
+  "version": 1,
+  "checkedAt": "2026-10-13T08:34:41.742426+00:00",
+  "competitors": [
+    {
+      "name": "Social Square",
+      "url": "https://socialsquare.co/",
+      "checkedAt": "2026-10-13T08:34:41.742438+00:00",
+      "title": "Social Square | UGC Marketplace for Creators",
+      "description": "Get paid to create content for brands with Social Square. Discover UGC campaigns, collaborate with companies, publish",
+      "mentions": [
+        "Creator campaigns",
+        "UGC"
+      ],
+      "status": "ok",
+      "hash": "d86e36cc745d66311fa3d1a746c31e49b978c07ee59d2de8a49f833ea8b5c305",
+      "changed": false
+    },
+    {
+      "name": "Bengal Reach",
+      "url": "https://www.bengalreach.com/",
+      "checkedAt": "2026-10-13T08:34:46.521091+00:00",
+      "title": "bengalReach - Connect Influencers with Brands in Bangladesh",
+      "description": "Leading influencer marketing platform in Bangladesh. Connect local influencers with brands for authentic social media campaigns across",
+      "mentions": [
+        "Creator campaigns",
+        "UGC"
+      ],
+      "status": "ok",
+      "hash": "27c2e024af48cf215968da21b8562fc6007e6cc175ce299f4c4870dfa288bc19",
+      "changed": false
+    },
+    {
+      "name": "Maroon Ltd.",
+      "url": "https://www.maroonltd.com/",
+      "checkedAt": "2026-10-13T08:34:48.758972+00:00",
+      "title": "Maroon Limited",
+      "description": "A PR and Digital Communication Agency in Dhaka, Bangladesh.",
+      "mentions": [
+        "Creator campaigns",
+        "Video production",
+        "Paid advertising"
+      ],
+      "status": "ok",
+      "hash": "2f6f4a33fbfd1ca264399e4a13c82043902d5ea5c18cc8ba70132d9253e5657e",
+      "changed": false
+    },
+    {
+      "name": "Ngital",
+      "url": "https://ngital.com/",
+      "checkedAt": "2026-10-13T08:34:52.490494+00:00",
+      "title": "Ngital — Best Digital Marketing Agency in Dhaka,",
+      "description": "Award-winning digital marketing agency in Dhaka, Bangladesh. Expert SEO, Google Ads, Meta Ads & Creative — trusted",
+      "mentions": [
+        "Creator campaigns",
+        "Video production",
+        "Paid advertising",
+        "Brand strategy",
+        "Social media management"
+      ],
+      "status": "ok",
+      "hash": "6dcd4ecfb6dd2eda2c24c11123f8edf48c9ac27778298a9bfb4693cd8c0bc214",
+      "changed": false
+    }
+  ],
+  "indicators": [
+    {
+      "code": "IT.NET.USER.ZS",
+      "name": "Internet use",
+      "unit": "% of population",
+      "url": "https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=BD",
+      "checkedAt": "2026-10-13T08:34:56.358284+00:00",
+      "status": "ok",
+      "value": 53.42171316,
+      "year": "2024"
+    },
+    {
+      "code": "SP.POP.TOTL",
+      "name": "Population",
+      "unit": "people",
+      "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=BD",
+      "checkedAt": "2026-10-13T08:34:56.455326+00:00",
+      "status": "ok",
+      "value": 175686899,
+      "year": "2025"
+    },
+    {
+      "code": "FP.CPI.TOTL.ZG",
+      "name": "Inflation",
+      "unit": "% annual",
+      "url": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=BD",
+      "checkedAt": "2026-10-13T08:34:56.522822+00:00",
+      "status": "ok",
+      "value": 8.7687628116114,
+      "year": "2025"
+    }
+  ],
+  "headlines": [
+    {
+      "topic": "clothing",
+      "title": "Costs to cool Bangladesh garment factories can be recovered within four years, study shows - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOHdta1BaRjhDaDhSOHRoRzhrX01QOG9yZVBlVnFWQWRwdi15Z0h2UjRXUVBsZDRJTG1ZSmxDQzNNb3NWYnNUSmxRbklUazNJMXM3NE1IbWQ3UTlfQzdTS2tKb2RLS00xWndjSU9CMnoyZ09WVmstaXluY1Zld09XNno0ZHNNSmhGenZHcGIteTRuQ3NQYjFTVVhuS1N4SWZ0a0szaTl5NG5ZdExsQlRiQS1SRG9UZnNzMVpDM2JNNWlaaVFGTjh2OVBqNEFhbTg4QmdB?oc=5",
+      "publishedAt": "Sun, 20 Sep 2026 07:00:00 GMT",
+      "source": "Reuters"
+    },
+    {
+      "topic": "clothing",
+      "title": "StanChart Bangladesh staff walk out over retail banking sale - The Banker",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE92TmpHbGY5Mm94UlFzcFl2RDJLUzBCNWtUR29fNTlvdUg3Sk0yX3lOUS1Pb0l2UFVuSVRvMmprc3dSTHIwTU42c3lMak9JSlk4cmJqTy04dnhJWnFxZ05lMC1nUEJJY2VlWkFnTzFud1hrT243SlcxZzlR?oc=5",
+      "publishedAt": "Thu, 08 Oct 2026 17:05:21 GMT",
+      "source": "The Banker"
+    },
+    {
+      "topic": "clothing",
+      "title": "Fashion brands ‘could solve Bangladesh crisis’ - Ecotextile News",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZVoyQUxlaHRhZGFmemlNUE1DV29QdWhvTzhmUThPSUVQdkZLY1ZSUEtSajc3S2o1VFNTMW5RcXF1ZUFmR0RoZ3NESmtYYS1kM19tNWNyb0pXcXVUMzVqTmhSUnlTNXI1NC1iNGFZaWxEMU5mMkdzR3N5YjdZc3FkRTF6WHlLX1dXODhsZlhuUW1VNnFqWEx2NEFhMHg4QVBVOC1vdTJtdw?oc=5",
+      "publishedAt": "Tue, 15 Sep 2026 07:00:00 GMT",
+      "source": "Ecotextile News"
+    },
+    {
+      "topic": "clothing",
+      "title": "15 fashion brands could help reduce Bangladesh emissions by 1.26m tonnes - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMExrQk5yZjUxMHZTajZycW5RUGxid21xTGJFc2ZjNFl0bDlCQW1fVnRrY1Y1bERVSFl3cDhoaDRKYzljblp5M0diTG5hbFRHQW82eHRSU0NsSktrRk91eFMxbjJIMGpGbjNnRnFYcDB0WmNRT2lRNzRzdmE4d0N6dzFnVXpBSlJ1U1pxaThZa2M?oc=5",
+      "publishedAt": "Thu, 17 Sep 2026 07:00:00 GMT",
+      "source": "Yahoo"
+    },
+    {
+      "topic": "clothing",
+      "title": "Farzana Sultana on Bangladesh’s garment industry - Meer | English edition",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWDBZcDlFS3V0YzFFaVVMWUpfeXA0NkEtYUJyTDJfbXBzQVJxMFJPcHVZNXE4dHF4TEY4YVd1SWlMeTUyZ3FFeG9XbzFMM1lLV3NkWjhRWWlXc21KZmoxMkVMV1pmY0Yxc1NHanplXzN4Q0ltNEVnc0Z0VjF5VE5VZnl3NE0?oc=5",
+      "publishedAt": "Tue, 22 Sep 2026 07:00:00 GMT",
+      "source": "Meer | English edition"
+    },
+    {
+      "topic": "games",
+      "title": "Retro Gaming: It’s Not Nostalgia, It’s Resistance - Public Books",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9yS2hDSlFUdTJiN2MxRWFYcS12R0tNZGRRV2xveWJGZ0paWk9lcC1WODBYbmV6YU9MVTRfYjM5cUluekxJTGhBalg4VVlVRjk2NWRJMHhfNWxMYmhhMEVPdjhoWEFUZHRNdFpFMGd1UmppNE92QTl4eXRhbFpSOHc?oc=5",
+      "publishedAt": "Fri, 02 Oct 2026 15:00:00 GMT",
+      "source": "Public Books"
+    },
+    {
+      "topic": "games",
+      "title": "A Guide to Portland Retro Gaming Expo - travelportland.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5XUTRjUjdoTWxQLWVrME16TXhHLTg1SmMyaUMzSUF4bUYtTVVndTN0UGR4MW8zS2ViZkFmZ0xyZXp1YWtnSFFqOW9oX2xHYTRma0lqcG9kMk5HXzZob3ZJLTZYYVhDaE0?oc=5",
+      "publishedAt": "Thu, 17 Sep 2026 07:00:00 GMT",
+      "source": "travelportland.com"
+    },
+    {
+      "topic": "games",
+      "title": "Portland Retro Gaming Expo marks 20 years with games, competitions and nostalgia - KGW",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPNjcyc2JaMnhiQ1k2T1g5c3BxVGN1WUhqTjViaUVGM0l6VGFtSFhkYWg1Q3BVLVBXVkw1RG1PTENpMzhMYVFNV3RLazJ0dTA0bkIwYXhHTWFxQzdfbEh3TktVdV9Db2NTWk1TN2NDdDRoRklOdVJhSWtWSHhhQ2hQeGJrLTBxZEJ2NnRsZjlINjBUeU5HNlkzc19vbjlQNE5JaFVteW9ibC0waWcycVhBa0Rwc3lFeE9CbzcxMkRqR3E1d3I1a0lqclllQndqcWNQdm9QQURPcG9kMldwSmZOMkFwb3hhNTlGYzEyTFZWOEpYT2hPT245ZA?oc=5",
+      "publishedAt": "Sat, 10 Oct 2026 02:00:00 GMT",
+      "source": "KGW"
+    },
+    {
+      "topic": "games",
+      "title": "Nintendo's Latin America VP says there are no plans to ditch physical games - GamesIndustry.biz",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeDZ4YUhGb3hzYjkybXkyRDhNaEZCS3ZLMlhpQ1FPTzhBV0NYdDAta3ZZOHZleVNlUmlmQlVCd01sbTZKd0VSUTNrZlN1MjdYNDRJZl9KMjRVZmZSV29EYUMtY05uYUNqVHlVLURfcFV6aDVDQ1d4NURiOUJWeFF3UmduM1FHenlEazlDaHRlN2w4SmJIaHdRRE1QY2V0M2VFVVY1aW9POA?oc=5",
+      "publishedAt": "Mon, 12 Oct 2026 17:58:32 GMT",
+      "source": "GamesIndustry.biz"
+    },
+    {
+      "topic": "agriculture",
+      "title": "China cooperation needed to modernise and develop Bangladesh’s agriculture sector - The Climate Watch",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSHU3MlhZMVFlWjFsR2F3Vm5wN3dsak11Q21OeDVkMkViWmVwOGFneVIwR1dFb2xMVDBMcDFwVVQyUm1OcU1zNWRXMl9RVWVvTTlicDRVQzBkZXItN2EwV0g0OW5kbDkyS2Y5emVsTWxBblJleWpwbU94TzBDTFpCRUtwbnVJaW1oOGVhX3NUV3JyTVdZX3pocjhGVEZsaGdBYkNobzNteTQ3RmNncGc?oc=5",
+      "publishedAt": "Wed, 07 Oct 2026 16:44:20 GMT",
+      "source": "The Climate Watch"
+    },
+    {
+      "topic": "agriculture",
+      "title": "Omani Delegation Visits Bangladesh to Assess Potential for Recruiting Bangladeshi Workers in Agriculture and Fisheries Sectors - https://businessinbangladesh.com.bd/",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOZXViWmxnM252MmF0a1VRakpiWktHdXpMYWUwT2xZX09lcGRHWVNLVWoxY3F6ajNsc2F6Si0yVGF2TEJYczdlTnZabWFRT2xwX0hFa3h6Nm96RUZmdDFDNmsxNUI1OXRZOFF4cUhCNVFYS3doOFFWT1Vhb08xUmdCSGVDczhfY3pTUy13NlB5NlZ1cXFmVmVyZjVVZ1lIY3hsa0FhXy1ZX0xZS0dCSFh1Z2lHQy1GSmhfWEJXRmxxS2dzUEg5d1Z6Yl9UN0xWWUQwalNTLUNtY0Vja3EyR1lhY2UwOTRjVGFVU3NwZ1ZiZmJCLWI3MEE?oc=5",
+      "publishedAt": "Wed, 07 Oct 2026 11:31:27 GMT",
+      "source": "https://businessinbangladesh.com.bd/"
+    }
+  ],
+  "feedStatus": [
+    {
+      "topic": "creator",
+      "checkedAt": "2026-10-13T08:34:56.573824+00:00",
+      "status": "ok"
+    },
+    {
+      "topic": "clothing",
+      "checkedAt": "2026-10-13T08:34:58.836205+00:00",
+      "status": "ok"
+    },
+    {
+      "topic": "games",
+      "checkedAt": "2026-10-13T08:34:59.933252+00:00",
+      "status": "ok"
+    },
+    {
+      "topic": "agriculture",
+      "checkedAt": "2026-10-13T08:35:01.079131+00:00",
+      "status": "ok"
+    }
+  ]
+}
