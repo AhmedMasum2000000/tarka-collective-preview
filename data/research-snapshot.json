@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "checkedAt": "2026-10-15T04:46:40.706726+00:00",
+  "checkedAt": "2026-10-15T09:59:36.550442+00:00",
   "competitors": [
     {
       "name": "Social Square",
       "url": "https://socialsquare.co/",
-      "checkedAt": "2026-10-15T04:46:40.706740+00:00",
+      "checkedAt": "2026-10-15T09:59:36.550454+00:00",
       "title": "Social Square | UGC Marketplace for Creators",
       "description": "Get paid to create content for brands with Social Square. Discover UGC campaigns, collaborate with companies, publish",
       "mentions": [
@@ -19,7 +19,7 @@
     {
       "name": "Bengal Reach",
       "url": "https://www.bengalreach.com/",
-      "checkedAt": "2026-10-15T04:46:42.462607+00:00",
+      "checkedAt": "2026-10-15T09:59:38.050831+00:00",
       "title": "bengalReach - Connect Influencers with Brands in Bangladesh",
       "description": "Leading influencer marketing platform in Bangladesh. Connect local influencers with brands for authentic social media campaigns across",
       "mentions": [
@@ -33,7 +33,7 @@
     {
       "name": "Maroon Ltd.",
       "url": "https://www.maroonltd.com/",
-      "checkedAt": "2026-10-15T04:46:43.851336+00:00",
+      "checkedAt": "2026-10-15T09:59:39.655524+00:00",
       "title": "Maroon Limited",
       "description": "A PR and Digital Communication Agency in Dhaka, Bangladesh.",
       "mentions": [
@@ -48,7 +48,7 @@
     {
       "name": "Ngital",
       "url": "https://ngital.com/",
-      "checkedAt": "2026-10-15T04:46:48.612048+00:00",
+      "checkedAt": "2026-10-15T09:59:42.928059+00:00",
       "title": "Ngital — Best Digital Marketing Agency in Dhaka,",
       "description": "Award-winning digital marketing agency in Dhaka, Bangladesh. Expert SEO, Google Ads, Meta Ads & Creative — trusted",
       "mentions": [
@@ -69,7 +69,7 @@
       "name": "Internet use",
       "unit": "% of population",
       "url": "https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=BD",
-      "checkedAt": "2026-10-15T04:46:52.513296+00:00",
+      "checkedAt": "2026-10-15T09:59:47.833677+00:00",
       "status": "ok",
       "value": 53.42171316,
       "year": "2024"
@@ -79,7 +79,7 @@
       "name": "Population",
       "unit": "people",
       "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=BD",
-      "checkedAt": "2026-10-15T04:46:52.629743+00:00",
+      "checkedAt": "2026-10-15T09:59:48.219095+00:00",
       "status": "ok",
       "value": 175686899,
       "year": "2025"
@@ -89,20 +89,13 @@
       "name": "Inflation",
       "unit": "% annual",
       "url": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=BD",
-      "checkedAt": "2026-10-15T04:46:52.694528+00:00",
+      "checkedAt": "2026-10-15T09:59:54.386524+00:00",
       "status": "ok",
       "value": 8.7687628116114,
       "year": "2025"
     }
   ],
   "headlines": [
-    {
-      "topic": "creator",
-      "title": "Digital Marketing Freelancing in Bangladesh: Where to Start in 2026 - Bd24live",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPLXpnNFU0WUUzYjRxUWdPbWpjZXg0RnpHTHU1REhyNnUycmFVZEVBS1hxbEtxUWoxMHFsQUFCVnBfdGdBcmtURWlJLVc2YnFGcXB5VHItdlF3aF9VelUzUEY4UC1QRUVRNE1KdmtJV3ZWQi0wZlNiVTU3NmlXZU9INW9NQnN2RUhFOHlzOEJwZEdLZVlEV2Fr0gGcAUFVX3lxTE5fUTEtMVhjbW1YX2dLS1d0N3NZVG1feHNYR1kyb2U2MUo2NXF4bXFuTF9qQUhiTk1yQS1jMXVSaFc1X0NpbUFGSW9NRXNOclpZcERNbUVyd3RiclFSRlZoNFdnb05SZkp0Z3NJU1RFdGYzMmdUeHI4dk9MYnFVSnVzVU9hRmQzM3E0aU5IRlQ4SWY2aWdFRUN2aVY4aQ?oc=5",
-      "publishedAt": "Wed, 07 Oct 2026 18:33:18 GMT",
-      "source": "Bd24live"
-    },
     {
       "topic": "clothing",
       "title": "Costs to cool Bangladesh garment factories can be recovered within four years, study shows - Reuters",
@@ -119,17 +112,17 @@
     },
     {
       "topic": "clothing",
-      "title": "Fashion brands ‘could solve Bangladesh crisis’ - Ecotextile News",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZVoyQUxlaHRhZGFmemlNUE1DV29QdWhvTzhmUThPSUVQdkZLY1ZSUEtSajc3S2o1VFNTMW5RcXF1ZUFmR0RoZ3NESmtYYS1kM19tNWNyb0pXcXVUMzVqTmhSUnlTNXI1NC1iNGFZaWxEMU5mMkdzR3N5YjdZc3FkRTF6WHlLX1dXODhsZlhuUW1VNnFqWEx2NEFhMHg4QVBVOC1vdTJtdw?oc=5",
-      "publishedAt": "Tue, 15 Sep 2026 07:00:00 GMT",
-      "source": "Ecotextile News"
-    },
-    {
-      "topic": "clothing",
       "title": "15 fashion brands could help reduce Bangladesh emissions by 1.26m tonnes - Yahoo",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMExrQk5yZjUxMHZTajZycW5RUGxid21xTGJFc2ZjNFl0bDlCQW1fVnRrY1Y1bERVSFl3cDhoaDRKYzljblp5M0diTG5hbFRHQW82eHRSU0NsSktrRk91eFMxbjJIMGpGbjNnRnFYcDB0WmNRT2lRNzRzdmE4d0N6dzFnVXpBSlJ1U1pxaThZa2M?oc=5",
       "publishedAt": "Thu, 17 Sep 2026 07:00:00 GMT",
       "source": "Yahoo"
+    },
+    {
+      "topic": "clothing",
+      "title": "What does StanChart's retail banking exit mean for Bangladesh? - The Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUnFfSXFUanhRQ0VpbGI3MHVqNjJZZXlHd1hYcFI5NTQ2ZXBUb2FOSkE3VHVXZWN5NUNDdzl1d2JlX3lBWVNvYVRqZjByZGxSaEFQSTNuRXZxM01FYkZPbGp4NUpER2Z5ZWhJNHRRM3B3Z0JjWnlMS0xobkdZLVRPNDhqdDBuMmdjb0MwMWlaUEh2UGZUWUxKMk9YZ1FwQ0V2ekp5NmpzNXVhS2c?oc=5",
+      "publishedAt": "Mon, 21 Sep 2026 07:00:00 GMT",
+      "source": "The Business Standard"
     },
     {
       "topic": "clothing",
@@ -196,38 +189,38 @@
     },
     {
       "topic": "agriculture",
+      "title": "President calls for making agriculture more profitable - Bangladesh Sangbad Sangstha (BSS)",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE13MFNueHdObnJUZjZnc1VOWFJXNUxvQUlyRDhMRUlkVkF5cTl4TWJ1SmxJRzFydUZmSEw5ZEhuamQ2enNhS0xvTFNRNXk4VjRPcEQw?oc=5",
+      "publishedAt": "Thu, 15 Oct 2026 07:52:25 GMT",
+      "source": "Bangladesh Sangbad Sangstha (BSS)"
+    },
+    {
+      "topic": "agriculture",
       "title": "Canada Keen to Support Bangladesh in Energy, Agriculture, and Climate Financing - https://businessinbangladesh.com.bd/",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOa3JnSzI0X3loNlY0ekZCbFJ5bzFRS0FwR0pzb3NaTEpNcWkzNW91LWZVNnNQZmwxXzd1Y0puVWpLeHB6NkZOb1V1bUc4TnRTOWJ3S1VuM3dfWHF6eWVwQkQ0UGdTbVloMGxJRWZtOGxtQ1ZKZkV2RlhkLVppRVFVLXQyb2RtY1BFS2U5emY3STNNUV9rUXVGSmc0cnAzLUc1NmhCYldQTjV0Qmg4ZzFRWGNVUko?oc=5",
       "publishedAt": "Mon, 12 Oct 2026 07:45:38 GMT",
       "source": "https://businessinbangladesh.com.bd/"
-    },
-    {
-      "topic": "agriculture",
-      "title": "Agri minister stresses research, innovation to boost fisheries, agriculture exports - Bangladesh Sangbad Sangstha (BSS)",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA5UFNTMmNpbDJSdjg1ZFBZSjVFV09wUXNWb3pCVWVqdEk0OFV4RW1DTTMzaERTMEh6a1Y4WmFYdE1GSFJzTThabmQ4cw?oc=5",
-      "publishedAt": "Tue, 13 Oct 2026 17:47:53 GMT",
-      "source": "Bangladesh Sangbad Sangstha (BSS)"
     }
   ],
   "feedStatus": [
     {
       "topic": "creator",
-      "checkedAt": "2026-10-15T04:46:52.757743+00:00",
+      "checkedAt": "2026-10-15T10:00:00.172190+00:00",
       "status": "ok"
     },
     {
       "topic": "clothing",
-      "checkedAt": "2026-10-15T04:46:53.287948+00:00",
+      "checkedAt": "2026-10-15T10:00:00.800338+00:00",
       "status": "ok"
     },
     {
       "topic": "games",
-      "checkedAt": "2026-10-15T04:46:53.798819+00:00",
+      "checkedAt": "2026-10-15T10:00:01.341176+00:00",
       "status": "ok"
     },
     {
       "topic": "agriculture",
-      "checkedAt": "2026-10-15T04:46:54.391349+00:00",
+      "checkedAt": "2026-10-15T10:00:01.818585+00:00",
       "status": "ok"
     }
   ]
