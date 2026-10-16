@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "checkedAt": "2026-10-15T22:23:45.443351+00:00",
+  "checkedAt": "2026-10-16T01:25:15.489783+00:00",
   "competitors": [
     {
       "name": "Social Square",
       "url": "https://socialsquare.co/",
-      "checkedAt": "2026-10-15T22:23:45.443367+00:00",
+      "checkedAt": "2026-10-16T01:25:15.489800+00:00",
       "title": "Social Square | UGC Marketplace for Creators",
       "description": "Get paid to create content for brands with Social Square. Discover UGC campaigns, collaborate with companies, publish",
       "mentions": [
@@ -19,7 +19,7 @@
     {
       "name": "Bengal Reach",
       "url": "https://www.bengalreach.com/",
-      "checkedAt": "2026-10-15T22:23:47.594982+00:00",
+      "checkedAt": "2026-10-16T01:25:16.795042+00:00",
       "title": "bengalReach - Connect Influencers with Brands in Bangladesh",
       "description": "Leading influencer marketing platform in Bangladesh. Connect local influencers with brands for authentic social media campaigns across",
       "mentions": [
@@ -33,7 +33,7 @@
     {
       "name": "Maroon Ltd.",
       "url": "https://www.maroonltd.com/",
-      "checkedAt": "2026-10-15T22:23:49.478411+00:00",
+      "checkedAt": "2026-10-16T01:25:18.403391+00:00",
       "title": "Maroon Limited",
       "description": "A PR and Digital Communication Agency in Dhaka, Bangladesh.",
       "mentions": [
@@ -48,7 +48,7 @@
     {
       "name": "Ngital",
       "url": "https://ngital.com/",
-      "checkedAt": "2026-10-15T22:23:54.308440+00:00",
+      "checkedAt": "2026-10-16T01:25:23.380260+00:00",
       "title": "Ngital — Best Digital Marketing Agency in Dhaka,",
       "description": "Award-winning digital marketing agency in Dhaka, Bangladesh. Expert SEO, Google Ads, Meta Ads & Creative — trusted",
       "mentions": [
@@ -69,7 +69,7 @@
       "name": "Internet use",
       "unit": "% of population",
       "url": "https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=BD",
-      "checkedAt": "2026-10-15T22:23:59.199435+00:00",
+      "checkedAt": "2026-10-16T01:25:27.532662+00:00",
       "status": "ok",
       "value": 53.42171316,
       "year": "2024"
@@ -79,7 +79,7 @@
       "name": "Population",
       "unit": "people",
       "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=BD",
-      "checkedAt": "2026-10-15T22:23:59.323684+00:00",
+      "checkedAt": "2026-10-16T01:25:27.682851+00:00",
       "status": "ok",
       "value": 175686899,
       "year": "2025"
@@ -89,7 +89,7 @@
       "name": "Inflation",
       "unit": "% annual",
       "url": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=BD",
-      "checkedAt": "2026-10-15T22:23:59.481294+00:00",
+      "checkedAt": "2026-10-16T01:25:27.742993+00:00",
       "status": "ok",
       "value": 8.7687628116114,
       "year": "2025"
@@ -154,24 +154,17 @@
     },
     {
       "topic": "games",
-      "title": "You Should Build A Retro Gaming PC Instead Of Buying Another Console - BGR",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVnhlUWVmMGxwWkRPS1dSUVI5RWJuRk9vNzBfU3JLbnpzX0xqcmVJX054S3UtQzQtREk3ZUNCZ3RCcVlmTTFpeDJwWGp6NmpfTFRrY1VpSy0wNldONDh2V2s5NjFERWpiOTBLWVBSS0g0RWdfQnlNZnJzRUw2bUplZldVaVBwT2ZrRWtNQg?oc=5",
-      "publishedAt": "Wed, 14 Oct 2026 22:17:00 GMT",
-      "source": "BGR"
-    },
-    {
-      "topic": "games",
       "title": "Kirk Ferentz responds to fans using term 'Iowaed' in physical games: 'We're not in the entertainment business' - On3",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMmU5VGEwSzg3ZlpKRWxCdmZMZW42NTBBV0VRNlBsSlJJMkJ1UnB0MnlwRTFPWFlhY3Z0WDkxa2dDQlFOakp5QnMzN3paLXNrSlpTbGtpUVg5blQ1ZWRkNmI4WklIdnozSGJUUkpmV1p5WFZCTXVETUw0VzlwNUNtR2FPY1RxeXNqRTh1b01ubnJiWGxkekgta19HbzNZTDRNeUJoRUlaZUlYT1Rrcnp1ZVg0ai0xYnhyR0dv?oc=5",
       "publishedAt": "Tue, 29 Sep 2026 07:00:00 GMT",
       "source": "On3"
     },
     {
-      "topic": "agriculture",
-      "title": "China cooperation needed to modernise and develop Bangladesh’s agriculture sector - The Climate Watch",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSHU3MlhZMVFlWjFsR2F3Vm5wN3dsak11Q21OeDVkMkViWmVwOGFneVIwR1dFb2xMVDBMcDFwVVQyUm1OcU1zNWRXMl9RVWVvTTlicDRVQzBkZXItN2EwV0g0OW5kbDkyS2Y5emVsTWxBblJleWpwbU94TzBDTFpCRUtwbnVJaW1oOGVhX3NUV3JyTVdZX3pocjhGVEZsaGdBYkNobzNteTQ3RmNncGc?oc=5",
-      "publishedAt": "Wed, 07 Oct 2026 16:44:20 GMT",
-      "source": "The Climate Watch"
+      "topic": "games",
+      "title": "You Should Build A Retro Gaming PC Instead Of Buying Another Console - BGR",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVnhlUWVmMGxwWkRPS1dSUVI5RWJuRk9vNzBfU3JLbnpzX0xqcmVJX054S3UtQzQtREk3ZUNCZ3RCcVlmTTFpeDJwWGp6NmpfTFRrY1VpSy0wNldONDh2V2s5NjFERWpiOTBLWVBSS0g0RWdfQnlNZnJzRUw2bUplZldVaVBwT2ZrRWtNQg?oc=5",
+      "publishedAt": "Wed, 14 Oct 2026 22:17:00 GMT",
+      "source": "BGR"
     },
     {
       "topic": "agriculture",
@@ -200,27 +193,34 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOa3JnSzI0X3loNlY0ekZCbFJ5bzFRS0FwR0pzb3NaTEpNcWkzNW91LWZVNnNQZmwxXzd1Y0puVWpLeHB6NkZOb1V1bUc4TnRTOWJ3S1VuM3dfWHF6eWVwQkQ0UGdTbVloMGxJRWZtOGxtQ1ZKZkV2RlhkLVppRVFVLXQyb2RtY1BFS2U5emY3STNNUV9rUXVGSmc0cnAzLUc1NmhCYldQTjV0Qmg4ZzFRWGNVUko?oc=5",
       "publishedAt": "Mon, 12 Oct 2026 07:45:38 GMT",
       "source": "https://businessinbangladesh.com.bd/"
+    },
+    {
+      "topic": "agriculture",
+      "title": "President calls for making agriculture more profitable - Bangladesh Sangbad Sangstha (BSS)",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE13MFNueHdObnJUZjZnc1VOWFJXNUxvQUlyRDhMRUlkVkF5cTl4TWJ1SmxJRzFydUZmSEw5ZEhuamQ2enNhS0xvTFNRNXk4VjRPcEQw?oc=5",
+      "publishedAt": "Thu, 15 Oct 2026 07:52:34 GMT",
+      "source": "Bangladesh Sangbad Sangstha (BSS)"
     }
   ],
   "feedStatus": [
     {
       "topic": "creator",
-      "checkedAt": "2026-10-15T22:23:59.561405+00:00",
+      "checkedAt": "2026-10-16T01:25:27.804059+00:00",
       "status": "ok"
     },
     {
       "topic": "clothing",
-      "checkedAt": "2026-10-15T22:24:00.029014+00:00",
+      "checkedAt": "2026-10-16T01:25:28.292733+00:00",
       "status": "ok"
     },
     {
       "topic": "games",
-      "checkedAt": "2026-10-15T22:24:00.609783+00:00",
+      "checkedAt": "2026-10-16T01:25:28.841656+00:00",
       "status": "ok"
     },
     {
       "topic": "agriculture",
-      "checkedAt": "2026-10-15T22:24:01.219161+00:00",
+      "checkedAt": "2026-10-16T01:25:29.401461+00:00",
       "status": "ok"
     }
   ]
