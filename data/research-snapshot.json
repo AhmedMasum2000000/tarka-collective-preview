@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "checkedAt": "2026-10-16T21:15:20.094731+00:00",
+  "checkedAt": "2026-10-16T23:40:43.563973+00:00",
   "competitors": [
     {
       "name": "Social Square",
       "url": "https://socialsquare.co/",
-      "checkedAt": "2026-10-16T21:15:20.094747+00:00",
+      "checkedAt": "2026-10-16T23:40:43.564010+00:00",
       "title": "Social Square | UGC Marketplace for Creators",
       "description": "Get paid to create content for brands with Social Square. Discover UGC campaigns, collaborate with companies, publish",
       "mentions": [
@@ -19,7 +19,7 @@
     {
       "name": "Bengal Reach",
       "url": "https://www.bengalreach.com/",
-      "checkedAt": "2026-10-16T21:15:21.487988+00:00",
+      "checkedAt": "2026-10-16T23:40:45.187077+00:00",
       "title": "bengalReach - Connect Influencers with Brands in Bangladesh",
       "description": "Leading influencer marketing platform in Bangladesh. Connect local influencers with brands for authentic social media campaigns across",
       "mentions": [
@@ -33,7 +33,7 @@
     {
       "name": "Maroon Ltd.",
       "url": "https://www.maroonltd.com/",
-      "checkedAt": "2026-10-16T21:15:23.020537+00:00",
+      "checkedAt": "2026-10-16T23:40:46.520737+00:00",
       "title": "Maroon Limited",
       "description": "A PR and Digital Communication Agency in Dhaka, Bangladesh.",
       "mentions": [
@@ -48,7 +48,7 @@
     {
       "name": "Ngital",
       "url": "https://ngital.com/",
-      "checkedAt": "2026-10-16T21:15:27.721465+00:00",
+      "checkedAt": "2026-10-16T23:40:51.175498+00:00",
       "title": "Ngital — Best Digital Marketing Agency in Dhaka,",
       "description": "Award-winning digital marketing agency in Dhaka, Bangladesh. Expert SEO, Google Ads, Meta Ads & Creative — trusted",
       "mentions": [
@@ -69,7 +69,7 @@
       "name": "Internet use",
       "unit": "% of population",
       "url": "https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=BD",
-      "checkedAt": "2026-10-16T21:15:32.346228+00:00",
+      "checkedAt": "2026-10-16T23:40:54.683387+00:00",
       "status": "ok",
       "value": 53.42171316,
       "year": "2024"
@@ -79,7 +79,7 @@
       "name": "Population",
       "unit": "people",
       "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=BD",
-      "checkedAt": "2026-10-16T21:15:32.555301+00:00",
+      "checkedAt": "2026-10-16T23:40:54.797116+00:00",
       "status": "ok",
       "value": 175686899,
       "year": "2025"
@@ -89,7 +89,7 @@
       "name": "Inflation",
       "unit": "% annual",
       "url": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=BD",
-      "checkedAt": "2026-10-16T21:15:32.771213+00:00",
+      "checkedAt": "2026-10-16T23:40:54.875346+00:00",
       "status": "ok",
       "value": 8.7687628116114,
       "year": "2025"
@@ -133,13 +133,6 @@
     },
     {
       "topic": "games",
-      "title": "Retro Gaming: It’s Not Nostalgia, It’s Resistance - Public Books",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9yS2hDSlFUdTJiN2MxRWFYcS12R0tNZGRRV2xveWJGZ0paWk9lcC1WODBYbmV6YU9MVTRfYjM5cUluekxJTGhBalg4VVlVRjk2NWRJMHhfNWxMYmhhMEVPdjhoWEFUZHRNdFpFMGd1UmppNE92QTl4eXRhbFpSOHc?oc=5",
-      "publishedAt": "Fri, 02 Oct 2026 15:00:00 GMT",
-      "source": "Public Books"
-    },
-    {
-      "topic": "games",
       "title": "A Guide to Portland Retro Gaming Expo - travelportland.com",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5XUTRjUjdoTWxQLWVrME16TXhHLTg1SmMyaUMzSUF4bUYtTVVndTN0UGR4MW8zS2ViZkFmZ0xyZXp1YWtnSFFqOW9oX2xHYTRma0lqcG9kMk5HXzZob3ZJLTZYYVhDaE0?oc=5",
       "publishedAt": "Thu, 17 Sep 2026 07:00:00 GMT",
@@ -165,6 +158,13 @@
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMmU5VGEwSzg3ZlpKRWxCdmZMZW42NTBBV0VRNlBsSlJJMkJ1UnB0MnlwRTFPWFlhY3Z0WDkxa2dDQlFOakp5QnMzN3paLXNrSlpTbGtpUVg5blQ1ZWRkNmI4WklIdnozSGJUUkpmV1p5WFZCTXVETUw0VzlwNUNtR2FPY1RxeXNqRTh1b01ubnJiWGxkekgta19HbzNZTDRNeUJoRUlaZUlYT1Rrcnp1ZVg0ai0xYnhyR0dv?oc=5",
       "publishedAt": "Tue, 29 Sep 2026 07:00:00 GMT",
       "source": "On3"
+    },
+    {
+      "topic": "games",
+      "title": "You Should Build A Retro Gaming PC Instead Of Buying Another Console - BGR",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVnhlUWVmMGxwWkRPS1dSUVI5RWJuRk9vNzBfU3JLbnpzX0xqcmVJX054S3UtQzQtREk3ZUNCZ3RCcVlmTTFpeDJwWGp6NmpfTFRrY1VpSy0wNldONDh2V2s5NjFERWpiOTBLWVBSS0g0RWdfQnlNZnJzRUw2bUplZldVaVBwT2ZrRWtNQg?oc=5",
+      "publishedAt": "Wed, 14 Oct 2026 22:17:00 GMT",
+      "source": "BGR"
     },
     {
       "topic": "agriculture",
@@ -205,22 +205,22 @@
   "feedStatus": [
     {
       "topic": "creator",
-      "checkedAt": "2026-10-16T21:15:32.862885+00:00",
+      "checkedAt": "2026-10-16T23:40:54.939577+00:00",
       "status": "ok"
     },
     {
       "topic": "clothing",
-      "checkedAt": "2026-10-16T21:15:33.508316+00:00",
+      "checkedAt": "2026-10-16T23:40:55.475747+00:00",
       "status": "ok"
     },
     {
       "topic": "games",
-      "checkedAt": "2026-10-16T21:15:34.225463+00:00",
+      "checkedAt": "2026-10-16T23:40:55.969213+00:00",
       "status": "ok"
     },
     {
       "topic": "agriculture",
-      "checkedAt": "2026-10-16T21:15:34.790243+00:00",
+      "checkedAt": "2026-10-16T23:40:56.508101+00:00",
       "status": "ok"
     }
   ]
