@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "checkedAt": "2026-10-17T09:26:15.067403+00:00",
+  "checkedAt": "2026-10-17T13:46:09.546363+00:00",
   "competitors": [
     {
       "name": "Social Square",
       "url": "https://socialsquare.co/",
-      "checkedAt": "2026-10-17T09:26:15.067417+00:00",
+      "checkedAt": "2026-10-17T13:46:09.546381+00:00",
       "title": "Social Square | UGC Marketplace for Creators",
       "description": "Get paid to create content for brands with Social Square. Discover UGC campaigns, collaborate with companies, publish",
       "mentions": [
@@ -19,7 +19,7 @@
     {
       "name": "Bengal Reach",
       "url": "https://www.bengalreach.com/",
-      "checkedAt": "2026-10-17T09:26:16.637108+00:00",
+      "checkedAt": "2026-10-17T13:46:11.132466+00:00",
       "title": "bengalReach - Connect Influencers with Brands in Bangladesh",
       "description": "Leading influencer marketing platform in Bangladesh. Connect local influencers with brands for authentic social media campaigns across",
       "mentions": [
@@ -33,7 +33,7 @@
     {
       "name": "Maroon Ltd.",
       "url": "https://www.maroonltd.com/",
-      "checkedAt": "2026-10-17T09:26:17.959786+00:00",
+      "checkedAt": "2026-10-17T13:46:12.691938+00:00",
       "title": "Maroon Limited",
       "description": "A PR and Digital Communication Agency in Dhaka, Bangladesh.",
       "mentions": [
@@ -48,7 +48,7 @@
     {
       "name": "Ngital",
       "url": "https://ngital.com/",
-      "checkedAt": "2026-10-17T09:26:19.896991+00:00",
+      "checkedAt": "2026-10-17T13:46:17.485900+00:00",
       "title": "Ngital — Best Digital Marketing Agency in Dhaka,",
       "description": "Award-winning digital marketing agency in Dhaka, Bangladesh. Expert SEO, Google Ads, Meta Ads & Creative — trusted",
       "mentions": [
@@ -69,7 +69,7 @@
       "name": "Internet use",
       "unit": "% of population",
       "url": "https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=BD",
-      "checkedAt": "2026-10-17T09:26:24.235461+00:00",
+      "checkedAt": "2026-10-17T13:46:22.474287+00:00",
       "status": "ok",
       "value": 53.42171316,
       "year": "2024"
@@ -79,7 +79,7 @@
       "name": "Population",
       "unit": "people",
       "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=BD",
-      "checkedAt": "2026-10-17T09:26:24.303830+00:00",
+      "checkedAt": "2026-10-17T13:46:22.826498+00:00",
       "status": "ok",
       "value": 175686899,
       "year": "2025"
@@ -89,7 +89,7 @@
       "name": "Inflation",
       "unit": "% annual",
       "url": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=BD",
-      "checkedAt": "2026-10-17T09:26:24.499294+00:00",
+      "checkedAt": "2026-10-17T13:46:22.975888+00:00",
       "status": "ok",
       "value": 8.7687628116114,
       "year": "2025"
@@ -161,10 +161,17 @@
     },
     {
       "topic": "games",
-      "title": "Kohr Explores: Portland Retro Gaming Expo powers on - KOIN.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUTZZMnZfbU16ZWM0OURjSEtWcG5lS3ZBLVN1X3dZMWdTT2VmSDFzaUdxYVZKMWRtdTRGRVY2aWZfUUNHclBtNGNsWTRodTFVS3ZaeEJpZkJvcUZYY0V4NDJTQTJHOWQyVW00VTNRVG1SRlVBQzRPcmEzUWczNkpVamN4Qkx0MmdwMU5hYnpVREp1QUppUGhJTA?oc=5",
-      "publishedAt": "Fri, 09 Oct 2026 22:38:29 GMT",
-      "source": "KOIN.com"
+      "title": "Evercade Nexus is a chunky, bold, fun retro gaming handheld, but it’s left me surprisingly conflicted - Stuff",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRDVzZ2xqSjV1MS1GYTRNVFpCRHN2MUlZbDFpLV9WaFh5bkxMemdmNEhmdk5tbnJwcnhJd1U3WHF0TXpLanJIREg3LVV6Ui1iY0dtWmVtY1hMbmtkY3dIaTFRdW1mZUNXNG9JeU0tejlyVnJHU1lhNVByaG5RMWMzYml1dmhhUTBMZWNlbzkxN29MUmxuMHg5YTZGYTg3UEpIaW5ZNm4weVRfVWNDanVkTnE3UzliQnJZRHFONlFzeTlEZnBCYlE?oc=5",
+      "publishedAt": "Thu, 08 Oct 2026 07:00:00 GMT",
+      "source": "Stuff"
+    },
+    {
+      "topic": "agriculture",
+      "title": "Omani Delegation Visits Bangladesh to Assess Potential for Recruiting Bangladeshi Workers in Agriculture and Fisheries Sectors - https://businessinbangladesh.com.bd/",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOZXViWmxnM252MmF0a1VRakpiWktHdXpMYWUwT2xZX09lcGRHWVNLVWoxY3F6ajNsc2F6Si0yVGF2TEJYczdlTnZabWFRT2xwX0hFa3h6Nm96RUZmdDFDNmsxNUI1OXRZOFF4cUhCNVFYS3doOFFWT1Vhb08xUmdCSGVDczhfY3pTUy13NlB5NlZ1cXFmVmVyZjVVZ1lIY3hsa0FhXy1ZX0xZS0dCSFh1Z2lHQy1GSmhfWEJXRmxxS2dzUEg5d1Z6Yl9UN0xWWUQwalNTLUNtY0Vja3EyR1lhY2UwOTRjVGFVU3NwZ1ZiZmJCLWI3MEE?oc=5",
+      "publishedAt": "Wed, 07 Oct 2026 11:31:27 GMT",
+      "source": "https://businessinbangladesh.com.bd/"
     },
     {
       "topic": "agriculture",
@@ -182,13 +189,6 @@
     },
     {
       "topic": "agriculture",
-      "title": "Canada Keen to Support Bangladesh in Energy, Agriculture, and Climate Financing - https://businessinbangladesh.com.bd/",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOa3JnSzI0X3loNlY0ekZCbFJ5bzFRS0FwR0pzb3NaTEpNcWkzNW91LWZVNnNQZmwxXzd1Y0puVWpLeHB6NkZOb1V1bUc4TnRTOWJ3S1VuM3dfWHF6eWVwQkQ0UGdTbVloMGxJRWZtOGxtQ1ZKZkV2RlhkLVppRVFVLXQyb2RtY1BFS2U5emY3STNNUV9rUXVGSmc0cnAzLUc1NmhCYldQTjV0Qmg4ZzFRWGNVUko?oc=5",
-      "publishedAt": "Mon, 12 Oct 2026 07:45:38 GMT",
-      "source": "https://businessinbangladesh.com.bd/"
-    },
-    {
-      "topic": "agriculture",
       "title": "President calls for making agriculture more profitable - Bangladesh Sangbad Sangstha (BSS)",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE13MFNueHdObnJUZjZnc1VOWFJXNUxvQUlyRDhMRUlkVkF5cTl4TWJ1SmxJRzFydUZmSEw5ZEhuamQ2enNhS0xvTFNRNXk4VjRPcEQw?oc=5",
       "publishedAt": "Thu, 15 Oct 2026 13:47:28 GMT",
@@ -196,31 +196,31 @@
     },
     {
       "topic": "agriculture",
-      "title": "Why Bangladesh Needs a Second Generation Research Reform in Agricultur - www.daily-sun.com",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE13OXNSSVRjVXVfMFQ5UGZHQjZ2bmVBSFhGRWNFQV93XzNweGQ5QzVZS1hmckZkckw3dTZBWFc1UEsyVS0wVGU0UEdQbGVsbE5l?oc=5",
-      "publishedAt": "Fri, 25 Sep 2026 07:00:00 GMT",
-      "source": "www.daily-sun.com"
+      "title": "Canada Keen to Support Bangladesh in Energy, Agriculture, and Climate Financing - https://businessinbangladesh.com.bd/",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOa3JnSzI0X3loNlY0ekZCbFJ5bzFRS0FwR0pzb3NaTEpNcWkzNW91LWZVNnNQZmwxXzd1Y0puVWpLeHB6NkZOb1V1bUc4TnRTOWJ3S1VuM3dfWHF6eWVwQkQ0UGdTbVloMGxJRWZtOGxtQ1ZKZkV2RlhkLVppRVFVLXQyb2RtY1BFS2U5emY3STNNUV9rUXVGSmc0cnAzLUc1NmhCYldQTjV0Qmg4ZzFRWGNVUko?oc=5",
+      "publishedAt": "Mon, 12 Oct 2026 07:45:38 GMT",
+      "source": "https://businessinbangladesh.com.bd/"
     }
   ],
   "feedStatus": [
     {
       "topic": "creator",
-      "checkedAt": "2026-10-17T09:26:24.547768+00:00",
+      "checkedAt": "2026-10-17T13:46:23.115826+00:00",
       "status": "ok"
     },
     {
       "topic": "clothing",
-      "checkedAt": "2026-10-17T09:26:25.007456+00:00",
+      "checkedAt": "2026-10-17T13:46:23.717152+00:00",
       "status": "ok"
     },
     {
       "topic": "games",
-      "checkedAt": "2026-10-17T09:26:25.490139+00:00",
+      "checkedAt": "2026-10-17T13:46:24.406157+00:00",
       "status": "ok"
     },
     {
       "topic": "agriculture",
-      "checkedAt": "2026-10-17T09:26:25.964919+00:00",
+      "checkedAt": "2026-10-17T13:46:25.023291+00:00",
       "status": "ok"
     }
   ]
