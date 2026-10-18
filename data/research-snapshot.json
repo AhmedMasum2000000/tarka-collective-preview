@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "checkedAt": "2026-10-17T22:23:21.691246+00:00",
+  "checkedAt": "2026-10-18T01:07:13.273167+00:00",
   "competitors": [
     {
       "name": "Social Square",
       "url": "https://socialsquare.co/",
-      "checkedAt": "2026-10-17T22:23:21.691258+00:00",
+      "checkedAt": "2026-10-18T01:07:13.273182+00:00",
       "title": "Social Square | UGC Marketplace for Creators",
       "description": "Get paid to create content for brands with Social Square. Discover UGC campaigns, collaborate with companies, publish",
       "mentions": [
@@ -19,7 +19,7 @@
     {
       "name": "Bengal Reach",
       "url": "https://www.bengalreach.com/",
-      "checkedAt": "2026-10-17T22:23:23.227683+00:00",
+      "checkedAt": "2026-10-18T01:07:14.605323+00:00",
       "title": "bengalReach - Connect Influencers with Brands in Bangladesh",
       "description": "Leading influencer marketing platform in Bangladesh. Connect local influencers with brands for authentic social media campaigns across",
       "mentions": [
@@ -33,7 +33,7 @@
     {
       "name": "Maroon Ltd.",
       "url": "https://www.maroonltd.com/",
-      "checkedAt": "2026-10-17T22:23:24.982804+00:00",
+      "checkedAt": "2026-10-18T01:07:16.194702+00:00",
       "title": "Maroon Limited",
       "description": "A PR and Digital Communication Agency in Dhaka, Bangladesh.",
       "mentions": [
@@ -48,7 +48,7 @@
     {
       "name": "Ngital",
       "url": "https://ngital.com/",
-      "checkedAt": "2026-10-17T22:23:27.383502+00:00",
+      "checkedAt": "2026-10-18T01:07:18.201526+00:00",
       "title": "Ngital — Best Digital Marketing Agency in Dhaka,",
       "description": "Award-winning digital marketing agency in Dhaka, Bangladesh. Expert SEO, Google Ads, Meta Ads & Creative — trusted",
       "mentions": [
@@ -69,7 +69,7 @@
       "name": "Internet use",
       "unit": "% of population",
       "url": "https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=BD",
-      "checkedAt": "2026-10-17T22:23:32.994118+00:00",
+      "checkedAt": "2026-10-18T01:07:23.018269+00:00",
       "status": "ok",
       "value": 53.42171316,
       "year": "2024"
@@ -79,7 +79,7 @@
       "name": "Population",
       "unit": "people",
       "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=BD",
-      "checkedAt": "2026-10-17T22:23:33.285989+00:00",
+      "checkedAt": "2026-10-18T01:07:23.132246+00:00",
       "status": "ok",
       "value": 175686899,
       "year": "2025"
@@ -89,7 +89,7 @@
       "name": "Inflation",
       "unit": "% annual",
       "url": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=BD",
-      "checkedAt": "2026-10-17T22:23:33.555028+00:00",
+      "checkedAt": "2026-10-18T01:07:23.192364+00:00",
       "status": "ok",
       "value": 8.7687628116114,
       "year": "2025"
@@ -161,10 +161,10 @@
     },
     {
       "topic": "games",
-      "title": "Evercade Nexus is a chunky, bold, fun retro gaming handheld, but it’s left me surprisingly conflicted - Stuff",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRDVzZ2xqSjV1MS1GYTRNVFpCRHN2MUlZbDFpLV9WaFh5bkxMemdmNEhmdk5tbnJwcnhJd1U3WHF0TXpLanJIREg3LVV6Ui1iY0dtWmVtY1hMbmtkY3dIaTFRdW1mZUNXNG9JeU0tejlyVnJHU1lhNVByaG5RMWMzYml1dmhhUTBMZWNlbzkxN29MUmxuMHg5YTZGYTg3UEpIaW5ZNm4weVRfVWNDanVkTnE3UzliQnJZRHFONlFzeTlEZnBCYlE?oc=5",
-      "publishedAt": "Thu, 08 Oct 2026 07:00:00 GMT",
-      "source": "Stuff"
+      "title": "Nintendo's Latin America VP says there are no plans to ditch physical games - GamesIndustry.biz",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeDZ4YUhGb3hzYjkybXkyRDhNaEZCS3ZLMlhpQ1FPTzhBV0NYdDAta3ZZOHZleVNlUmlmQlVCd01sbTZKd0VSUTNrZlN1MjdYNDRJZl9KMjRVZmZSV29EYUMtY05uYUNqVHlVLURfcFV6aDVDQ1d4NURiOUJWeFF3UmduM1FHenlEazlDaHRlN2w4SmJIaHdRRE1QY2V0M2VFVVY1aW9POA?oc=5",
+      "publishedAt": "Mon, 12 Oct 2026 17:58:32 GMT",
+      "source": "GamesIndustry.biz"
     },
     {
       "topic": "agriculture",
@@ -177,7 +177,7 @@
       "topic": "agriculture",
       "title": "ADB to lend Bangladesh $100m to commercialise agriculture - The Financial Express",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQ2JfMzQ0MnZ0WXJNLU5yRWNINUFDMHBidGhXWmt3eU1kQ0lLc0kxRjEyNkJLZ0hwR0JzdkcwZkNDaDBoTmVtU2FFVURzdXE1YjVPVkFRemV3U0tDS2ZHVGFZeTRKRnhzWk1iNUg1eExvU3pNai1BU05XejJuNjNpSGk1VUR3WVgzeVJYT3BxbGVmdjZ4UFhNQ0I2QnEzdw?oc=5",
-      "publishedAt": "Sat, 03 Oct 2026 02:52:53 GMT",
+      "publishedAt": "Sat, 03 Oct 2026 07:00:00 GMT",
       "source": "The Financial Express"
     },
     {
@@ -205,22 +205,22 @@
   "feedStatus": [
     {
       "topic": "creator",
-      "checkedAt": "2026-10-17T22:23:33.885607+00:00",
+      "checkedAt": "2026-10-18T01:07:23.275424+00:00",
       "status": "ok"
     },
     {
       "topic": "clothing",
-      "checkedAt": "2026-10-17T22:23:34.345790+00:00",
+      "checkedAt": "2026-10-18T01:07:23.824011+00:00",
       "status": "ok"
     },
     {
       "topic": "games",
-      "checkedAt": "2026-10-17T22:23:34.870666+00:00",
+      "checkedAt": "2026-10-18T01:07:24.392721+00:00",
       "status": "ok"
     },
     {
       "topic": "agriculture",
-      "checkedAt": "2026-10-17T22:23:35.353644+00:00",
+      "checkedAt": "2026-10-18T01:07:24.894337+00:00",
       "status": "ok"
     }
   ]
