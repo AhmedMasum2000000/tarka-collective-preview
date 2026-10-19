@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "checkedAt": "2026-10-19T17:30:43.169610+00:00",
+  "checkedAt": "2026-10-19T22:24:16.482817+00:00",
   "competitors": [
     {
       "name": "Social Square",
       "url": "https://socialsquare.co/",
-      "checkedAt": "2026-10-19T17:30:43.169622+00:00",
+      "checkedAt": "2026-10-19T22:24:16.482832+00:00",
       "title": "Social Square | UGC Marketplace for Creators",
       "description": "Get paid to create content for brands with Social Square. Discover UGC campaigns, collaborate with companies, publish",
       "mentions": [
@@ -19,7 +19,7 @@
     {
       "name": "Bengal Reach",
       "url": "https://www.bengalreach.com/",
-      "checkedAt": "2026-10-19T17:30:44.764388+00:00",
+      "checkedAt": "2026-10-19T22:24:18.022983+00:00",
       "title": "bengalReach - Connect Influencers with Brands in Bangladesh",
       "description": "Leading influencer marketing platform in Bangladesh. Connect local influencers with brands for authentic social media campaigns across",
       "mentions": [
@@ -33,7 +33,7 @@
     {
       "name": "Maroon Ltd.",
       "url": "https://www.maroonltd.com/",
-      "checkedAt": "2026-10-19T17:30:46.299349+00:00",
+      "checkedAt": "2026-10-19T22:24:19.488751+00:00",
       "title": "Maroon Limited",
       "description": "A PR and Digital Communication Agency in Dhaka, Bangladesh.",
       "mentions": [
@@ -48,7 +48,7 @@
     {
       "name": "Ngital",
       "url": "https://ngital.com/",
-      "checkedAt": "2026-10-19T17:30:51.104072+00:00",
+      "checkedAt": "2026-10-19T22:24:24.048959+00:00",
       "title": "Ngital — Best Digital Marketing Agency in Dhaka,",
       "description": "Award-winning digital marketing agency in Dhaka, Bangladesh. Expert SEO, Google Ads, Meta Ads & Creative — trusted",
       "mentions": [
@@ -69,7 +69,7 @@
       "name": "Internet use",
       "unit": "% of population",
       "url": "https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=BD",
-      "checkedAt": "2026-10-19T17:30:56.535932+00:00",
+      "checkedAt": "2026-10-19T22:24:28.425221+00:00",
       "status": "ok",
       "value": 53.42171316,
       "year": "2024"
@@ -79,7 +79,7 @@
       "name": "Population",
       "unit": "people",
       "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=BD",
-      "checkedAt": "2026-10-19T17:30:56.739762+00:00",
+      "checkedAt": "2026-10-19T22:24:28.564863+00:00",
       "status": "ok",
       "value": 175686899,
       "year": "2025"
@@ -89,7 +89,7 @@
       "name": "Inflation",
       "unit": "% annual",
       "url": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=BD",
-      "checkedAt": "2026-10-19T17:30:57.003950+00:00",
+      "checkedAt": "2026-10-19T22:24:28.677426+00:00",
       "status": "ok",
       "value": 8.7687628116114,
       "year": "2025"
@@ -119,9 +119,9 @@
     },
     {
       "topic": "clothing",
-      "title": "Adaptive fashion: Bangladesh makes clothes for the world, but not for everyone - The Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObTB0SEptUi1JeGl0c2VDVzdiVE42VDE3c1o0WGVKWHdfLUc3NjNpRjZOS1c0V25ycEVlSFprQm1NcU9XZms0VzVHaUQ3Wno5ZEo0UzRMQ1lSSVVfbF90a19DZk5pOENyTXR3b1Yyc28zVmQ0QkIxT18wV0JNeWd1VVVoeGhNdWhDQUhwa0pUS2Noa0tBZjdaSV9LaUxnQmJPNkl0RXd0S1NtMWUtcW0w?oc=5",
-      "publishedAt": "Fri, 16 Oct 2026 13:50:00 GMT",
+      "title": "What does StanChart's retail banking exit mean for Bangladesh? - The Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUnFfSXFUanhRQ0VpbGI3MHVqNjJZZXlHd1hYcFI5NTQ2ZXBUb2FOSkE3VHVXZWN5NUNDdzl1d2JlX3lBWVNvYVRqZjByZGxSaEFQSTNuRXZxM01FYkZPbGp4NUpER2Z5ZWhJNHRRM3B3Z0JjWnlMS0xobkdZLVRPNDhqdDBuMmdjb0MwMWlaUEh2UGZUWUxKMk9YZ1FwQ0V2ekp5NmpzNXVhS2c?oc=5",
+      "publishedAt": "Mon, 21 Sep 2026 07:00:00 GMT",
       "source": "The Business Standard"
     },
     {
@@ -147,13 +147,6 @@
     },
     {
       "topic": "games",
-      "title": "Portland Retro Gaming Expo starts Friday - KPTV",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRWNEUWVQRV90S2V1RzB2UThGQjBvdGU2OTZ0bWdNVklUcWlFWHQwM25KZVF4RTlHMDJyM2M0TXhmazJ4RDZvTWg2WkVrc1JDaV93UnVNYk1xOVhvRWtsQngtdVBNQU5PQzhSSFZMb2NWazdWekZ6YWFkNTZOaURqV0ZWcTNyQQ?oc=5",
-      "publishedAt": "Fri, 09 Oct 2026 06:03:00 GMT",
-      "source": "KPTV"
-    },
-    {
-      "topic": "games",
       "title": "Portland Retro Gaming Expo marks 20 years with games, competitions and nostalgia - KGW",
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPNjcyc2JaMnhiQ1k2T1g5c3BxVGN1WUhqTjViaUVGM0l6VGFtSFhkYWg1Q3BVLVBXVkw1RG1PTENpMzhMYVFNV3RLazJ0dTA0bkIwYXhHTWFxQzdfbEh3TktVdV9Db2NTWk1TN2NDdDRoRklOdVJhSWtWSHhhQ2hQeGJrLTBxZEJ2NnRsZjlINjBUeU5HNlkzc19vbjlQNE5JaFVteW9ibC0waWcycVhBa0Rwc3lFeE9CbzcxMkRqR3E1d3I1a0lqclllQndqcWNQdm9QQURPcG9kMldwSmZOMkFwb3hhNTlGYzEyTFZWOEpYT2hPT245ZA?oc=5",
       "publishedAt": "Fri, 09 Oct 2026 07:00:00 GMT",
@@ -161,17 +154,24 @@
     },
     {
       "topic": "games",
-      "title": "Xbox is hiring a \"Physical Games Strategist\" — will Helix have discs? - Windows Central",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPeGJyUEJTR2ZUMUVESWlCVlZEQ0VpbWFqV05pbnZqeml3MFRZUnFmOWRraEN4cXNwQjJabGE5WVZ0NFkwNHpkaFB0SE5VOUpqbG9WYXZhcjNtdjhGX3pLc0ZFX0VjT0V5eG1NekU1UEdhZUsyR1lZMnB4dmZnNVdRX2pIdnJGMXoyVXNreFBVYmJReHJCdUdIRkVxYnhvRDV3OE5sdkphelVuWnhRd2dyUkpyc3ZOOURlRlM4SFNkRS04dXdaeUpjVG9kRVhpNm5PSGJGaFdZbXAxa3Z6ZkE?oc=5",
-      "publishedAt": "Sun, 18 Oct 2026 10:27:09 GMT",
-      "source": "Windows Central"
-    },
-    {
-      "topic": "games",
       "title": "You Should Build A Retro Gaming PC Instead Of Buying Another Console - BGR",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVnhlUWVmMGxwWkRPS1dSUVI5RWJuRk9vNzBfU3JLbnpzX0xqcmVJX054S3UtQzQtREk3ZUNCZ3RCcVlmTTFpeDJwWGp6NmpfTFRrY1VpSy0wNldONDh2V2s5NjFERWpiOTBLWVBSS0g0RWdfQnlNZnJzRUw2bUplZldVaVBwT2ZrRWtNQg?oc=5",
       "publishedAt": "Wed, 14 Oct 2026 22:17:00 GMT",
       "source": "BGR"
+    },
+    {
+      "topic": "games",
+      "title": "Kohr Explores: Portland Retro Gaming Expo powers on - KOIN.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUTZZMnZfbU16ZWM0OURjSEtWcG5lS3ZBLVN1X3dZMWdTT2VmSDFzaUdxYVZKMWRtdTRGRVY2aWZfUUNHclBtNGNsWTRodTFVS3ZaeEJpZkJvcUZYY0V4NDJTQTJHOWQyVW00VTNRVG1SRlVBQzRPcmEzUWczNkpVamN4Qkx0MmdwMU5hYnpVREp1QUppUGhJTA?oc=5",
+      "publishedAt": "Fri, 09 Oct 2026 22:38:29 GMT",
+      "source": "KOIN.com"
+    },
+    {
+      "topic": "games",
+      "title": "Nintendo's Latin America VP says there are no plans to ditch physical games - GamesIndustry.biz",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeDZ4YUhGb3hzYjkybXkyRDhNaEZCS3ZLMlhpQ1FPTzhBV0NYdDAta3ZZOHZleVNlUmlmQlVCd01sbTZKd0VSUTNrZlN1MjdYNDRJZl9KMjRVZmZSV29EYUMtY05uYUNqVHlVLURfcFV6aDVDQ1d4NURiOUJWeFF3UmduM1FHenlEazlDaHRlN2w4SmJIaHdRRE1QY2V0M2VFVVY1aW9POA?oc=5",
+      "publishedAt": "Mon, 12 Oct 2026 17:58:32 GMT",
+      "source": "GamesIndustry.biz"
     },
     {
       "topic": "agriculture",
@@ -212,22 +212,22 @@
   "feedStatus": [
     {
       "topic": "creator",
-      "checkedAt": "2026-10-19T17:30:57.081905+00:00",
+      "checkedAt": "2026-10-19T22:24:28.741374+00:00",
       "status": "ok"
     },
     {
       "topic": "clothing",
-      "checkedAt": "2026-10-19T17:30:57.619600+00:00",
+      "checkedAt": "2026-10-19T22:24:29.348489+00:00",
       "status": "ok"
     },
     {
       "topic": "games",
-      "checkedAt": "2026-10-19T17:30:58.381695+00:00",
+      "checkedAt": "2026-10-19T22:24:29.911959+00:00",
       "status": "ok"
     },
     {
       "topic": "agriculture",
-      "checkedAt": "2026-10-19T17:30:58.843307+00:00",
+      "checkedAt": "2026-10-19T22:24:30.506210+00:00",
       "status": "ok"
     }
   ]
