@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "checkedAt": "2026-10-19T22:24:16.482817+00:00",
+  "checkedAt": "2026-10-20T01:51:51.015149+00:00",
   "competitors": [
     {
       "name": "Social Square",
       "url": "https://socialsquare.co/",
-      "checkedAt": "2026-10-19T22:24:16.482832+00:00",
+      "checkedAt": "2026-10-20T01:51:51.015164+00:00",
       "title": "Social Square | UGC Marketplace for Creators",
       "description": "Get paid to create content for brands with Social Square. Discover UGC campaigns, collaborate with companies, publish",
       "mentions": [
@@ -19,7 +19,7 @@
     {
       "name": "Bengal Reach",
       "url": "https://www.bengalreach.com/",
-      "checkedAt": "2026-10-19T22:24:18.022983+00:00",
+      "checkedAt": "2026-10-20T01:51:52.756270+00:00",
       "title": "bengalReach - Connect Influencers with Brands in Bangladesh",
       "description": "Leading influencer marketing platform in Bangladesh. Connect local influencers with brands for authentic social media campaigns across",
       "mentions": [
@@ -33,7 +33,7 @@
     {
       "name": "Maroon Ltd.",
       "url": "https://www.maroonltd.com/",
-      "checkedAt": "2026-10-19T22:24:19.488751+00:00",
+      "checkedAt": "2026-10-20T01:51:54.604267+00:00",
       "title": "Maroon Limited",
       "description": "A PR and Digital Communication Agency in Dhaka, Bangladesh.",
       "mentions": [
@@ -48,7 +48,7 @@
     {
       "name": "Ngital",
       "url": "https://ngital.com/",
-      "checkedAt": "2026-10-19T22:24:24.048959+00:00",
+      "checkedAt": "2026-10-20T01:51:59.940121+00:00",
       "title": "Ngital — Best Digital Marketing Agency in Dhaka,",
       "description": "Award-winning digital marketing agency in Dhaka, Bangladesh. Expert SEO, Google Ads, Meta Ads & Creative — trusted",
       "mentions": [
@@ -69,7 +69,7 @@
       "name": "Internet use",
       "unit": "% of population",
       "url": "https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=BD",
-      "checkedAt": "2026-10-19T22:24:28.425221+00:00",
+      "checkedAt": "2026-10-20T01:52:05.010312+00:00",
       "status": "ok",
       "value": 53.42171316,
       "year": "2024"
@@ -79,7 +79,7 @@
       "name": "Population",
       "unit": "people",
       "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=BD",
-      "checkedAt": "2026-10-19T22:24:28.564863+00:00",
+      "checkedAt": "2026-10-20T01:52:05.209696+00:00",
       "status": "ok",
       "value": 175686899,
       "year": "2025"
@@ -89,7 +89,7 @@
       "name": "Inflation",
       "unit": "% annual",
       "url": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=BD",
-      "checkedAt": "2026-10-19T22:24:28.677426+00:00",
+      "checkedAt": "2026-10-20T01:52:05.341879+00:00",
       "status": "ok",
       "value": 8.7687628116114,
       "year": "2025"
@@ -147,6 +147,13 @@
     },
     {
       "topic": "games",
+      "title": "Portland Retro Gaming Expo starts Friday - KPTV",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRWNEUWVQRV90S2V1RzB2UThGQjBvdGU2OTZ0bWdNVklUcWlFWHQwM25KZVF4RTlHMDJyM2M0TXhmazJ4RDZvTWg2WkVrc1JDaV93UnVNYk1xOVhvRWtsQngtdVBNQU5PQzhSSFZMb2NWazdWekZ6YWFkNTZOaURqV0ZWcTNyQQ?oc=5",
+      "publishedAt": "Fri, 09 Oct 2026 06:03:00 GMT",
+      "source": "KPTV"
+    },
+    {
+      "topic": "games",
       "title": "Portland Retro Gaming Expo marks 20 years with games, competitions and nostalgia - KGW",
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPNjcyc2JaMnhiQ1k2T1g5c3BxVGN1WUhqTjViaUVGM0l6VGFtSFhkYWg1Q3BVLVBXVkw1RG1PTENpMzhMYVFNV3RLazJ0dTA0bkIwYXhHTWFxQzdfbEh3TktVdV9Db2NTWk1TN2NDdDRoRklOdVJhSWtWSHhhQ2hQeGJrLTBxZEJ2NnRsZjlINjBUeU5HNlkzc19vbjlQNE5JaFVteW9ibC0waWcycVhBa0Rwc3lFeE9CbzcxMkRqR3E1d3I1a0lqclllQndqcWNQdm9QQURPcG9kMldwSmZOMkFwb3hhNTlGYzEyTFZWOEpYT2hPT245ZA?oc=5",
       "publishedAt": "Fri, 09 Oct 2026 07:00:00 GMT",
@@ -165,13 +172,6 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUTZZMnZfbU16ZWM0OURjSEtWcG5lS3ZBLVN1X3dZMWdTT2VmSDFzaUdxYVZKMWRtdTRGRVY2aWZfUUNHclBtNGNsWTRodTFVS3ZaeEJpZkJvcUZYY0V4NDJTQTJHOWQyVW00VTNRVG1SRlVBQzRPcmEzUWczNkpVamN4Qkx0MmdwMU5hYnpVREp1QUppUGhJTA?oc=5",
       "publishedAt": "Fri, 09 Oct 2026 22:38:29 GMT",
       "source": "KOIN.com"
-    },
-    {
-      "topic": "games",
-      "title": "Nintendo's Latin America VP says there are no plans to ditch physical games - GamesIndustry.biz",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeDZ4YUhGb3hzYjkybXkyRDhNaEZCS3ZLMlhpQ1FPTzhBV0NYdDAta3ZZOHZleVNlUmlmQlVCd01sbTZKd0VSUTNrZlN1MjdYNDRJZl9KMjRVZmZSV29EYUMtY05uYUNqVHlVLURfcFV6aDVDQ1d4NURiOUJWeFF3UmduM1FHenlEazlDaHRlN2w4SmJIaHdRRE1QY2V0M2VFVVY1aW9POA?oc=5",
-      "publishedAt": "Mon, 12 Oct 2026 17:58:32 GMT",
-      "source": "GamesIndustry.biz"
     },
     {
       "topic": "agriculture",
@@ -212,22 +212,22 @@
   "feedStatus": [
     {
       "topic": "creator",
-      "checkedAt": "2026-10-19T22:24:28.741374+00:00",
+      "checkedAt": "2026-10-20T01:52:05.451861+00:00",
       "status": "ok"
     },
     {
       "topic": "clothing",
-      "checkedAt": "2026-10-19T22:24:29.348489+00:00",
+      "checkedAt": "2026-10-20T01:52:06.055069+00:00",
       "status": "ok"
     },
     {
       "topic": "games",
-      "checkedAt": "2026-10-19T22:24:29.911959+00:00",
+      "checkedAt": "2026-10-20T01:52:06.754847+00:00",
       "status": "ok"
     },
     {
       "topic": "agriculture",
-      "checkedAt": "2026-10-19T22:24:30.506210+00:00",
+      "checkedAt": "2026-10-20T01:52:07.366305+00:00",
       "status": "ok"
     }
   ]
