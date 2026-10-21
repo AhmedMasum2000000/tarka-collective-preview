@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "checkedAt": "2026-10-21T01:38:28.704130+00:00",
+  "checkedAt": "2026-10-21T07:43:05.031651+00:00",
   "competitors": [
     {
       "name": "Social Square",
       "url": "https://socialsquare.co/",
-      "checkedAt": "2026-10-21T01:38:28.704148+00:00",
+      "checkedAt": "2026-10-21T07:43:05.031665+00:00",
       "title": "Social Square | UGC Marketplace for Creators",
       "description": "Get paid to create content for brands with Social Square. Discover UGC campaigns, collaborate with companies, publish",
       "mentions": [
@@ -19,7 +19,7 @@
     {
       "name": "Bengal Reach",
       "url": "https://www.bengalreach.com/",
-      "checkedAt": "2026-10-21T01:38:30.450609+00:00",
+      "checkedAt": "2026-10-21T07:43:06.480753+00:00",
       "title": "bengalReach - Connect Influencers with Brands in Bangladesh",
       "description": "Leading influencer marketing platform in Bangladesh. Connect local influencers with brands for authentic social media campaigns across",
       "mentions": [
@@ -33,7 +33,7 @@
     {
       "name": "Maroon Ltd.",
       "url": "https://www.maroonltd.com/",
-      "checkedAt": "2026-10-21T01:38:32.241822+00:00",
+      "checkedAt": "2026-10-21T07:43:07.828872+00:00",
       "title": "Maroon Limited",
       "description": "A PR and Digital Communication Agency in Dhaka, Bangladesh.",
       "mentions": [
@@ -48,7 +48,7 @@
     {
       "name": "Ngital",
       "url": "https://ngital.com/",
-      "checkedAt": "2026-10-21T01:38:37.426036+00:00",
+      "checkedAt": "2026-10-21T07:43:10.974416+00:00",
       "title": "Ngital — Best Digital Marketing Agency in Dhaka,",
       "description": "Award-winning digital marketing agency in Dhaka, Bangladesh. Expert SEO, Google Ads, Meta Ads & Creative — trusted",
       "mentions": [
@@ -68,7 +68,7 @@
       "name": "Internet use",
       "unit": "% of population",
       "url": "https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=BD",
-      "checkedAt": "2026-10-21T01:38:41.531922+00:00",
+      "checkedAt": "2026-10-21T07:43:14.613991+00:00",
       "status": "ok",
       "value": 53.42171316,
       "year": "2024"
@@ -78,7 +78,7 @@
       "name": "Population",
       "unit": "people",
       "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=BD",
-      "checkedAt": "2026-10-21T01:38:41.814781+00:00",
+      "checkedAt": "2026-10-21T07:43:14.799484+00:00",
       "status": "ok",
       "value": 175686899,
       "year": "2025"
@@ -88,7 +88,7 @@
       "name": "Inflation",
       "unit": "% annual",
       "url": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=BD",
-      "checkedAt": "2026-10-21T01:38:41.966111+00:00",
+      "checkedAt": "2026-10-21T07:43:14.847702+00:00",
       "status": "ok",
       "value": 8.7687628116114,
       "year": "2025"
@@ -108,13 +108,6 @@
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE92TmpHbGY5Mm94UlFzcFl2RDJLUzBCNWtUR29fNTlvdUg3Sk0yX3lOUS1Pb0l2UFVuSVRvMmprc3dSTHIwTU42c3lMak9JSlk4cmJqTy04dnhJWnFxZ05lMC1nUEJJY2VlWkFnTzFud1hrT243SlcxZzlR?oc=5",
       "publishedAt": "Thu, 08 Oct 2026 07:00:00 GMT",
       "source": "TheBanker.com"
-    },
-    {
-      "topic": "clothing",
-      "title": "The Commercial Case for Cooling Bangladesh’s Garment Factories - The Business of Fashion",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOcmswNGpYZHoxS3FRcU9iU0w0ckVqN3U2S2RJN2dmdGZJUlBRQnhYZEFZNmlfSndWNGdzUUxwaGNpT1pQTDZTSnFucmxncHBneHZocWRGR2dySUJOeEZOSVpmZ1NrblJlWHliaDBMaWN5MFhwWVhoODVDS1o3NFZTV2NzbUhFVDhjU0QxZm1jSDItYXdSMGJfOXhUUW1LSGtIU3pHcWVaZHVoT1VRSERoX0ktbDhxdVl6V0U0Q2YyMDIzWDQ2b2F5ejRTcVc?oc=5",
-      "publishedAt": "Mon, 21 Sep 2026 07:00:00 GMT",
-      "source": "The Business of Fashion"
     },
     {
       "topic": "clothing",
@@ -138,25 +131,18 @@
       "source": "Fibre2Fashion"
     },
     {
+      "topic": "clothing",
+      "title": "Bangladesh urges higher orange imports as retail prices rise - FreshPlaza",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONFFJYUVzZllsRll5aXU5eWxEaV9MdThIUFYxNndSdE14VTJ1UWQwSGpxc0RmMWtIMTJRbk50S0JtMGVmYWs1ZUZIbEJVUkl0eXlpVEV5NTJieUo5eDZoUjVRWkFsNGhaelI4TVlBM2pkTlhSbi1XTHJUSEFFdWxxenZOcWc5YVF4QzUxaHFvWUUzZ2RLRTlYRWctWllqc3JaYkRBSlhKamN1WUY0VXc?oc=5",
+      "publishedAt": "Mon, 05 Oct 2026 07:00:00 GMT",
+      "source": "FreshPlaza"
+    },
+    {
       "topic": "games",
       "title": "Introducing the Raspberry Pi Guide to Retro Gaming - Raspberry Pi",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdjZBNnpWN1ZUcGNuNjQxY3ptbU5WVFRYNkdOeG8xdElyVzlHZFZEdGh1SGdOT2xFX05sc191M21xTG1kU3FfdnJzWFpoQWxFR1BIRVE3bU1SNW9UNkhjekt2ZjlhUWtuS0RPd3MzaGtEWDdFNlNvNS1ZOXRoSlh2RkdLUktUS3pzam1FMA?oc=5",
       "publishedAt": "Tue, 20 Oct 2026 12:50:42 GMT",
       "source": "Raspberry Pi"
-    },
-    {
-      "topic": "games",
-      "title": "Kirk Ferentz responds to fans using term 'Iowaed' in physical games: 'We're not in the entertainment business' - On3",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMmU5VGEwSzg3ZlpKRWxCdmZMZW42NTBBV0VRNlBsSlJJMkJ1UnB0MnlwRTFPWFlhY3Z0WDkxa2dDQlFOakp5QnMzN3paLXNrSlpTbGtpUVg5blQ1ZWRkNmI4WklIdnozSGJUUkpmV1p5WFZCTXVETUw0VzlwNUNtR2FPY1RxeXNqRTh1b01ubnJiWGxkekgta19HbzNZTDRNeUJoRUlaZUlYT1Rrcnp1ZVg0ai0xYnhyR0dv?oc=5",
-      "publishedAt": "Tue, 29 Sep 2026 07:00:00 GMT",
-      "source": "On3"
-    },
-    {
-      "topic": "games",
-      "title": "Portland Retro Gaming Expo starts Friday - KPTV",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRWNEUWVQRV90S2V1RzB2UThGQjBvdGU2OTZ0bWdNVklUcWlFWHQwM25KZVF4RTlHMDJyM2M0TXhmazJ4RDZvTWg2WkVrc1JDaV93UnVNYk1xOVhvRWtsQngtdVBNQU5PQzhSSFZMb2NWazdWekZ6YWFkNTZOaURqV0ZWcTNyQQ?oc=5",
-      "publishedAt": "Thu, 08 Oct 2026 07:00:00 GMT",
-      "source": "KPTV"
     },
     {
       "topic": "games",
@@ -167,10 +153,24 @@
     },
     {
       "topic": "games",
-      "title": "Ken Kutaragi ‘understands’ why PlayStation fans don’t want to give up physical games - Video Games Chronicle",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOU2Z1WU5JbUlPWEZCemhhZ0NTVE03S3N2cElTYmEweU5JY1BKMGszaGhoWjM1aUJkaTNrbXJ5VXh1dzN4MHM4MTVTM3dnaXFxNmJYSGthSE5DMDZXcWtpWTNkRzRPNnJGU3NHWjd2QXJnWHI1VnVlT19YbHFhZFRSUG9LQ1JtRnZWZG1mTUN3Q1dyWnBCQVNlQ2R5LU5rd2JEOVhjTlZaUzhfbUZXYjMwb2JRcGJicnk1OWhVYlJqY3U?oc=5",
-      "publishedAt": "Fri, 16 Oct 2026 11:59:45 GMT",
-      "source": "Video Games Chronicle"
+      "title": "Portland Retro Gaming Expo starts Friday - KPTV",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRWNEUWVQRV90S2V1RzB2UThGQjBvdGU2OTZ0bWdNVklUcWlFWHQwM25KZVF4RTlHMDJyM2M0TXhmazJ4RDZvTWg2WkVrc1JDaV93UnVNYk1xOVhvRWtsQngtdVBNQU5PQzhSSFZMb2NWazdWekZ6YWFkNTZOaURqV0ZWcTNyQQ?oc=5",
+      "publishedAt": "Thu, 08 Oct 2026 07:00:00 GMT",
+      "source": "KPTV"
+    },
+    {
+      "topic": "games",
+      "title": "You Should Build A Retro Gaming PC Instead Of Buying Another Console - BGR",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVnhlUWVmMGxwWkRPS1dSUVI5RWJuRk9vNzBfU3JLbnpzX0xqcmVJX054S3UtQzQtREk3ZUNCZ3RCcVlmTTFpeDJwWGp6NmpfTFRrY1VpSy0wNldONDh2V2s5NjFERWpiOTBLWVBSS0g0RWdfQnlNZnJzRUw2bUplZldVaVBwT2ZrRWtNQg?oc=5",
+      "publishedAt": "Wed, 14 Oct 2026 22:17:00 GMT",
+      "source": "BGR"
+    },
+    {
+      "topic": "games",
+      "title": "Kohr Explores: Portland Retro Gaming Expo powers on - KOIN.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUTZZMnZfbU16ZWM0OURjSEtWcG5lS3ZBLVN1X3dZMWdTT2VmSDFzaUdxYVZKMWRtdTRGRVY2aWZfUUNHclBtNGNsWTRodTFVS3ZaeEJpZkJvcUZYY0V4NDJTQTJHOWQyVW00VTNRVG1SRlVBQzRPcmEzUWczNkpVamN4Qkx0MmdwMU5hYnpVREp1QUppUGhJTA?oc=5",
+      "publishedAt": "Fri, 09 Oct 2026 22:38:29 GMT",
+      "source": "KOIN.com"
     },
     {
       "topic": "agriculture",
@@ -211,22 +211,22 @@
   "feedStatus": [
     {
       "topic": "creator",
-      "checkedAt": "2026-10-21T01:38:42.170983+00:00",
+      "checkedAt": "2026-10-21T07:43:14.894075+00:00",
       "status": "ok"
     },
     {
       "topic": "clothing",
-      "checkedAt": "2026-10-21T01:38:42.817935+00:00",
+      "checkedAt": "2026-10-21T07:43:15.276626+00:00",
       "status": "ok"
     },
     {
       "topic": "games",
-      "checkedAt": "2026-10-21T01:38:43.378866+00:00",
+      "checkedAt": "2026-10-21T07:43:15.793525+00:00",
       "status": "ok"
     },
     {
       "topic": "agriculture",
-      "checkedAt": "2026-10-21T01:38:43.928149+00:00",
+      "checkedAt": "2026-10-21T07:43:16.264710+00:00",
       "status": "ok"
     }
   ]
