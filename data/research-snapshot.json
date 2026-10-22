@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "checkedAt": "2026-10-22T13:50:16.526118+00:00",
+  "checkedAt": "2026-10-22T18:34:39.289653+00:00",
   "competitors": [
     {
       "name": "Social Square",
       "url": "https://socialsquare.co/",
-      "checkedAt": "2026-10-22T13:50:16.526145+00:00",
+      "checkedAt": "2026-10-22T18:34:39.289671+00:00",
       "title": "Social Square | UGC Marketplace for Creators",
       "description": "Get paid to create content for brands with Social Square. Discover UGC campaigns, collaborate with companies, publish",
       "mentions": [
@@ -19,7 +19,7 @@
     {
       "name": "Bengal Reach",
       "url": "https://www.bengalreach.com/",
-      "checkedAt": "2026-10-22T13:50:18.241396+00:00",
+      "checkedAt": "2026-10-22T18:34:41.578386+00:00",
       "title": "bengalReach - Connect Influencers with Brands in Bangladesh",
       "description": "Leading influencer marketing platform in Bangladesh. Connect local influencers with brands for authentic social media campaigns across",
       "mentions": [
@@ -33,7 +33,7 @@
     {
       "name": "Maroon Ltd.",
       "url": "https://www.maroonltd.com/",
-      "checkedAt": "2026-10-22T13:50:19.628578+00:00",
+      "checkedAt": "2026-10-22T18:34:43.411277+00:00",
       "title": "Maroon Limited",
       "description": "A PR and Digital Communication Agency in Dhaka, Bangladesh.",
       "mentions": [
@@ -48,7 +48,7 @@
     {
       "name": "Ngital",
       "url": "https://ngital.com/",
-      "checkedAt": "2026-10-22T13:50:24.366107+00:00",
+      "checkedAt": "2026-10-22T18:34:48.241140+00:00",
       "title": "Ngital — Best Digital Marketing Agency in Dhaka,",
       "description": "Award-winning digital marketing agency in Dhaka, Bangladesh. Expert SEO, Google Ads, Meta Ads & Creative — trusted",
       "mentions": [
@@ -68,7 +68,7 @@
       "name": "Internet use",
       "unit": "% of population",
       "url": "https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=BD",
-      "checkedAt": "2026-10-22T13:50:29.583452+00:00",
+      "checkedAt": "2026-10-22T18:34:53.316419+00:00",
       "status": "ok",
       "value": 53.42171316,
       "year": "2024"
@@ -78,7 +78,7 @@
       "name": "Population",
       "unit": "people",
       "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=BD",
-      "checkedAt": "2026-10-22T13:50:29.874354+00:00",
+      "checkedAt": "2026-10-22T18:34:53.494578+00:00",
       "status": "ok",
       "value": 175686899,
       "year": "2025"
@@ -88,7 +88,7 @@
       "name": "Inflation",
       "unit": "% annual",
       "url": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=BD",
-      "checkedAt": "2026-10-22T13:50:30.000612+00:00",
+      "checkedAt": "2026-10-22T18:34:53.627944+00:00",
       "status": "ok",
       "value": 8.7687628116114,
       "year": "2025"
@@ -202,31 +202,31 @@
     },
     {
       "topic": "agriculture",
-      "title": "Maldives Sees Potential to Expand Tuna and Fisheries Products in Bangladesh: Maldivian High Commissioner Shiuneen Rasheed - https://businessinbangladesh.com.bd/",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOY3kwSFQ2X25vQmJjbGtQbGRUcEx5b2FzbUwxMDZlNDhGY0p6b0hPU0NzOVlXUDZva2lvUGM4N3NJUzdIWkpxXzVnV2lEUXR2OERTakdyVW95Q1cxa3NRUnR3MXFMTTlWeVhZQUZkRFlxWTJxV25UUmFRWER1S0JZZndsSEhzeG1PX2Y0VmVYTjNUQkhwbGFlOFdMSWlxUkh0QTJIcG84SThoYXBMczhBc0hSWGNRaC1FZnlNMzk5RVpiMzg0RXFpUmtsakdmMlpjSzRTaG41VHZwcWJleG5oQkZFMlFBMl84OWFxXzJ3?oc=5",
-      "publishedAt": "Wed, 07 Oct 2026 05:32:24 GMT",
-      "source": "https://businessinbangladesh.com.bd/"
+      "title": "Bangladesh, Algeria seek broader cooperation in energy, agriculture, textiles - Dhaka Tribune",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPa0N5NnZfSzRscFV1NEVVanhrNEVzeUUxalJVdGNwVTg1b1hIVWtycHRHeDRWcFdPU0ZsVFlmY05NMEg5c2pVMjFVaUJPTFA3WXc3YkxxdVBVWEtPUGdqNE42aVRMQ0dEVHNHZHo2NU5hTlJhYTROV1dZYUI5bjVWRXVJdWdldk9TanoxUFhTaEI5YXI4N1NGVnl2X2xOM2RvbllrMDEyeTFrNWViaGfSAbMBQVVfeXFMTVlIYk01N1phN3pmS19MNEI1ZGJrUnhrSWktSGJKR2JoOU5KcGVvTEFkWWRLdkFEdnhrUXBkVUNMSFBmdTBXaHZ2SHJpODJ6NXFQQkt5bE1CbllucU02UUpyQ0xsS1M2UldyQ1ZMaXpyaUFMRWNFZjlxRFY1RzJnY3RvSFhoS3lYZDJJcEdhTkJVTUl5TDZSRzEzbW9MakdtNmt0WDcwcjF2NzE5dUo4UnJtT28?oc=5",
+      "publishedAt": "Thu, 22 Oct 2026 14:45:42 GMT",
+      "source": "Dhaka Tribune"
     }
   ],
   "feedStatus": [
     {
       "topic": "creator",
-      "checkedAt": "2026-10-22T13:50:30.242355+00:00",
+      "checkedAt": "2026-10-22T18:34:53.763045+00:00",
       "status": "ok"
     },
     {
       "topic": "clothing",
-      "checkedAt": "2026-10-22T13:50:30.808242+00:00",
+      "checkedAt": "2026-10-22T18:34:54.371945+00:00",
       "status": "ok"
     },
     {
       "topic": "games",
-      "checkedAt": "2026-10-22T13:50:31.415498+00:00",
+      "checkedAt": "2026-10-22T18:34:55.148354+00:00",
       "status": "ok"
     },
     {
       "topic": "agriculture",
-      "checkedAt": "2026-10-22T13:50:32.049510+00:00",
+      "checkedAt": "2026-10-22T18:34:55.841524+00:00",
       "status": "ok"
     }
   ]
