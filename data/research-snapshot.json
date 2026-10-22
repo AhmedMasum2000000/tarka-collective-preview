@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "checkedAt": "2026-10-22T18:34:39.289653+00:00",
+  "checkedAt": "2026-10-22T22:22:37.219564+00:00",
   "competitors": [
     {
       "name": "Social Square",
       "url": "https://socialsquare.co/",
-      "checkedAt": "2026-10-22T18:34:39.289671+00:00",
+      "checkedAt": "2026-10-22T22:22:37.219579+00:00",
       "title": "Social Square | UGC Marketplace for Creators",
       "description": "Get paid to create content for brands with Social Square. Discover UGC campaigns, collaborate with companies, publish",
       "mentions": [
@@ -19,7 +19,7 @@
     {
       "name": "Bengal Reach",
       "url": "https://www.bengalreach.com/",
-      "checkedAt": "2026-10-22T18:34:41.578386+00:00",
+      "checkedAt": "2026-10-22T22:22:39.276523+00:00",
       "title": "bengalReach - Connect Influencers with Brands in Bangladesh",
       "description": "Leading influencer marketing platform in Bangladesh. Connect local influencers with brands for authentic social media campaigns across",
       "mentions": [
@@ -33,7 +33,7 @@
     {
       "name": "Maroon Ltd.",
       "url": "https://www.maroonltd.com/",
-      "checkedAt": "2026-10-22T18:34:43.411277+00:00",
+      "checkedAt": "2026-10-22T22:22:40.911470+00:00",
       "title": "Maroon Limited",
       "description": "A PR and Digital Communication Agency in Dhaka, Bangladesh.",
       "mentions": [
@@ -48,7 +48,7 @@
     {
       "name": "Ngital",
       "url": "https://ngital.com/",
-      "checkedAt": "2026-10-22T18:34:48.241140+00:00",
+      "checkedAt": "2026-10-22T22:22:45.786596+00:00",
       "title": "Ngital — Best Digital Marketing Agency in Dhaka,",
       "description": "Award-winning digital marketing agency in Dhaka, Bangladesh. Expert SEO, Google Ads, Meta Ads & Creative — trusted",
       "mentions": [
@@ -68,7 +68,7 @@
       "name": "Internet use",
       "unit": "% of population",
       "url": "https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=BD",
-      "checkedAt": "2026-10-22T18:34:53.316419+00:00",
+      "checkedAt": "2026-10-22T22:22:50.547070+00:00",
       "status": "ok",
       "value": 53.42171316,
       "year": "2024"
@@ -78,7 +78,7 @@
       "name": "Population",
       "unit": "people",
       "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=BD",
-      "checkedAt": "2026-10-22T18:34:53.494578+00:00",
+      "checkedAt": "2026-10-22T22:22:50.919250+00:00",
       "status": "ok",
       "value": 175686899,
       "year": "2025"
@@ -88,7 +88,7 @@
       "name": "Inflation",
       "unit": "% annual",
       "url": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=BD",
-      "checkedAt": "2026-10-22T18:34:53.627944+00:00",
+      "checkedAt": "2026-10-22T22:22:51.203025+00:00",
       "status": "ok",
       "value": 8.7687628116114,
       "year": "2025"
@@ -118,9 +118,9 @@
     },
     {
       "topic": "clothing",
-      "title": "| 10 markets still take 75% of Bangladesh apparel; can 18 change that? - Fibre2Fashion",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQb1RIckw0NnExY2hxMlprWU11cENGRnBSQTBmeXloMHRIVUlFek90YlluZGpIdU1YRVhHTTh1Mkl5dWpjRjhVbUc1N1VoRmpjNjJxOVo1TkduRHNwdGJrcjZ3b212QlZkRlJiOHVxQ29uRUY5eTJPTTBTS3d2RktfZUdRaVhBdWVNbEdUcXNYTnNDb0Nwa2VTeFdJMldDZVZPTm9PSTJDYnRtWW5uZHI5OWRJa0lvaFREVEZPZWFkSVlxVmR6ZjdKMWRqSTQwaDRwVl9DTUFacTJSVUZVRjVxUlBGRnZmRV9QVXRhM2VB?oc=5",
-      "publishedAt": "Thu, 01 Oct 2026 07:00:00 GMT",
+      "title": "| A Bangladesh merchandiser's take: Sourcing gets more complex - Fibre2Fashion",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQTdSLVVBVXRKTVJYZEx6RTR0TzJ5MWxESG5sWDhZLTdjRmlBRk9aQmhzZDlBUms4MUsxTGJLM1BzV09VZVR4N3JWbE1KaHQ2Sm82X1Axd2hsUWRiaTVoMUtSclZQb0VLb2lkNnFDU2FpSzRLaDdoYlViakdCYm1fajQ4YUVSOV9Rc2d4Vm84TFozUmZ1Nk1KM2ZnTlB1R2NRTm41MDZESTJrUTBQUjFWdXM2TmwweWtGal9CbjBLajNMaFlVZ3VGTVVyTl9LLU9XOFF1TkJDNHc0QlNQ?oc=5",
+      "publishedAt": "Fri, 25 Sep 2026 07:00:00 GMT",
       "source": "Fibre2Fashion"
     },
     {
@@ -169,7 +169,7 @@
       "topic": "games",
       "title": "You Should Build A Retro Gaming PC Instead Of Buying Another Console - BGR",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVnhlUWVmMGxwWkRPS1dSUVI5RWJuRk9vNzBfU3JLbnpzX0xqcmVJX054S3UtQzQtREk3ZUNCZ3RCcVlmTTFpeDJwWGp6NmpfTFRrY1VpSy0wNldONDh2V2s5NjFERWpiOTBLWVBSS0g0RWdfQnlNZnJzRUw2bUplZldVaVBwT2ZrRWtNQg?oc=5",
-      "publishedAt": "Wed, 14 Oct 2026 22:17:00 GMT",
+      "publishedAt": "Wed, 14 Oct 2026 07:00:00 GMT",
       "source": "BGR"
     },
     {
@@ -211,22 +211,22 @@
   "feedStatus": [
     {
       "topic": "creator",
-      "checkedAt": "2026-10-22T18:34:53.763045+00:00",
+      "checkedAt": "2026-10-22T22:22:51.502642+00:00",
       "status": "ok"
     },
     {
       "topic": "clothing",
-      "checkedAt": "2026-10-22T18:34:54.371945+00:00",
+      "checkedAt": "2026-10-22T22:22:52.146216+00:00",
       "status": "ok"
     },
     {
       "topic": "games",
-      "checkedAt": "2026-10-22T18:34:55.148354+00:00",
+      "checkedAt": "2026-10-22T22:22:52.801982+00:00",
       "status": "ok"
     },
     {
       "topic": "agriculture",
-      "checkedAt": "2026-10-22T18:34:55.841524+00:00",
+      "checkedAt": "2026-10-22T22:22:53.461300+00:00",
       "status": "ok"
     }
   ]
