@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "checkedAt": "2026-10-23T13:30:07.767555+00:00",
+  "checkedAt": "2026-10-23T18:24:25.565883+00:00",
   "competitors": [
     {
       "name": "Social Square",
       "url": "https://socialsquare.co/",
-      "checkedAt": "2026-10-23T13:30:07.767567+00:00",
+      "checkedAt": "2026-10-23T18:24:25.565903+00:00",
       "title": "Social Square | UGC Marketplace for Creators",
       "description": "Get paid to create content for brands with Social Square. Discover UGC campaigns, collaborate with companies, publish",
       "mentions": [
@@ -19,7 +19,7 @@
     {
       "name": "Bengal Reach",
       "url": "https://www.bengalreach.com/",
-      "checkedAt": "2026-10-23T13:30:09.187219+00:00",
+      "checkedAt": "2026-10-23T18:24:27.490124+00:00",
       "title": "bengalReach - Connect Influencers with Brands in Bangladesh",
       "description": "Leading influencer marketing platform in Bangladesh. Connect local influencers with brands for authentic social media campaigns across",
       "mentions": [
@@ -33,7 +33,7 @@
     {
       "name": "Maroon Ltd.",
       "url": "https://www.maroonltd.com/",
-      "checkedAt": "2026-10-23T13:30:10.522748+00:00",
+      "checkedAt": "2026-10-23T18:24:29.408708+00:00",
       "title": "Maroon Limited",
       "description": "A PR and Digital Communication Agency in Dhaka, Bangladesh.",
       "mentions": [
@@ -48,7 +48,7 @@
     {
       "name": "Ngital",
       "url": "https://ngital.com/",
-      "checkedAt": "2026-10-23T13:30:15.298812+00:00",
+      "checkedAt": "2026-10-23T18:24:32.143900+00:00",
       "title": "Ngital — Best Digital Marketing Agency in Dhaka,",
       "description": "Award-winning digital marketing agency in Dhaka, Bangladesh. Expert SEO, Google Ads, Meta Ads & Creative — trusted",
       "mentions": [
@@ -68,7 +68,7 @@
       "name": "Internet use",
       "unit": "% of population",
       "url": "https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=BD",
-      "checkedAt": "2026-10-23T13:30:19.847112+00:00",
+      "checkedAt": "2026-10-23T18:24:37.307060+00:00",
       "status": "ok",
       "value": 53.42171316,
       "year": "2024"
@@ -78,7 +78,7 @@
       "name": "Population",
       "unit": "people",
       "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=BD",
-      "checkedAt": "2026-10-23T13:30:19.952879+00:00",
+      "checkedAt": "2026-10-23T18:24:37.493934+00:00",
       "status": "ok",
       "value": 175686899,
       "year": "2025"
@@ -88,7 +88,7 @@
       "name": "Inflation",
       "unit": "% annual",
       "url": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=BD",
-      "checkedAt": "2026-10-23T13:30:20.013290+00:00",
+      "checkedAt": "2026-10-23T18:24:37.600293+00:00",
       "status": "ok",
       "value": 8.7687628116114,
       "year": "2025"
@@ -113,7 +113,7 @@
       "topic": "clothing",
       "title": "Adaptive fashion: Bangladesh makes clothes for the world, but not for everyone - The Business Standard",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObTB0SEptUi1JeGl0c2VDVzdiVE42VDE3c1o0WGVKWHdfLUc3NjNpRjZOS1c0V25ycEVlSFprQm1NcU9XZms0VzVHaUQ3Wno5ZEo0UzRMQ1lSSVVfbF90a19DZk5pOENyTXR3b1Yyc28zVmQ0QkIxT18wV0JNeWd1VVVoeGhNdWhDQUhwa0pUS2Noa0tBZjdaSV9LaUxnQmJPNkl0RXd0S1NtMWUtcW0w?oc=5",
-      "publishedAt": "Fri, 16 Oct 2026 13:50:00 GMT",
+      "publishedAt": "Thu, 22 Oct 2026 23:44:11 GMT",
       "source": "The Business Standard"
     },
     {
@@ -211,22 +211,22 @@
   "feedStatus": [
     {
       "topic": "creator",
-      "checkedAt": "2026-10-23T13:30:20.128743+00:00",
+      "checkedAt": "2026-10-23T18:24:37.770760+00:00",
       "status": "ok"
     },
     {
       "topic": "clothing",
-      "checkedAt": "2026-10-23T13:30:20.757209+00:00",
+      "checkedAt": "2026-10-23T18:24:38.405329+00:00",
       "status": "ok"
     },
     {
       "topic": "games",
-      "checkedAt": "2026-10-23T13:30:21.330815+00:00",
+      "checkedAt": "2026-10-23T18:24:39.096003+00:00",
       "status": "ok"
     },
     {
       "topic": "agriculture",
-      "checkedAt": "2026-10-23T13:30:21.934404+00:00",
+      "checkedAt": "2026-10-23T18:24:39.822736+00:00",
       "status": "ok"
     }
   ]
