@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "checkedAt": "2026-10-24T00:47:19.577494+00:00",
+  "checkedAt": "2026-10-24T05:57:23.700601+00:00",
   "competitors": [
     {
       "name": "Social Square",
       "url": "https://socialsquare.co/",
-      "checkedAt": "2026-10-24T00:47:19.577510+00:00",
+      "checkedAt": "2026-10-24T05:57:23.700621+00:00",
       "title": "Social Square | UGC Marketplace for Creators",
       "description": "Get paid to create content for brands with Social Square. Discover UGC campaigns, collaborate with companies, publish",
       "mentions": [
@@ -19,7 +19,7 @@
     {
       "name": "Bengal Reach",
       "url": "https://www.bengalreach.com/",
-      "checkedAt": "2026-10-24T00:47:21.334933+00:00",
+      "checkedAt": "2026-10-24T05:57:25.169474+00:00",
       "title": "bengalReach - Connect Influencers with Brands in Bangladesh",
       "description": "Leading influencer marketing platform in Bangladesh. Connect local influencers with brands for authentic social media campaigns across",
       "mentions": [
@@ -33,7 +33,7 @@
     {
       "name": "Maroon Ltd.",
       "url": "https://www.maroonltd.com/",
-      "checkedAt": "2026-10-24T00:47:22.821453+00:00",
+      "checkedAt": "2026-10-24T05:57:26.673741+00:00",
       "title": "Maroon Limited",
       "description": "A PR and Digital Communication Agency in Dhaka, Bangladesh.",
       "mentions": [
@@ -48,7 +48,7 @@
     {
       "name": "Ngital",
       "url": "https://ngital.com/",
-      "checkedAt": "2026-10-24T00:47:27.595006+00:00",
+      "checkedAt": "2026-10-24T05:57:31.504139+00:00",
       "title": "Ngital — Best Digital Marketing Agency in Dhaka,",
       "description": "Award-winning digital marketing agency in Dhaka, Bangladesh. Expert SEO, Google Ads, Meta Ads & Creative — trusted",
       "mentions": [
@@ -68,7 +68,7 @@
       "name": "Internet use",
       "unit": "% of population",
       "url": "https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=BD",
-      "checkedAt": "2026-10-24T00:47:31.981927+00:00",
+      "checkedAt": "2026-10-24T05:57:35.996416+00:00",
       "status": "ok",
       "value": 53.42171316,
       "year": "2024"
@@ -78,7 +78,7 @@
       "name": "Population",
       "unit": "people",
       "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=BD",
-      "checkedAt": "2026-10-24T00:47:32.367866+00:00",
+      "checkedAt": "2026-10-24T05:57:36.164359+00:00",
       "status": "ok",
       "value": 175686899,
       "year": "2025"
@@ -88,7 +88,7 @@
       "name": "Inflation",
       "unit": "% annual",
       "url": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=BD",
-      "checkedAt": "2026-10-24T00:47:32.653661+00:00",
+      "checkedAt": "2026-10-24T05:57:36.260577+00:00",
       "status": "ok",
       "value": 8.7687628116114,
       "year": "2025"
@@ -211,22 +211,22 @@
   "feedStatus": [
     {
       "topic": "creator",
-      "checkedAt": "2026-10-24T00:47:32.927298+00:00",
+      "checkedAt": "2026-10-24T05:57:36.349586+00:00",
       "status": "ok"
     },
     {
       "topic": "clothing",
-      "checkedAt": "2026-10-24T00:47:33.556187+00:00",
+      "checkedAt": "2026-10-24T05:57:36.720682+00:00",
       "status": "ok"
     },
     {
       "topic": "games",
-      "checkedAt": "2026-10-24T00:47:34.246656+00:00",
+      "checkedAt": "2026-10-24T05:57:37.234148+00:00",
       "status": "ok"
     },
     {
       "topic": "agriculture",
-      "checkedAt": "2026-10-24T00:47:34.925309+00:00",
+      "checkedAt": "2026-10-24T05:57:37.689405+00:00",
       "status": "ok"
     }
   ]
