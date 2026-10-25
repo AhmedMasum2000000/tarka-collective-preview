@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "checkedAt": "2026-10-25T04:48:25.709687+00:00",
+  "checkedAt": "2026-10-25T09:51:20.362746+00:00",
   "competitors": [
     {
       "name": "Social Square",
       "url": "https://socialsquare.co/",
-      "checkedAt": "2026-10-25T04:48:25.709699+00:00",
+      "checkedAt": "2026-10-25T09:51:20.362758+00:00",
       "title": "Social Square | UGC Marketplace for Creators",
       "description": "Get paid to create content for brands with Social Square. Discover UGC campaigns, collaborate with companies, publish",
       "mentions": [
@@ -19,7 +19,7 @@
     {
       "name": "Bengal Reach",
       "url": "https://www.bengalreach.com/",
-      "checkedAt": "2026-10-25T04:48:27.402762+00:00",
+      "checkedAt": "2026-10-25T09:51:22.008438+00:00",
       "title": "bengalReach - Connect Influencers with Brands in Bangladesh",
       "description": "Leading influencer marketing platform in Bangladesh. Connect local influencers with brands for authentic social media campaigns across",
       "mentions": [
@@ -33,7 +33,7 @@
     {
       "name": "Maroon Ltd.",
       "url": "https://www.maroonltd.com/",
-      "checkedAt": "2026-10-25T04:48:29.038191+00:00",
+      "checkedAt": "2026-10-25T09:51:23.481866+00:00",
       "title": "Maroon Limited",
       "description": "A PR and Digital Communication Agency in Dhaka, Bangladesh.",
       "mentions": [
@@ -48,7 +48,7 @@
     {
       "name": "Ngital",
       "url": "https://ngital.com/",
-      "checkedAt": "2026-10-25T04:48:33.923894+00:00",
+      "checkedAt": "2026-10-25T09:51:26.994723+00:00",
       "title": "Ngital — Best Digital Marketing Agency in Dhaka,",
       "description": "Award-winning digital marketing agency in Dhaka, Bangladesh. Expert SEO, Google Ads, Meta Ads & Creative — trusted",
       "mentions": [
@@ -68,7 +68,7 @@
       "name": "Internet use",
       "unit": "% of population",
       "url": "https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=BD",
-      "checkedAt": "2026-10-25T04:48:38.338376+00:00",
+      "checkedAt": "2026-10-25T09:51:31.875312+00:00",
       "status": "ok",
       "value": 53.42171316,
       "year": "2024"
@@ -78,7 +78,7 @@
       "name": "Population",
       "unit": "people",
       "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=BD",
-      "checkedAt": "2026-10-25T04:48:38.682474+00:00",
+      "checkedAt": "2026-10-25T09:51:32.194142+00:00",
       "status": "ok",
       "value": 175686899,
       "year": "2025"
@@ -88,7 +88,7 @@
       "name": "Inflation",
       "unit": "% annual",
       "url": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=BD",
-      "checkedAt": "2026-10-25T04:48:38.931053+00:00",
+      "checkedAt": "2026-10-25T09:51:32.264222+00:00",
       "status": "ok",
       "value": 8.7687628116114,
       "year": "2025"
@@ -118,17 +118,10 @@
     },
     {
       "topic": "clothing",
-      "title": "| A Bangladesh merchandiser's take: Sourcing gets more complex - Fibre2Fashion",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQTdSLVVBVXRKTVJYZEx6RTR0TzJ5MWxESG5sWDhZLTdjRmlBRk9aQmhzZDlBUms4MUsxTGJLM1BzV09VZVR4N3JWbE1KaHQ2Sm82X1Axd2hsUWRiaTVoMUtSclZQb0VLb2lkNnFDU2FpSzRLaDdoYlViakdCYm1fajQ4YUVSOV9Rc2d4Vm84TFozUmZ1Nk1KM2ZnTlB1R2NRTm41MDZESTJrUTBQUjFWdXM2TmwweWtGal9CbjBLajNMaFlVZ3VGTVVyTl9LLU9XOFF1TkJDNHc0QlNQ?oc=5",
-      "publishedAt": "Fri, 25 Sep 2026 07:00:00 GMT",
+      "title": "| Bangladesh's $9.17 bn non-cotton shift meets a $2.43 bn input bill - Fibre2Fashion",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNeHFHZWdVMGQ4NHZHSUVpTnJwNzZIQ1hhbFR6VXhJbUV1Qnp3dENHejB2eGllT1VlY2RpZEdpZ3ZGbFNQQmh6bURUelpBOEdGcXZNRFVQM2lfNl9ERklhTDFyNXFDcHdtLTdSSDhUNnVnWDlveFlVQm9WcVlmQVZJZUE3MzVNaFMtTDR3eFlZSkVyNm4zdUVOa3hlMzRRSUh3OE9uRmtPMlJTdVllQ3czZk1JekVtNGRBM1dJWmREclF2MHhGR0w3TVFlX19UVTU3YVRfWmc2RUhxTU5FdXBERQ?oc=5",
+      "publishedAt": "Fri, 23 Oct 2026 11:03:45 GMT",
       "source": "Fibre2Fashion"
-    },
-    {
-      "topic": "clothing",
-      "title": "Bangladesh urges higher orange imports as retail prices rise - FreshPlaza",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONFFJYUVzZllsRll5aXU5eWxEaV9MdThIUFYxNndSdE14VTJ1UWQwSGpxc0RmMWtIMTJRbk50S0JtMGVmYWs1ZUZIbEJVUkl0eXlpVEV5NTJieUo5eDZoUjVRWkFsNGhaelI4TVlBM2pkTlhSbi1XTHJUSEFFdWxxenZOcWc5YVF4QzUxaHFvWUUzZ2RLRTlYRWctWllqc3JaYkRBSlhKamN1WUY0VXc?oc=5",
-      "publishedAt": "Mon, 05 Oct 2026 07:00:00 GMT",
-      "source": "FreshPlaza"
     },
     {
       "topic": "clothing",
@@ -136,6 +129,13 @@
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdlNYWEFZZUNGd2w3N1pUZnd2a1A0Z2ZhWjNWV3BhOEVacUF3RlBOQTI0MlZnYlc2OFQwRFM5M2xscTdrMTBVcm81bHYzMEJ4dnRTa3dSdWtLc3BTcEk5MmRCdWZ4UnE3UWNWb0ZFN3owRXJ1TW9uOXY4NmlrYkdNZW53Z1FEbWcxMW1MUVFqU2NfY3M?oc=5",
       "publishedAt": "Mon, 19 Oct 2026 19:38:56 GMT",
       "source": "Retail News Asia"
+    },
+    {
+      "topic": "clothing",
+      "title": "StanChart announces sale of retail business in Bangladesh - The Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSHhSMlI5T2dLSUFSTm9WcGNhVkhESkt1aEIwN0hhTzNQRWZRVU1nOGlhd08xVDVoWklwVmNwdUtXMGtLT3Awa1NuYzhweXNkaHVsdFMtOGdNd1hEc0Y1Z1d0Y1J0bllGR21QXzExXzFMSDllVXEzSzF4LWRWalo2RXVyY0kwa2xOaTJ5TzhYaVAwci1iNTVhcVpGdkd4Nzg5SHBSOEdnNnMxRlRoU2FISl9DWV9OUQ?oc=5",
+      "publishedAt": "Thu, 08 Oct 2026 07:00:00 GMT",
+      "source": "The Business Standard"
     },
     {
       "topic": "games",
@@ -153,17 +153,17 @@
     },
     {
       "topic": "games",
-      "title": "Introducing the Raspberry Pi Guide to Retro Gaming - Raspberry Pi",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdjZBNnpWN1ZUcGNuNjQxY3ptbU5WVFRYNkdOeG8xdElyVzlHZFZEdGh1SGdOT2xFX05sc191M21xTG1kU3FfdnJzWFpoQWxFR1BIRVE3bU1SNW9UNkhjekt2ZjlhUWtuS0RPd3MzaGtEWDdFNlNvNS1ZOXRoSlh2RkdLUktUS3pzam1FMA?oc=5",
-      "publishedAt": "Tue, 20 Oct 2026 12:50:42 GMT",
-      "source": "Raspberry Pi"
-    },
-    {
-      "topic": "games",
       "title": "Portland Retro Gaming Expo starts Friday - KPTV",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRWNEUWVQRV90S2V1RzB2UThGQjBvdGU2OTZ0bWdNVklUcWlFWHQwM25KZVF4RTlHMDJyM2M0TXhmazJ4RDZvTWg2WkVrc1JDaV93UnVNYk1xOVhvRWtsQngtdVBNQU5PQzhSSFZMb2NWazdWekZ6YWFkNTZOaURqV0ZWcTNyQQ?oc=5",
       "publishedAt": "Thu, 08 Oct 2026 07:00:00 GMT",
       "source": "KPTV"
+    },
+    {
+      "topic": "games",
+      "title": "Introducing the Raspberry Pi Guide to Retro Gaming - Raspberry Pi",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdjZBNnpWN1ZUcGNuNjQxY3ptbU5WVFRYNkdOeG8xdElyVzlHZFZEdGh1SGdOT2xFX05sc191M21xTG1kU3FfdnJzWFpoQWxFR1BIRVE3bU1SNW9UNkhjekt2ZjlhUWtuS0RPd3MzaGtEWDdFNlNvNS1ZOXRoSlh2RkdLUktUS3pzam1FMA?oc=5",
+      "publishedAt": "Tue, 20 Oct 2026 12:50:42 GMT",
+      "source": "Raspberry Pi"
     },
     {
       "topic": "games",
@@ -188,17 +188,17 @@
     },
     {
       "topic": "agriculture",
-      "title": "Why Bangladesh Needs a Second Generation Research Reform in Agricultur - www.daily-sun.com",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE13OXNSSVRjVXVfMFQ5UGZHQjZ2bmVBSFhGRWNFQV93XzNweGQ5QzVZS1hmckZkckw3dTZBWFc1UEsyVS0wVGU0UEdQbGVsbE5l?oc=5",
-      "publishedAt": "Fri, 25 Sep 2026 07:00:00 GMT",
-      "source": "www.daily-sun.com"
-    },
-    {
-      "topic": "agriculture",
       "title": "Govt to create 20,000 agricultural entrepreneurs nationwide - Bangladesh Sangbad Sangstha (BSS)",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5XR0ZNVl93Szcxd1lGRlB4Rkk1dzQyOFQxQTVoNk9zNlVDOHlIbXAxOFp1Yk5kMlFpMDduYmJteTZ2X1FkN3lBTS1SS1EwcDNsV19V?oc=5",
       "publishedAt": "Sat, 10 Oct 2026 07:00:00 GMT",
       "source": "Bangladesh Sangbad Sangstha (BSS)"
+    },
+    {
+      "topic": "agriculture",
+      "title": "Bangladesh, Algeria seek broader cooperation in energy, agriculture, textiles - Dhaka Tribune",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPa0N5NnZfSzRscFV1NEVVanhrNEVzeUUxalJVdGNwVTg1b1hIVWtycHRHeDRWcFdPU0ZsVFlmY05NMEg5c2pVMjFVaUJPTFA3WXc3YkxxdVBVWEtPUGdqNE42aVRMQ0dEVHNHZHo2NU5hTlJhYTROV1dZYUI5bjVWRXVJdWdldk9TanoxUFhTaEI5YXI4N1NGVnl2X2xOM2RvbllrMDEyeTFrNWViaGfSAbMBQVVfeXFMTVlIYk01N1phN3pmS19MNEI1ZGJrUnhrSWktSGJKR2JoOU5KcGVvTEFkWWRLdkFEdnhrUXBkVUNMSFBmdTBXaHZ2SHJpODJ6NXFQQkt5bE1CbllucU02UUpyQ0xsS1M2UldyQ1ZMaXpyaUFMRWNFZjlxRFY1RzJnY3RvSFhoS3lYZDJJcEdhTkJVTUl5TDZSRzEzbW9MakdtNmt0WDcwcjF2NzE5dUo4UnJtT28?oc=5",
+      "publishedAt": "Thu, 22 Oct 2026 14:45:42 GMT",
+      "source": "Dhaka Tribune"
     },
     {
       "topic": "agriculture",
@@ -211,22 +211,22 @@
   "feedStatus": [
     {
       "topic": "creator",
-      "checkedAt": "2026-10-25T04:48:39.190621+00:00",
+      "checkedAt": "2026-10-25T09:51:32.336928+00:00",
       "status": "ok"
     },
     {
       "topic": "clothing",
-      "checkedAt": "2026-10-25T04:48:39.812543+00:00",
+      "checkedAt": "2026-10-25T09:51:32.855910+00:00",
       "status": "ok"
     },
     {
       "topic": "games",
-      "checkedAt": "2026-10-25T04:48:40.478875+00:00",
+      "checkedAt": "2026-10-25T09:51:33.421978+00:00",
       "status": "ok"
     },
     {
       "topic": "agriculture",
-      "checkedAt": "2026-10-25T04:48:41.079836+00:00",
+      "checkedAt": "2026-10-25T09:51:34.068262+00:00",
       "status": "ok"
     }
   ]
