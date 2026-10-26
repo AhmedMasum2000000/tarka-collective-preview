@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "checkedAt": "2026-10-25T21:50:21.360356+00:00",
+  "checkedAt": "2026-10-26T00:25:06.843440+00:00",
   "competitors": [
     {
       "name": "Social Square",
       "url": "https://socialsquare.co/",
-      "checkedAt": "2026-10-25T21:50:21.360369+00:00",
+      "checkedAt": "2026-10-26T00:25:06.843458+00:00",
       "title": "Social Square | UGC Marketplace for Creators",
       "description": "Get paid to create content for brands with Social Square. Discover UGC campaigns, collaborate with companies, publish",
       "mentions": [
@@ -19,7 +19,7 @@
     {
       "name": "Bengal Reach",
       "url": "https://www.bengalreach.com/",
-      "checkedAt": "2026-10-25T21:50:23.029987+00:00",
+      "checkedAt": "2026-10-26T00:25:08.792414+00:00",
       "title": "bengalReach - Connect Influencers with Brands in Bangladesh",
       "description": "Leading influencer marketing platform in Bangladesh. Connect local influencers with brands for authentic social media campaigns across",
       "mentions": [
@@ -33,7 +33,7 @@
     {
       "name": "Maroon Ltd.",
       "url": "https://www.maroonltd.com/",
-      "checkedAt": "2026-10-25T21:50:24.707304+00:00",
+      "checkedAt": "2026-10-26T00:25:10.417561+00:00",
       "title": "Maroon Limited",
       "description": "A PR and Digital Communication Agency in Dhaka, Bangladesh.",
       "mentions": [
@@ -48,7 +48,7 @@
     {
       "name": "Ngital",
       "url": "https://ngital.com/",
-      "checkedAt": "2026-10-25T21:50:28.478905+00:00",
+      "checkedAt": "2026-10-26T00:25:15.334557+00:00",
       "title": "Ngital — Best Digital Marketing Agency in Dhaka,",
       "description": "Award-winning digital marketing agency in Dhaka, Bangladesh. Expert SEO, Google Ads, Meta Ads & Creative — trusted",
       "mentions": [
@@ -68,7 +68,7 @@
       "name": "Internet use",
       "unit": "% of population",
       "url": "https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=BD",
-      "checkedAt": "2026-10-25T21:50:34.043737+00:00",
+      "checkedAt": "2026-10-26T00:25:20.166524+00:00",
       "status": "ok",
       "value": 53.42171316,
       "year": "2024"
@@ -78,7 +78,7 @@
       "name": "Population",
       "unit": "people",
       "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=BD",
-      "checkedAt": "2026-10-25T21:50:34.215778+00:00",
+      "checkedAt": "2026-10-26T00:25:20.760977+00:00",
       "status": "ok",
       "value": 175686899,
       "year": "2025"
@@ -88,7 +88,7 @@
       "name": "Inflation",
       "unit": "% annual",
       "url": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=BD",
-      "checkedAt": "2026-10-25T21:50:34.322675+00:00",
+      "checkedAt": "2026-10-26T00:25:21.201884+00:00",
       "status": "ok",
       "value": 8.7687628116114,
       "year": "2025"
@@ -118,24 +118,24 @@
     },
     {
       "topic": "clothing",
-      "title": "Bangladesh's apparel exports to US rebound in August - Fibre2Fashion",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPa0lVVTdPdTM2UzVlS3RLYWVPV04yT3BCaENxLUVnMWNzRmx5RTlFSVVDSEdtbklycXkwSTE4NmVlVTlVVkNyTDVpOF9QMjlIZFljNnBkX05HcTNFOUxZb0RSMDZULW1TSks3UmZYcTNwVnZTTDF6OGxUMkRMUEpENlF4Y2tRMFd4MEh1MkozS3lYWW5sRmM4ajlHUFZPcFJ3aWtNZV9GcDB0M1J3OUlBWV9fZXUybno0TjkzeU5SUUs?oc=5",
-      "publishedAt": "Thu, 08 Oct 2026 07:00:00 GMT",
+      "title": "| Bangladesh's $9.17 bn non-cotton shift meets a $2.43 bn input bill - Fibre2Fashion",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOYVlSWm42aUhjb3VVTVZlUHN6M0ZHRWt0eFFhZC1NZ0JxS0M5WUVuOE90YXZubEtwOGhTVTdVZEt2SXJXanhkY2RwRGQ5dW14TC1ac3hVR3RLWjZyOXlxdFlGMkRLVTZDX0hEZkRJRXBXRTJRTFdPWm5Sc0s3enJkNlppdFQ0MlI5czVZOWhQNlNMRkJTbVdIUHY1NXdIZVd2NldLcjhCay1mTVZzdmVuaVlLNElqVkIyV0I4eHFlSXY1eE1UQTJPbXllbWJldG9TWWxNOXBJbW1MTkE1RW9zV0tldGhUN0xZZ0EyWWVwYw?oc=5",
+      "publishedAt": "Fri, 23 Oct 2026 12:39:51 GMT",
       "source": "Fibre2Fashion"
     },
     {
       "topic": "clothing",
-      "title": "AmCham Pledges $5 Billion as Bangladesh Seeks US Healthcare Tie-Up | Living - Retail News Asia",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdlNYWEFZZUNGd2w3N1pUZnd2a1A0Z2ZhWjNWV3BhOEVacUF3RlBOQTI0MlZnYlc2OFQwRFM5M2xscTdrMTBVcm81bHYzMEJ4dnRTa3dSdWtLc3BTcEk5MmRCdWZ4UnE3UWNWb0ZFN3owRXJ1TW9uOXY4NmlrYkdNZW53Z1FEbWcxMW1MUVFqU2NfY3M?oc=5",
-      "publishedAt": "Mon, 19 Oct 2026 19:38:56 GMT",
+      "title": "Bangladesh Garment Shipments to Russia Drop to $257 Million - Retail News Asia",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSW9uTk1YSzNlSEV1bll1R0cwSENoOTlwUmxMa21Sb1JPRTk2cDlDSmhaNjE3eS0xS3ZzX1hFX2lhS1JJX2pGT1kybU8tMmxRTzdiQXQtZ3BsaVg0bDdqZFc3eW5xZFFpZFRCbTFpZnRqQlFtZTJrUXRsT2Nnb29iWTNYaWpjRzlLMkE?oc=5",
+      "publishedAt": "Tue, 06 Oct 2026 09:23:45 GMT",
       "source": "Retail News Asia"
     },
     {
       "topic": "clothing",
-      "title": "| Bangladesh's $9.17 bn non-cotton shift meets a $2.43 bn input bill - Fibre2Fashion",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNeHFHZWdVMGQ4NHZHSUVpTnJwNzZIQ1hhbFR6VXhJbUV1Qnp3dENHejB2eGllT1VlY2RpZEdpZ3ZGbFNQQmh6bURUelpBOEdGcXZNRFVQM2lfNl9ERklhTDFyNXFDcHdtLTdSSDhUNnVnWDlveFlVQm9WcVlmQVZJZUE3MzVNaFMtTDR3eFlZSkVyNm4zdUVOa3hlMzRRSUh3OE9uRmtPMlJTdVllQ3czZk1JekVtNGRBM1dJWmREclF2MHhGR0w3TVFlX19UVTU3YVRfWmc2RUhxTU5FdXBERQ?oc=5",
-      "publishedAt": "Fri, 23 Oct 2026 11:03:45 GMT",
-      "source": "Fibre2Fashion"
+      "title": "Gen Z reshaping fashion branding in Bangladesh - Daily Observer",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE8yMnMwSW94VHkxTklMQnhEQllVdVlzMmtEZy1ITEJvOFNyV1dla0hRNDVBS2JBTzctYUFQWUlhX1ozZWFhSnpwNFpR?oc=5",
+      "publishedAt": "Fri, 23 Oct 2026 18:00:00 GMT",
+      "source": "Daily Observer"
     },
     {
       "topic": "games",
@@ -211,22 +211,22 @@
   "feedStatus": [
     {
       "topic": "creator",
-      "checkedAt": "2026-10-25T21:50:34.449417+00:00",
+      "checkedAt": "2026-10-26T00:25:21.702509+00:00",
       "status": "ok"
     },
     {
       "topic": "clothing",
-      "checkedAt": "2026-10-25T21:50:35.049558+00:00",
+      "checkedAt": "2026-10-26T00:25:22.381807+00:00",
       "status": "ok"
     },
     {
       "topic": "games",
-      "checkedAt": "2026-10-25T21:50:35.710852+00:00",
+      "checkedAt": "2026-10-26T00:25:22.826070+00:00",
       "status": "ok"
     },
     {
       "topic": "agriculture",
-      "checkedAt": "2026-10-25T21:50:36.317349+00:00",
+      "checkedAt": "2026-10-26T00:25:23.445237+00:00",
       "status": "ok"
     }
   ]
