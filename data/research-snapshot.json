@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "checkedAt": "2026-10-27T00:29:49.935265+00:00",
+  "checkedAt": "2026-10-27T06:20:53.617562+00:00",
   "competitors": [
     {
       "name": "Social Square",
       "url": "https://socialsquare.co/",
-      "checkedAt": "2026-10-27T00:29:49.935282+00:00",
+      "checkedAt": "2026-10-27T06:20:53.617574+00:00",
       "title": "Social Square | UGC Marketplace for Creators",
       "description": "Get paid to create content for brands with Social Square. Discover UGC campaigns, collaborate with companies, publish",
       "mentions": [
@@ -19,7 +19,7 @@
     {
       "name": "Bengal Reach",
       "url": "https://www.bengalreach.com/",
-      "checkedAt": "2026-10-27T00:29:51.723645+00:00",
+      "checkedAt": "2026-10-27T06:20:55.281922+00:00",
       "title": "bengalReach - Connect Influencers with Brands in Bangladesh",
       "description": "Leading influencer marketing platform in Bangladesh. Connect local influencers with brands for authentic social media campaigns across",
       "mentions": [
@@ -33,7 +33,7 @@
     {
       "name": "Maroon Ltd.",
       "url": "https://www.maroonltd.com/",
-      "checkedAt": "2026-10-27T00:29:53.386767+00:00",
+      "checkedAt": "2026-10-27T06:20:56.666223+00:00",
       "title": "Maroon Limited",
       "description": "A PR and Digital Communication Agency in Dhaka, Bangladesh.",
       "mentions": [
@@ -48,7 +48,7 @@
     {
       "name": "Ngital",
       "url": "https://ngital.com/",
-      "checkedAt": "2026-10-27T00:29:58.386234+00:00",
+      "checkedAt": "2026-10-27T06:21:01.613552+00:00",
       "title": "Ngital — Best Digital Marketing Agency in Dhaka,",
       "description": "Award-winning digital marketing agency in Dhaka, Bangladesh. Expert SEO, Google Ads, Meta Ads & Creative — trusted",
       "mentions": [
@@ -68,7 +68,7 @@
       "name": "Internet use",
       "unit": "% of population",
       "url": "https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=BD",
-      "checkedAt": "2026-10-27T00:30:04.704117+00:00",
+      "checkedAt": "2026-10-27T06:21:07.465652+00:00",
       "status": "ok",
       "value": 53.42171316,
       "year": "2024"
@@ -78,7 +78,7 @@
       "name": "Population",
       "unit": "people",
       "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=BD",
-      "checkedAt": "2026-10-27T00:30:04.948148+00:00",
+      "checkedAt": "2026-10-27T06:21:07.983124+00:00",
       "status": "ok",
       "value": 175686899,
       "year": "2025"
@@ -88,7 +88,7 @@
       "name": "Inflation",
       "unit": "% annual",
       "url": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=BD",
-      "checkedAt": "2026-10-27T00:30:05.110195+00:00",
+      "checkedAt": "2026-10-27T06:21:08.285532+00:00",
       "status": "ok",
       "value": 8.7687628116114,
       "year": "2025"
@@ -132,10 +132,17 @@
     },
     {
       "topic": "clothing",
-      "title": "| Bangladesh's $9.17 bn non-cotton shift meets a $2.43 bn input bill - Fibre2Fashion",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOYVlSWm42aUhjb3VVTVZlUHN6M0ZHRWt0eFFhZC1NZ0JxS0M5WUVuOE90YXZubEtwOGhTVTdVZEt2SXJXanhkY2RwRGQ5dW14TC1ac3hVR3RLWjZyOXlxdFlGMkRLVTZDX0hEZkRJRXBXRTJRTFdPWm5Sc0s3enJkNlppdFQ0MlI5czVZOWhQNlNMRkJTbVdIUHY1NXdIZVd2NldLcjhCay1mTVZzdmVuaVlLNElqVkIyV0I4eHFlSXY1eE1UQTJPbXllbWJldG9TWWxNOXBJbW1MTkE1RW9zV0tldGhUN0xZZ0EyWWVwYw?oc=5",
-      "publishedAt": "Fri, 23 Oct 2026 12:39:51 GMT",
-      "source": "Fibre2Fashion"
+      "title": "Global fashion brands urged to share Bangladesh's clean energy costs - The Financial Express",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQ2tucmJZaDNjQTNyWjNkSW1mOUhCWHZ6SjAzSVB5d2tNbVJhTERsRTliQS1HMEpad1BoMkRXd0UxLTBjdjRBa1dGdHV6RUhjTk1IRmNRUFY5amNZWldjTXdGY0FuODFJdEloanBTNUpVaVB0OG95aXcwNmNoUzNFcS1WN2dLeW82ZkpiYjB6aXktSTY5ZW9sVFlac2J3bTJuV1NydnYxNUR1Vmc?oc=5",
+      "publishedAt": "Tue, 27 Oct 2026 04:26:00 GMT",
+      "source": "The Financial Express"
+    },
+    {
+      "topic": "games",
+      "title": "Retro gaming handhelds in crisis as US government considers clampdown – could be labelled as \"superfakes\" and banned - Yahoo Tech",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSm9qTTljVF9wX24tUHZRd25uMnhqbVpheWo2dU1KVnllQzlIMURzNDlzWV9vSUFPaXVRLUJPWjhYRFc0SGhzNlFHNldmWGpaZk4tdVJVYVFTaUJETFhsSEF6aGNDbzhLRUo5MzVodno0c05OcHg0NFVkUlVWbGxUQ2ZOWVNMZGY5N1Q5U09QSQ?oc=5",
+      "publishedAt": "Wed, 14 Oct 2026 07:00:00 GMT",
+      "source": "Yahoo Tech"
     },
     {
       "topic": "games",
@@ -164,13 +171,6 @@
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRWNEUWVQRV90S2V1RzB2UThGQjBvdGU2OTZ0bWdNVklUcWlFWHQwM25KZVF4RTlHMDJyM2M0TXhmazJ4RDZvTWg2WkVrc1JDaV93UnVNYk1xOVhvRWtsQngtdVBNQU5PQzhSSFZMb2NWazdWekZ6YWFkNTZOaURqV0ZWcTNyQQ?oc=5",
       "publishedAt": "Thu, 08 Oct 2026 07:00:00 GMT",
       "source": "KPTV"
-    },
-    {
-      "topic": "games",
-      "title": "Why US Regulators Might Soon Ban Popular Retro Gaming Handhelds - HotHardware",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQS1ZSNVlqT1hkeC0xNU1od29WN0N1T3dhendNZGpJQmZweXdESTgtcnllWFVBeEExMXlHcUJxQ1FYdGs3TUJkdlJGU1Rlb1ZIcmJ1bTZXTTM1VzBTeFVWUXFuUFl5VUk3TEFUTHV2TXI5VG5DRGR0ZUdGZ2ZwbjFYcHR1UHVaa1A0OXU0LXpQWDV6elI1Wkc4?oc=5",
-      "publishedAt": "Thu, 15 Oct 2026 07:00:00 GMT",
-      "source": "HotHardware"
     },
     {
       "topic": "agriculture",
@@ -211,22 +211,22 @@
   "feedStatus": [
     {
       "topic": "creator",
-      "checkedAt": "2026-10-27T00:30:05.283671+00:00",
+      "checkedAt": "2026-10-27T06:21:08.631388+00:00",
       "status": "ok"
     },
     {
       "topic": "clothing",
-      "checkedAt": "2026-10-27T00:30:05.832443+00:00",
+      "checkedAt": "2026-10-27T06:21:09.279817+00:00",
       "status": "ok"
     },
     {
       "topic": "games",
-      "checkedAt": "2026-10-27T00:30:06.538483+00:00",
+      "checkedAt": "2026-10-27T06:21:09.919312+00:00",
       "status": "ok"
     },
     {
       "topic": "agriculture",
-      "checkedAt": "2026-10-27T00:30:07.224489+00:00",
+      "checkedAt": "2026-10-27T06:21:10.448646+00:00",
       "status": "ok"
     }
   ]
