@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "checkedAt": "2026-10-29T08:35:03.648694+00:00",
+  "checkedAt": "2026-10-29T16:12:15.672489+00:00",
   "competitors": [
     {
       "name": "Social Square",
       "url": "https://socialsquare.co/",
-      "checkedAt": "2026-10-29T08:35:03.648708+00:00",
+      "checkedAt": "2026-10-29T16:12:15.672506+00:00",
       "title": "Social Square | UGC Marketplace for Creators",
       "description": "Get paid to create content for brands with Social Square. Discover UGC campaigns, collaborate with companies, publish",
       "mentions": [
@@ -19,7 +19,7 @@
     {
       "name": "Bengal Reach",
       "url": "https://www.bengalreach.com/",
-      "checkedAt": "2026-10-29T08:35:05.064463+00:00",
+      "checkedAt": "2026-10-29T16:12:17.105658+00:00",
       "title": "bengalReach - Connect Influencers with Brands in Bangladesh",
       "description": "Leading influencer marketing platform in Bangladesh. Connect local influencers with brands for authentic social media campaigns across",
       "mentions": [
@@ -33,7 +33,7 @@
     {
       "name": "Maroon Ltd.",
       "url": "https://www.maroonltd.com/",
-      "checkedAt": "2026-10-29T08:35:06.579836+00:00",
+      "checkedAt": "2026-10-29T16:12:18.672671+00:00",
       "title": "Maroon Limited",
       "description": "A PR and Digital Communication Agency in Dhaka, Bangladesh.",
       "mentions": [
@@ -48,7 +48,7 @@
     {
       "name": "Ngital",
       "url": "https://ngital.com/",
-      "checkedAt": "2026-10-29T08:35:09.904310+00:00",
+      "checkedAt": "2026-10-29T16:12:23.676596+00:00",
       "title": "Ngital — Best Digital Marketing Agency in Dhaka,",
       "description": "Award-winning digital marketing agency in Dhaka, Bangladesh. Expert SEO, Google Ads, Meta Ads & Creative — trusted",
       "mentions": [
@@ -68,7 +68,7 @@
       "name": "Internet use",
       "unit": "% of population",
       "url": "https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=BD",
-      "checkedAt": "2026-10-29T08:35:14.890850+00:00",
+      "checkedAt": "2026-10-29T16:12:28.321529+00:00",
       "status": "ok",
       "value": 53.42171316,
       "year": "2024"
@@ -78,7 +78,7 @@
       "name": "Population",
       "unit": "people",
       "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=BD",
-      "checkedAt": "2026-10-29T08:35:15.185937+00:00",
+      "checkedAt": "2026-10-29T16:12:28.516983+00:00",
       "status": "ok",
       "value": 175686899,
       "year": "2025"
@@ -88,7 +88,7 @@
       "name": "Inflation",
       "unit": "% annual",
       "url": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=BD",
-      "checkedAt": "2026-10-29T08:35:15.227965+00:00",
+      "checkedAt": "2026-10-29T16:12:28.658343+00:00",
       "status": "ok",
       "value": 8.7687628116114,
       "year": "2025"
@@ -125,17 +125,17 @@
     },
     {
       "topic": "clothing",
-      "title": "The next order: Will it go to Bangladesh? - Fibre2Fashion",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMncxbUMtejNsbVp0MFFjU21hbWg1ZnVtb2dfdHlHSUJwQXNWYlVybERXR0RvRlhmU3IwSnM4Vlp2OVVFMVhhSHBTWmF4UmFwX3pZZ0JTaGR1UDN6S2stalBoLVFTT01TUUx1dzRDaEV4RzdoS1FydThXY091TUp4MW9ZOThRaWczSzIzeEVObDgzYU5acUpuYUdWeFdLdzl3cXhwbG5LOExXLUJ3OXZ1Nw?oc=5",
-      "publishedAt": "Wed, 07 Oct 2026 09:31:24 GMT",
+      "title": "Bangladesh's apparel exports to US rebound in August - Fibre2Fashion",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPa0lVVTdPdTM2UzVlS3RLYWVPV04yT3BCaENxLUVnMWNzRmx5RTlFSVVDSEdtbklycXkwSTE4NmVlVTlVVkNyTDVpOF9QMjlIZFljNnBkX05HcTNFOUxZb0RSMDZULW1TSks3UmZYcTNwVnZTTDF6OGxUMkRMUEpENlF4Y2tRMFd4MEh1MkozS3lYWW5sRmM4ajlHUFZPcFJ3aWtNZV9GcDB0M1J3OUlBWV9fZXUybno0TjkzeU5SUUs?oc=5",
+      "publishedAt": "Thu, 08 Oct 2026 07:00:00 GMT",
       "source": "Fibre2Fashion"
     },
     {
       "topic": "clothing",
-      "title": "Fashion brands urged to fund Bangladesh’s garment sector energy transition - Daily Sun",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbnFlYWtIZGxtSnhFcVlxZGVrVFFfQVQwUThVMDlTdGlGZlRDN29wdDBGSzk5dzV5T09wODhXRGo3ZV8xbGVQTldNcURkalM4eV92Q0taZUpZcFdhUlBPVS0zZS1ZWE5GX3lpMHd4anFHUENzeHY0RjlFMldLQzJERldHUW92N3d1SzMxRmVEeWFqUGhrWF9rdk5ZbFp1WHpVNVdOU0ZOZndoVm42dTZCUFU2M0VDZVU?oc=5",
-      "publishedAt": "Tue, 27 Oct 2026 08:49:07 GMT",
-      "source": "Daily Sun"
+      "title": "AmCham Pledges $5 Billion as Bangladesh Seeks US Healthcare Tie-Up | Living - Retail News Asia",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdlNYWEFZZUNGd2w3N1pUZnd2a1A0Z2ZhWjNWV3BhOEVacUF3RlBOQTI0MlZnYlc2OFQwRFM5M2xscTdrMTBVcm81bHYzMEJ4dnRTa3dSdWtLc3BTcEk5MmRCdWZ4UnE3UWNWb0ZFN3owRXJ1TW9uOXY4NmlrYkdNZW53Z1FEbWcxMW1MUVFqU2NfY3M?oc=5",
+      "publishedAt": "Mon, 19 Oct 2026 19:38:56 GMT",
+      "source": "Retail News Asia"
     },
     {
       "topic": "games",
@@ -181,6 +181,13 @@
     },
     {
       "topic": "agriculture",
+      "title": "ADB to lend Bangladesh $100m to commercialise agriculture - The Financial Express",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQ2JfMzQ0MnZ0WXJNLU5yRWNINUFDMHBidGhXWmt3eU1kQ0lLc0kxRjEyNkJLZ0hwR0JzdkcwZkNDaDBoTmVtU2FFVURzdXE1YjVPVkFRemV3U0tDS2ZHVGFZeTRKRnhzWk1iNUg1eExvU3pNai1BU05XejJuNjNpSGk1VUR3WVgzeVJYT3BxbGVmdjZ4UFhNQ0I2QnEzdw?oc=5",
+      "publishedAt": "Sat, 03 Oct 2026 07:00:00 GMT",
+      "source": "The Financial Express"
+    },
+    {
+      "topic": "agriculture",
       "title": "Bangladesh’s nano urea patent opens new agricultural horizons - Bangladesh Sangbad Sangstha (BSS)",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9QWkFDOVJaREljVk14SVd2eFQtN19Td0JCN1pwSUZuWXZOODRyQ24tUU9NYVVrazNfOVFKTHdOUWtaenNVRXl3aDFraW5YbDRPeHpqLThwUFFMUGc?oc=5",
       "publishedAt": "Wed, 28 Oct 2026 10:08:55 GMT",
@@ -195,38 +202,31 @@
     },
     {
       "topic": "agriculture",
-      "title": "Govt to create 20,000 agricultural entrepreneurs nationwide - Bangladesh Sangbad Sangstha (BSS)",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5XR0ZNVl93Szcxd1lGRlB4Rkk1dzQyOFQxQTVoNk9zNlVDOHlIbXAxOFp1Yk5kMlFpMDduYmJteTZ2X1FkN3lBTS1SS1EwcDNsV19V?oc=5",
-      "publishedAt": "Sat, 10 Oct 2026 07:00:00 GMT",
-      "source": "Bangladesh Sangbad Sangstha (BSS)"
-    },
-    {
-      "topic": "agriculture",
-      "title": "President calls for making agriculture more profitable - Dhaka Tribune",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdWZrM2lDcExXTEdaVEJkTHY4cFR0UURvTkRmTHIzWHduVi1PaXV4cFFtbWtDYUx6Q1pteXNLWEZMM3dPWTBTZl9vNnlFN2JDMUpiOVlzclZqVFFkUnI4QWxuUlhsSVhmMEt3bGFvMnVhMDZld2F6NWh6ZVREdTRHTHlzOTZ1MkNRTVV6NlFsVndzVTliOEhQNHl6R21RTlRiRWVV0gGjAUFVX3lxTE51ZmszaUNwTFdMR1pUQmRMdjhwVHRRRG9ORGZMcjNYd25WLU9pdXhwUW1ta0NhTHpDWm15c0tYRkwzd09ZMFNmX282eUU3YkMxSmI5WXNyVmpUUWRScjhBbG5SWGxJWGYwS3dsYW8ydWEwNmV3YXo1aHplVER1NEdMeXM5NnUyQ1FNVXo2UWxWd3NVOWI4SFA0eXpHbVFOVGJFZVU?oc=5",
-      "publishedAt": "Thu, 15 Oct 2026 14:39:40 GMT",
-      "source": "Dhaka Tribune"
+      "title": "A Warming World, a Threatened Food Future: Can our Agriculture Adapt? - Bangladesh Post",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWlN3MXpRNldaMWp3QkMtMzV3U051X0k4Nktzdjc2cGtrMnZ5MDBQOFRMTlBLWm15WHVkbThiS1NZNlFHRk9NWlBDZUZpZllzVGoyRDRZdUxITjZQRHpHa3lKNkpCTkwwSW9Ball2azI3c3A5d0E4Qkp4U1dHMFRrTExselU0RGc3S1M2MHdoUUxMZWtkNnI4c2k1RjlYMFhjeTd5TXlTcTNWZw?oc=5",
+      "publishedAt": "Tue, 27 Oct 2026 14:41:07 GMT",
+      "source": "Bangladesh Post"
     }
   ],
   "feedStatus": [
     {
       "topic": "creator",
-      "checkedAt": "2026-10-29T08:35:15.304536+00:00",
+      "checkedAt": "2026-10-29T16:12:28.741058+00:00",
       "status": "ok"
     },
     {
       "topic": "clothing",
-      "checkedAt": "2026-10-29T08:35:15.651164+00:00",
+      "checkedAt": "2026-10-29T16:12:29.148006+00:00",
       "status": "ok"
     },
     {
       "topic": "games",
-      "checkedAt": "2026-10-29T08:35:16.006269+00:00",
+      "checkedAt": "2026-10-29T16:12:29.758248+00:00",
       "status": "ok"
     },
     {
       "topic": "agriculture",
-      "checkedAt": "2026-10-29T08:35:16.369530+00:00",
+      "checkedAt": "2026-10-29T16:12:30.195897+00:00",
       "status": "ok"
     }
   ]
