@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "checkedAt": "2026-10-30T01:05:35.207386+00:00",
+  "checkedAt": "2026-10-30T07:12:20.235875+00:00",
   "competitors": [
     {
       "name": "Social Square",
       "url": "https://socialsquare.co/",
-      "checkedAt": "2026-10-30T01:05:35.207403+00:00",
+      "checkedAt": "2026-10-30T07:12:20.235890+00:00",
       "title": "Social Square | UGC Marketplace for Creators",
       "description": "Get paid to create content for brands with Social Square. Discover UGC campaigns, collaborate with companies, publish",
       "mentions": [
@@ -19,7 +19,7 @@
     {
       "name": "Bengal Reach",
       "url": "https://www.bengalreach.com/",
-      "checkedAt": "2026-10-30T01:05:37.184270+00:00",
+      "checkedAt": "2026-10-30T07:12:21.511765+00:00",
       "title": "bengalReach - Connect Influencers with Brands in Bangladesh",
       "description": "Leading influencer marketing platform in Bangladesh. Connect local influencers with brands for authentic social media campaigns across",
       "mentions": [
@@ -33,7 +33,7 @@
     {
       "name": "Maroon Ltd.",
       "url": "https://www.maroonltd.com/",
-      "checkedAt": "2026-10-30T01:05:39.247393+00:00",
+      "checkedAt": "2026-10-30T07:12:22.744911+00:00",
       "title": "Maroon Limited",
       "description": "A PR and Digital Communication Agency in Dhaka, Bangladesh.",
       "mentions": [
@@ -48,7 +48,7 @@
     {
       "name": "Ngital",
       "url": "https://ngital.com/",
-      "checkedAt": "2026-10-30T01:05:44.304210+00:00",
+      "checkedAt": "2026-10-30T07:12:27.726974+00:00",
       "title": "Ngital — Best Digital Marketing Agency in Dhaka,",
       "description": "Award-winning digital marketing agency in Dhaka, Bangladesh. Expert SEO, Google Ads, Meta Ads & Creative — trusted",
       "mentions": [
@@ -68,7 +68,7 @@
       "name": "Internet use",
       "unit": "% of population",
       "url": "https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=BD",
-      "checkedAt": "2026-10-30T01:05:49.623048+00:00",
+      "checkedAt": "2026-10-30T07:12:30.912649+00:00",
       "status": "ok",
       "value": 53.42171316,
       "year": "2024"
@@ -78,7 +78,7 @@
       "name": "Population",
       "unit": "people",
       "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=BD",
-      "checkedAt": "2026-10-30T01:05:49.796842+00:00",
+      "checkedAt": "2026-10-30T07:12:43.308490+00:00",
       "status": "ok",
       "value": 175686899,
       "year": "2025"
@@ -88,7 +88,7 @@
       "name": "Inflation",
       "unit": "% annual",
       "url": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=BD",
-      "checkedAt": "2026-10-30T01:05:49.921551+00:00",
+      "checkedAt": "2026-10-30T07:12:55.826457+00:00",
       "status": "ok",
       "value": 8.7687628116114,
       "year": "2025"
@@ -125,17 +125,17 @@
     },
     {
       "topic": "clothing",
-      "title": "Standard Chartered announces plan to sell wealth and retail business in Bangladesh - The Daily Star",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSDhQczVrLUl4RnJNTDV0U3pJVTd6ZHVNY2pjYzMtbzQ4RnBqZU01QmtxQzBtWVl6bWxtMVZLTjRtLThhX25EZ2w5Y3pMV0xwSkpsUVdvVExQZzVabDFmdTZnQlp3ajhaUWFRaGVMYnlSczBxWnlRNFg3SjZ4T3FkdDFySFNsbG9OWFZIMWZzN0t2NmRmRHZmdUZfa180V0VHQ2ZMLVd4dTBXaUdkM1V5QjJuUmVVaGZfM29jeEFtckF1QVpHOEE?oc=5",
-      "publishedAt": "Thu, 08 Oct 2026 07:00:00 GMT",
-      "source": "The Daily Star"
-    },
-    {
-      "topic": "clothing",
       "title": "The next order: Will it go to Bangladesh? - Fibre2Fashion",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMncxbUMtejNsbVp0MFFjU21hbWg1ZnVtb2dfdHlHSUJwQXNWYlVybERXR0RvRlhmU3IwSnM4Vlp2OVVFMVhhSHBTWmF4UmFwX3pZZ0JTaGR1UDN6S2stalBoLVFTT01TUUx1dzRDaEV4RzdoS1FydThXY091TUp4MW9ZOThRaWczSzIzeEVObDgzYU5acUpuYUdWeFdLdzl3cXhwbG5LOExXLUJ3OXZ1Nw?oc=5",
       "publishedAt": "Wed, 07 Oct 2026 09:31:24 GMT",
       "source": "Fibre2Fashion"
+    },
+    {
+      "topic": "clothing",
+      "title": "Fashion brands urged to fund Bangladesh’s garment sector energy transition - Daily Sun",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZ1k5VUlURXBBLUFRZG1nNFJKQzI0d3dCRHNTUUw1RExoeTZOWldIU0dScnlDTzM0R3o5UTVDeVo0UlZ4cHlZeWh4S25xWnl4RGVzTk1qUVJjN2xEVVF6QW8tN0hDMklzdk04SWNWcjBWRFVTMENYMnlhaFFmZ3pkamZ4Rk9IdDlqRkQ1ZEZGZHVoUHhzSEdBR0M0dnJ0MEJ1bTc3cnhKNnNxVF9hN01tZ3U3WW03QQ?oc=5",
+      "publishedAt": "Tue, 27 Oct 2026 08:49:07 GMT",
+      "source": "Daily Sun"
     },
     {
       "topic": "games",
@@ -211,22 +211,22 @@
   "feedStatus": [
     {
       "topic": "creator",
-      "checkedAt": "2026-10-30T01:05:50.091300+00:00",
+      "checkedAt": "2026-10-30T07:13:04.519271+00:00",
       "status": "ok"
     },
     {
       "topic": "clothing",
-      "checkedAt": "2026-10-30T01:05:50.621275+00:00",
+      "checkedAt": "2026-10-30T07:13:04.960867+00:00",
       "status": "ok"
     },
     {
       "topic": "games",
-      "checkedAt": "2026-10-30T01:05:51.119971+00:00",
+      "checkedAt": "2026-10-30T07:13:05.285456+00:00",
       "status": "ok"
     },
     {
       "topic": "agriculture",
-      "checkedAt": "2026-10-30T01:05:51.770560+00:00",
+      "checkedAt": "2026-10-30T07:13:05.735837+00:00",
       "status": "ok"
     }
   ]
