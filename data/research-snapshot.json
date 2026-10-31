@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "checkedAt": "2026-10-31T12:40:07.185254+00:00",
+  "checkedAt": "2026-10-31T17:47:12.664198+00:00",
   "competitors": [
     {
       "name": "Social Square",
       "url": "https://socialsquare.co/",
-      "checkedAt": "2026-10-31T12:40:07.185270+00:00",
+      "checkedAt": "2026-10-31T17:47:12.664211+00:00",
       "title": "Social Square | UGC Marketplace for Creators",
       "description": "Get paid to create content for brands with Social Square. Discover UGC campaigns, collaborate with companies, publish",
       "mentions": [
@@ -19,7 +19,7 @@
     {
       "name": "Bengal Reach",
       "url": "https://www.bengalreach.com/",
-      "checkedAt": "2026-10-31T12:40:08.633672+00:00",
+      "checkedAt": "2026-10-31T17:47:14.396798+00:00",
       "title": "bengalReach - Connect Influencers with Brands in Bangladesh",
       "description": "Leading influencer marketing platform in Bangladesh. Connect local influencers with brands for authentic social media campaigns across",
       "mentions": [
@@ -33,7 +33,7 @@
     {
       "name": "Maroon Ltd.",
       "url": "https://www.maroonltd.com/",
-      "checkedAt": "2026-10-31T12:40:10.288469+00:00",
+      "checkedAt": "2026-10-31T17:47:16.129220+00:00",
       "title": "Maroon Limited",
       "description": "A PR and Digital Communication Agency in Dhaka, Bangladesh.",
       "mentions": [
@@ -48,7 +48,7 @@
     {
       "name": "Ngital",
       "url": "https://ngital.com/",
-      "checkedAt": "2026-10-31T12:40:15.629237+00:00",
+      "checkedAt": "2026-10-31T17:47:21.551117+00:00",
       "title": "Ngital — Best Digital Marketing Agency in Dhaka,",
       "description": "Award-winning digital marketing agency in Dhaka, Bangladesh. Expert SEO, Google Ads, Meta Ads & Creative — trusted",
       "mentions": [
@@ -68,7 +68,7 @@
       "name": "Internet use",
       "unit": "% of population",
       "url": "https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=BD",
-      "checkedAt": "2026-10-31T12:40:20.659661+00:00",
+      "checkedAt": "2026-10-31T17:47:25.946005+00:00",
       "status": "ok",
       "value": 53.42171316,
       "year": "2024"
@@ -78,7 +78,7 @@
       "name": "Population",
       "unit": "people",
       "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=BD",
-      "checkedAt": "2026-10-31T12:40:21.221797+00:00",
+      "checkedAt": "2026-10-31T17:47:26.160827+00:00",
       "status": "ok",
       "value": 175686899,
       "year": "2025"
@@ -88,7 +88,7 @@
       "name": "Inflation",
       "unit": "% annual",
       "url": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=BD",
-      "checkedAt": "2026-10-31T12:40:21.512751+00:00",
+      "checkedAt": "2026-10-31T17:47:26.337429+00:00",
       "status": "ok",
       "value": 8.7687628116114,
       "year": "2025"
@@ -119,7 +119,7 @@
     {
       "topic": "clothing",
       "title": "EU traceability push puts Bangladesh's SMEs to the test - Fibre2Fashion",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQR1RVSnY0WVVKcVJLakp0WDdJQ1VlU29GNHdtR3NmRlNNaERBcGt3cXhTX2tCNU00dWowQnhBSE9GZjcwVHpBR2I4U2VHVjgwdS1CUmZuY0dvdzZ2RUZuY2dTWGRlN29RZkZRSThrcjcweTJ1UWhqRlJVNnN3Z0RNckxkMVd1UVdFNDVyWTFjYURFLVBmZmZrdUJzQ2hjc2lXRlNzaUhzdXVkNG5PcGFqYm9UalkzNjN1bmY0ckctZXd5a2V4?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZUVtTHB5UHVSajFBby15VldJLS1UVHdtaDBuMTB1SElaSks1eUNvVnhPWGphSnBkb0xOSTZUdmkxTkNxV1otajlnaE5tdFlPaV9NMVJ1U0xwQjZrak0yX2J3cTZNTjhBZkFUYzMyTWdJUlJMQXRKOHlxTm0zX2FKcFk5LTNRVkRic19sSERubjE0MDFtTm9rSTFvLU5kQThBbnF5bEFJb0NVemsxYTdEVDkyRFVTMHplSmlSMEdLZG5DSFZXV1QtRHJ3UTZlT0Q4a0tHaDNGeWlzZw?oc=5",
       "publishedAt": "Fri, 16 Oct 2026 07:00:00 GMT",
       "source": "Fibre2Fashion"
     },
@@ -132,10 +132,10 @@
     },
     {
       "topic": "clothing",
-      "title": "Fashion brands urged to fund Bangladesh’s garment sector energy transition - Daily Sun",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZ1k5VUlURXBBLUFRZG1nNFJKQzI0d3dCRHNTUUw1RExoeTZOWldIU0dScnlDTzM0R3o5UTVDeVo0UlZ4cHlZeWh4S25xWnl4RGVzTk1qUVJjN2xEVVF6QW8tN0hDMklzdk04SWNWcjBWRFVTMENYMnlhaFFmZ3pkamZ4Rk9IdDlqRkQ1ZEZGZHVoUHhzSEdBR0M0dnJ0MEJ1bTc3cnhKNnNxVF9hN01tZ3U3WW03QQ?oc=5",
-      "publishedAt": "Tue, 27 Oct 2026 08:49:07 GMT",
-      "source": "Daily Sun"
+      "title": "Standard Chartered Bank Bangladesh Retail Banking Closure | StanChart confirms retail banking exit - The Daily Star",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbkFkbDh1dXZfYzdpTy1YTm56SXpzTGgwTHZiSnhNVnZwcnVjLTBSSklLZF8yRkxhLW16bGhYVmtkVFhDcXRqMHNiaGZCRmFRczktRGM2YmptRXlXeGpRVVNJQndkdXQ1SjR0VS1RR2V0dkNRdHQ2czN3V2RUY2lDcWhwZGpQaTZVaVRXcGVfYUVkOHJldW45N2txUGw?oc=5",
+      "publishedAt": "Fri, 09 Oct 2026 07:00:00 GMT",
+      "source": "The Daily Star"
     },
     {
       "topic": "games",
@@ -174,17 +174,10 @@
     },
     {
       "topic": "agriculture",
-      "title": "China cooperation needed to modernise and develop Bangladesh’s agriculture sector - The Climate Watch",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSHU3MlhZMVFlWjFsR2F3Vm5wN3dsak11Q21OeDVkMkViWmVwOGFneVIwR1dFb2xMVDBMcDFwVVQyUm1OcU1zNWRXMl9RVWVvTTlicDRVQzBkZXItN2EwV0g0OW5kbDkyS2Y5emVsTWxBblJleWpwbU94TzBDTFpCRUtwbnVJaW1oOGVhX3NUV3JyTVdZX3pocjhGVEZsaGdBYkNobzNteTQ3RmNncGc?oc=5",
-      "publishedAt": "Wed, 07 Oct 2026 07:00:00 GMT",
-      "source": "The Climate Watch"
-    },
-    {
-      "topic": "agriculture",
-      "title": "ADB to lend Bangladesh $100m to commercialise agriculture - The Financial Express",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQ2JfMzQ0MnZ0WXJNLU5yRWNINUFDMHBidGhXWmt3eU1kQ0lLc0kxRjEyNkJLZ0hwR0JzdkcwZkNDaDBoTmVtU2FFVURzdXE1YjVPVkFRemV3U0tDS2ZHVGFZeTRKRnhzWk1iNUg1eExvU3pNai1BU05XejJuNjNpSGk1VUR3WVgzeVJYT3BxbGVmdjZ4UFhNQ0I2QnEzdw?oc=5",
-      "publishedAt": "Sat, 03 Oct 2026 07:00:00 GMT",
-      "source": "The Financial Express"
+      "title": "Minister: Strong agricultural economy key to national economic growth - Dhaka Tribune",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSktMQzlWRlhDOE1Fb1o4eVdCd1UxOE9nLW13dTlZeTBZdl8zWXZnQk5hNEFFdUdQSTdfc21FSDNteEJPMHQ5UkQ0T1lMY1lvb2drUV9FMWtGdVhVLUptZVVZUVBGemJfaGhzdTFUSWU5M1pkbDAyZXZJakk0dURsZWpqclA1OHFKTXp4bF9hUEdqcEdPb2VYYjhadTRwRDFid3hF0gGjAUFVX3lxTFBKS0xDOVZGWEM4TUVvWjh5V0J3VTE4T2ctbXd1OVl5MFl2XzNZdmdCTmE0QUV1R1BJN19zbUVIM214Qk8wdDlSRDRPWUxjWW9vZ2tRX0Uxa0Z1WFUtSm1lVVlRUEZ6Yl9oaHN1MVRJZTkzWmRsMDJldklqSTR1RGxlampyUDU4cUpNenhsX2FQR2pwR09vZVhiOFp1NHBEMWJ3eEU?oc=5",
+      "publishedAt": "Sat, 31 Oct 2026 14:00:34 GMT",
+      "source": "Dhaka Tribune"
     },
     {
       "topic": "agriculture",
@@ -202,6 +195,13 @@
     },
     {
       "topic": "agriculture",
+      "title": "Bangladesh’s nano urea patent opens new agricultural horizons - Bangladesh Sangbad Sangstha (BSS)",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9QWkFDOVJaREljVk14SVd2eFQtN19Td0JCN1pwSUZuWXZOODRyQ24tUU9NYVVrazNfOVFKTHdOUWtaenNVRXl3aDFraW5YbDRPeHpqLThwUFFMUGc?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 10:08:55 GMT",
+      "source": "Bangladesh Sangbad Sangstha (BSS)"
+    },
+    {
+      "topic": "agriculture",
       "title": "Bangladesh, Algeria seek broader cooperation in energy, agriculture, textiles - Dhaka Tribune",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPa0N5NnZfSzRscFV1NEVVanhrNEVzeUUxalJVdGNwVTg1b1hIVWtycHRHeDRWcFdPU0ZsVFlmY05NMEg5c2pVMjFVaUJPTFA3WXc3YkxxdVBVWEtPUGdqNE42aVRMQ0dEVHNHZHo2NU5hTlJhYTROV1dZYUI5bjVWRXVJdWdldk9TanoxUFhTaEI5YXI4N1NGVnl2X2xOM2RvbllrMDEyeTFrNWViaGfSAbMBQVVfeXFMTVlIYk01N1phN3pmS19MNEI1ZGJrUnhrSWktSGJKR2JoOU5KcGVvTEFkWWRLdkFEdnhrUXBkVUNMSFBmdTBXaHZ2SHJpODJ6NXFQQkt5bE1CbllucU02UUpyQ0xsS1M2UldyQ1ZMaXpyaUFMRWNFZjlxRFY1RzJnY3RvSFhoS3lYZDJJcEdhTkJVTUl5TDZSRzEzbW9MakdtNmt0WDcwcjF2NzE5dUo4UnJtT28?oc=5",
       "publishedAt": "Thu, 22 Oct 2026 07:00:00 GMT",
@@ -211,22 +211,22 @@
   "feedStatus": [
     {
       "topic": "creator",
-      "checkedAt": "2026-10-31T12:40:21.762471+00:00",
+      "checkedAt": "2026-10-31T17:47:26.513214+00:00",
       "status": "ok"
     },
     {
       "topic": "clothing",
-      "checkedAt": "2026-10-31T12:40:22.252465+00:00",
+      "checkedAt": "2026-10-31T17:47:27.071632+00:00",
       "status": "ok"
     },
     {
       "topic": "games",
-      "checkedAt": "2026-10-31T12:40:22.621298+00:00",
+      "checkedAt": "2026-10-31T17:47:27.463267+00:00",
       "status": "ok"
     },
     {
       "topic": "agriculture",
-      "checkedAt": "2026-10-31T12:40:22.980531+00:00",
+      "checkedAt": "2026-10-31T17:47:27.876766+00:00",
       "status": "ok"
     }
   ]
