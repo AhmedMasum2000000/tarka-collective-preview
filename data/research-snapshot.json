@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "checkedAt": "2026-10-31T05:50:49.172339+00:00",
+  "checkedAt": "2026-10-31T12:40:07.185254+00:00",
   "competitors": [
     {
       "name": "Social Square",
       "url": "https://socialsquare.co/",
-      "checkedAt": "2026-10-31T05:50:49.172355+00:00",
+      "checkedAt": "2026-10-31T12:40:07.185270+00:00",
       "title": "Social Square | UGC Marketplace for Creators",
       "description": "Get paid to create content for brands with Social Square. Discover UGC campaigns, collaborate with companies, publish",
       "mentions": [
@@ -19,7 +19,7 @@
     {
       "name": "Bengal Reach",
       "url": "https://www.bengalreach.com/",
-      "checkedAt": "2026-10-31T05:50:50.879317+00:00",
+      "checkedAt": "2026-10-31T12:40:08.633672+00:00",
       "title": "bengalReach - Connect Influencers with Brands in Bangladesh",
       "description": "Leading influencer marketing platform in Bangladesh. Connect local influencers with brands for authentic social media campaigns across",
       "mentions": [
@@ -33,7 +33,7 @@
     {
       "name": "Maroon Ltd.",
       "url": "https://www.maroonltd.com/",
-      "checkedAt": "2026-10-31T05:50:52.559946+00:00",
+      "checkedAt": "2026-10-31T12:40:10.288469+00:00",
       "title": "Maroon Limited",
       "description": "A PR and Digital Communication Agency in Dhaka, Bangladesh.",
       "mentions": [
@@ -48,7 +48,7 @@
     {
       "name": "Ngital",
       "url": "https://ngital.com/",
-      "checkedAt": "2026-10-31T05:50:58.213455+00:00",
+      "checkedAt": "2026-10-31T12:40:15.629237+00:00",
       "title": "Ngital — Best Digital Marketing Agency in Dhaka,",
       "description": "Award-winning digital marketing agency in Dhaka, Bangladesh. Expert SEO, Google Ads, Meta Ads & Creative — trusted",
       "mentions": [
@@ -68,7 +68,7 @@
       "name": "Internet use",
       "unit": "% of population",
       "url": "https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=BD",
-      "checkedAt": "2026-10-31T05:51:03.389633+00:00",
+      "checkedAt": "2026-10-31T12:40:20.659661+00:00",
       "status": "ok",
       "value": 53.42171316,
       "year": "2024"
@@ -78,7 +78,7 @@
       "name": "Population",
       "unit": "people",
       "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=BD",
-      "checkedAt": "2026-10-31T05:51:03.529369+00:00",
+      "checkedAt": "2026-10-31T12:40:21.221797+00:00",
       "status": "ok",
       "value": 175686899,
       "year": "2025"
@@ -88,7 +88,7 @@
       "name": "Inflation",
       "unit": "% annual",
       "url": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=BD",
-      "checkedAt": "2026-10-31T05:51:03.620614+00:00",
+      "checkedAt": "2026-10-31T12:40:21.512751+00:00",
       "status": "ok",
       "value": 8.7687628116114,
       "year": "2025"
@@ -119,7 +119,7 @@
     {
       "topic": "clothing",
       "title": "EU traceability push puts Bangladesh's SMEs to the test - Fibre2Fashion",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZUVtTHB5UHVSajFBby15VldJLS1UVHdtaDBuMTB1SElaSks1eUNvVnhPWGphSnBkb0xOSTZUdmkxTkNxV1otajlnaE5tdFlPaV9NMVJ1U0xwQjZrak0yX2J3cTZNTjhBZkFUYzMyTWdJUlJMQXRKOHlxTm0zX2FKcFk5LTNRVkRic19sSERubjE0MDFtTm9rSTFvLU5kQThBbnF5bEFJb0NVemsxYTdEVDkyRFVTMHplSmlSMEdLZG5DSFZXV1QtRHJ3UTZlT0Q4a0tHaDNGeWlzZw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQR1RVSnY0WVVKcVJLakp0WDdJQ1VlU29GNHdtR3NmRlNNaERBcGt3cXhTX2tCNU00dWowQnhBSE9GZjcwVHpBR2I4U2VHVjgwdS1CUmZuY0dvdzZ2RUZuY2dTWGRlN29RZkZRSThrcjcweTJ1UWhqRlJVNnN3Z0RNckxkMVd1UVdFNDVyWTFjYURFLVBmZmZrdUJzQ2hjc2lXRlNzaUhzdXVkNG5PcGFqYm9UalkzNjN1bmY0ckctZXd5a2V4?oc=5",
       "publishedAt": "Fri, 16 Oct 2026 07:00:00 GMT",
       "source": "Fibre2Fashion"
     },
@@ -160,17 +160,17 @@
     },
     {
       "topic": "games",
-      "title": "Evercade Nexus is a chunky, bold, fun retro gaming handheld, but it’s left me surprisingly conflicted - Stuff",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRDVzZ2xqSjV1MS1GYTRNVFpCRHN2MUlZbDFpLV9WaFh5bkxMemdmNEhmdk5tbnJwcnhJd1U3WHF0TXpLanJIREg3LVV6Ui1iY0dtWmVtY1hMbmtkY3dIaTFRdW1mZUNXNG9JeU0tejlyVnJHU1lhNVByaG5RMWMzYml1dmhhUTBMZWNlbzkxN29MUmxuMHg5YTZGYTg3UEpIaW5ZNm4weVRfVWNDanVkTnE3UzliQnJZRHFONlFzeTlEZnBCYlE?oc=5",
-      "publishedAt": "Thu, 08 Oct 2026 07:00:00 GMT",
-      "source": "Stuff"
-    },
-    {
-      "topic": "games",
       "title": "Introducing the Raspberry Pi Guide to Retro Gaming - Raspberry Pi",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdjZBNnpWN1ZUcGNuNjQxY3ptbU5WVFRYNkdOeG8xdElyVzlHZFZEdGh1SGdOT2xFX05sc191M21xTG1kU3FfdnJzWFpoQWxFR1BIRVE3bU1SNW9UNkhjekt2ZjlhUWtuS0RPd3MzaGtEWDdFNlNvNS1ZOXRoSlh2RkdLUktUS3pzam1FMA?oc=5",
       "publishedAt": "Tue, 20 Oct 2026 07:00:00 GMT",
       "source": "Raspberry Pi"
+    },
+    {
+      "topic": "games",
+      "title": "Evercade Nexus is a chunky, bold, fun retro gaming handheld, but it’s left me surprisingly conflicted - Stuff",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRDVzZ2xqSjV1MS1GYTRNVFpCRHN2MUlZbDFpLV9WaFh5bkxMemdmNEhmdk5tbnJwcnhJd1U3WHF0TXpLanJIREg3LVV6Ui1iY0dtWmVtY1hMbmtkY3dIaTFRdW1mZUNXNG9JeU0tejlyVnJHU1lhNVByaG5RMWMzYml1dmhhUTBMZWNlbzkxN29MUmxuMHg5YTZGYTg3UEpIaW5ZNm4weVRfVWNDanVkTnE3UzliQnJZRHFONlFzeTlEZnBCYlE?oc=5",
+      "publishedAt": "Thu, 08 Oct 2026 07:00:00 GMT",
+      "source": "Stuff"
     },
     {
       "topic": "agriculture",
@@ -181,6 +181,13 @@
     },
     {
       "topic": "agriculture",
+      "title": "ADB to lend Bangladesh $100m to commercialise agriculture - The Financial Express",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQ2JfMzQ0MnZ0WXJNLU5yRWNINUFDMHBidGhXWmt3eU1kQ0lLc0kxRjEyNkJLZ0hwR0JzdkcwZkNDaDBoTmVtU2FFVURzdXE1YjVPVkFRemV3U0tDS2ZHVGFZeTRKRnhzWk1iNUg1eExvU3pNai1BU05XejJuNjNpSGk1VUR3WVgzeVJYT3BxbGVmdjZ4UFhNQ0I2QnEzdw?oc=5",
+      "publishedAt": "Sat, 03 Oct 2026 07:00:00 GMT",
+      "source": "The Financial Express"
+    },
+    {
+      "topic": "agriculture",
       "title": "Govt to create 20,000 agricultural entrepreneurs nationwide - Bangladesh Sangbad Sangstha (BSS)",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5XR0ZNVl93Szcxd1lGRlB4Rkk1dzQyOFQxQTVoNk9zNlVDOHlIbXAxOFp1Yk5kMlFpMDduYmJteTZ2X1FkN3lBTS1SS1EwcDNsV19V?oc=5",
       "publishedAt": "Sat, 10 Oct 2026 07:00:00 GMT",
@@ -188,45 +195,38 @@
     },
     {
       "topic": "agriculture",
+      "title": "Bangladesh celebrates World Food Day 2026 with National Seminar: “Innovate today, Nourish tomorrow” - Food and Agriculture Organization",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYVZ5RTg4OTF5YWhMUTJXdl9JTzZjLTFCZEI3NkxNckMxYm9Mb2hjbmpDVEttSzFwM1V3Ukdtd0Y1a2J3aWFKX1cwbk5rSWljSExiUmk5LU03bVBXSm5MWGkxX2MtRXJpY0JCemRiR0JSYmhWTnNqb0pLV29kcXNVWWxscEdpRnBBaUt1Sjl4R2lIdXJRclV2ZzRWczEzMjFUOW1ITTFubGZTeVk4V1BUWUp0d3V6YzNvZlNpZmIxUC1BNk93OHlnbzZFTGVWZFdtWEZXcHRQSUY4QzRq?oc=5",
+      "publishedAt": "Sun, 18 Oct 2026 07:00:00 GMT",
+      "source": "Food and Agriculture Organization"
+    },
+    {
+      "topic": "agriculture",
       "title": "Bangladesh, Algeria seek broader cooperation in energy, agriculture, textiles - Dhaka Tribune",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPa0N5NnZfSzRscFV1NEVVanhrNEVzeUUxalJVdGNwVTg1b1hIVWtycHRHeDRWcFdPU0ZsVFlmY05NMEg5c2pVMjFVaUJPTFA3WXc3YkxxdVBVWEtPUGdqNE42aVRMQ0dEVHNHZHo2NU5hTlJhYTROV1dZYUI5bjVWRXVJdWdldk9TanoxUFhTaEI5YXI4N1NGVnl2X2xOM2RvbllrMDEyeTFrNWViaGfSAbMBQVVfeXFMTVlIYk01N1phN3pmS19MNEI1ZGJrUnhrSWktSGJKR2JoOU5KcGVvTEFkWWRLdkFEdnhrUXBkVUNMSFBmdTBXaHZ2SHJpODJ6NXFQQkt5bE1CbllucU02UUpyQ0xsS1M2UldyQ1ZMaXpyaUFMRWNFZjlxRFY1RzJnY3RvSFhoS3lYZDJJcEdhTkJVTUl5TDZSRzEzbW9MakdtNmt0WDcwcjF2NzE5dUo4UnJtT28?oc=5",
-      "publishedAt": "Thu, 22 Oct 2026 14:45:42 GMT",
-      "source": "Dhaka Tribune"
-    },
-    {
-      "topic": "agriculture",
-      "title": "Bangladesh’s nano urea patent opens new agricultural horizons - Bangladesh Sangbad Sangstha (BSS)",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9QWkFDOVJaREljVk14SVd2eFQtN19Td0JCN1pwSUZuWXZOODRyQ24tUU9NYVVrazNfOVFKTHdOUWtaenNVRXl3aDFraW5YbDRPeHpqLThwUFFMUGc?oc=5",
-      "publishedAt": "Wed, 28 Oct 2026 10:08:55 GMT",
-      "source": "Bangladesh Sangbad Sangstha (BSS)"
-    },
-    {
-      "topic": "agriculture",
-      "title": "President calls for making agriculture more profitable - Dhaka Tribune",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdWZrM2lDcExXTEdaVEJkTHY4cFR0UURvTkRmTHIzWHduVi1PaXV4cFFtbWtDYUx6Q1pteXNLWEZMM3dPWTBTZl9vNnlFN2JDMUpiOVlzclZqVFFkUnI4QWxuUlhsSVhmMEt3bGFvMnVhMDZld2F6NWh6ZVREdTRHTHlzOTZ1MkNRTVV6NlFsVndzVTliOEhQNHl6R21RTlRiRWVV0gGjAUFVX3lxTE51ZmszaUNwTFdMR1pUQmRMdjhwVHRRRG9ORGZMcjNYd25WLU9pdXhwUW1ta0NhTHpDWm15c0tYRkwzd09ZMFNmX282eUU3YkMxSmI5WXNyVmpUUWRScjhBbG5SWGxJWGYwS3dsYW8ydWEwNmV3YXo1aHplVER1NEdMeXM5NnUyQ1FNVXo2UWxWd3NVOWI4SFA0eXpHbVFOVGJFZVU?oc=5",
-      "publishedAt": "Thu, 15 Oct 2026 14:39:40 GMT",
+      "publishedAt": "Thu, 22 Oct 2026 07:00:00 GMT",
       "source": "Dhaka Tribune"
     }
   ],
   "feedStatus": [
     {
       "topic": "creator",
-      "checkedAt": "2026-10-31T05:51:03.710232+00:00",
+      "checkedAt": "2026-10-31T12:40:21.762471+00:00",
       "status": "ok"
     },
     {
       "topic": "clothing",
-      "checkedAt": "2026-10-31T05:51:04.319696+00:00",
+      "checkedAt": "2026-10-31T12:40:22.252465+00:00",
       "status": "ok"
     },
     {
       "topic": "games",
-      "checkedAt": "2026-10-31T05:51:04.805575+00:00",
+      "checkedAt": "2026-10-31T12:40:22.621298+00:00",
       "status": "ok"
     },
     {
       "topic": "agriculture",
-      "checkedAt": "2026-10-31T05:51:05.334839+00:00",
+      "checkedAt": "2026-10-31T12:40:22.980531+00:00",
       "status": "ok"
     }
   ]
