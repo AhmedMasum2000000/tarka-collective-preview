@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "checkedAt": "2026-11-01T15:14:43.329015+00:00",
+  "checkedAt": "2026-11-01T19:46:47.247663+00:00",
   "competitors": [
     {
       "name": "Social Square",
       "url": "https://socialsquare.co/",
-      "checkedAt": "2026-11-01T15:14:43.329032+00:00",
+      "checkedAt": "2026-11-01T19:46:47.247674+00:00",
       "title": "Social Square | UGC Marketplace for Creators",
       "description": "Get paid to create content for brands with Social Square. Discover UGC campaigns, collaborate with companies, publish",
       "mentions": [
@@ -19,7 +19,7 @@
     {
       "name": "Bengal Reach",
       "url": "https://www.bengalreach.com/",
-      "checkedAt": "2026-11-01T15:14:44.978567+00:00",
+      "checkedAt": "2026-11-01T19:46:49.013943+00:00",
       "title": "bengalReach - Connect Influencers with Brands in Bangladesh",
       "description": "Leading influencer marketing platform in Bangladesh. Connect local influencers with brands for authentic social media campaigns across",
       "mentions": [
@@ -33,7 +33,7 @@
     {
       "name": "Maroon Ltd.",
       "url": "https://www.maroonltd.com/",
-      "checkedAt": "2026-11-01T15:14:46.496185+00:00",
+      "checkedAt": "2026-11-01T19:46:50.457425+00:00",
       "title": "Maroon Limited",
       "description": "A PR and Digital Communication Agency in Dhaka, Bangladesh.",
       "mentions": [
@@ -48,7 +48,7 @@
     {
       "name": "Ngital",
       "url": "https://ngital.com/",
-      "checkedAt": "2026-11-01T15:14:51.915777+00:00",
+      "checkedAt": "2026-11-01T19:46:56.235496+00:00",
       "title": "Ngital — Best Digital Marketing Agency in Dhaka,",
       "description": "Award-winning digital marketing agency in Dhaka, Bangladesh. Expert SEO, Google Ads, Meta Ads & Creative — trusted",
       "mentions": [
@@ -68,16 +68,17 @@
       "name": "Internet use",
       "unit": "% of population",
       "url": "https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=BD",
-      "checkedAt": "2026-11-01T15:14:57.256341+00:00",
-      "status": "unavailable",
-      "error": "The read operation timed out"
+      "checkedAt": "2026-11-01T19:47:02.234460+00:00",
+      "status": "ok",
+      "value": 53.42171316,
+      "year": "2024"
     },
     {
       "code": "SP.POP.TOTL",
       "name": "Population",
       "unit": "people",
       "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=BD",
-      "checkedAt": "2026-11-01T15:15:15.545175+00:00",
+      "checkedAt": "2026-11-01T19:47:02.357779+00:00",
       "status": "ok",
       "value": 175686899,
       "year": "2025"
@@ -87,146 +88,37 @@
       "name": "Inflation",
       "unit": "% annual",
       "url": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=BD",
-      "checkedAt": "2026-11-01T15:15:15.756910+00:00",
+      "checkedAt": "2026-11-01T19:47:02.417287+00:00",
       "status": "ok",
       "value": 8.7687628116114,
       "year": "2025"
     }
   ],
-  "headlines": [
-    {
-      "topic": "creator",
-      "title": "Digital Marketing Freelancing in Bangladesh: Where to Start in 2026 - Bd24live",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPLXpnNFU0WUUzYjRxUWdPbWpjZXg0RnpHTHU1REhyNnUycmFVZEVBS1hxbEtxUWoxMHFsQUFCVnBfdGdBcmtURWlJLVc2YnFGcXB5VHItdlF3aF9VelUzUEY4UC1QRUVRNE1KdmtJV3ZWQi0wZlNiVTU3NmlXZU9INW9NQnN2RUhFOHlzOEJwZEdLZVlEV2Fr0gGcAUFVX3lxTE5fUTEtMVhjbW1YX2dLS1d0N3NZVG1feHNYR1kyb2U2MUo2NXF4bXFuTF9qQUhiTk1yQS1jMXVSaFc1X0NpbUFGSW9NRXNOclpZcERNbUVyd3RiclFSRlZoNFdnb05SZkp0Z3NJU1RFdGYzMmdUeHI4dk9MYnFVSnVzVU9hRmQzM3E0aU5IRlQ4SWY2aWdFRUN2aVY4aQ?oc=5",
-      "publishedAt": "Wed, 07 Oct 2026 18:33:18 GMT",
-      "source": "Bd24live"
-    },
-    {
-      "topic": "clothing",
-      "title": "StanChart Bangladesh staff walk out over retail banking sale - TheBanker.com",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE92TmpHbGY5Mm94UlFzcFl2RDJLUzBCNWtUR29fNTlvdUg3Sk0yX3lOUS1Pb0l2UFVuSVRvMmprc3dSTHIwTU42c3lMak9JSlk4cmJqTy04dnhJWnFxZ05lMC1nUEJJY2VlWkFnTzFud1hrT243SlcxZzlR?oc=5",
-      "publishedAt": "Thu, 08 Oct 2026 07:00:00 GMT",
-      "source": "TheBanker.com"
-    },
-    {
-      "topic": "clothing",
-      "title": "Adaptive fashion: Bangladesh makes clothes for the world, but not for everyone - The Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObTB0SEptUi1JeGl0c2VDVzdiVE42VDE3c1o0WGVKWHdfLUc3NjNpRjZOS1c0V25ycEVlSFprQm1NcU9XZms0VzVHaUQ3Wno5ZEo0UzRMQ1lSSVVfbF90a19DZk5pOENyTXR3b1Yyc28zVmQ0QkIxT18wV0JNeWd1VVVoeGhNdWhDQUhwa0pUS2Noa0tBZjdaSV9LaUxnQmJPNkl0RXd0S1NtMWUtcW0w?oc=5",
-      "publishedAt": "Fri, 16 Oct 2026 14:02:49 GMT",
-      "source": "The Business Standard"
-    },
-    {
-      "topic": "clothing",
-      "title": "EU traceability push puts Bangladesh's SMEs to the test - Fibre2Fashion",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQR1RVSnY0WVVKcVJLakp0WDdJQ1VlU29GNHdtR3NmRlNNaERBcGt3cXhTX2tCNU00dWowQnhBSE9GZjcwVHpBR2I4U2VHVjgwdS1CUmZuY0dvdzZ2RUZuY2dTWGRlN29RZkZRSThrcjcweTJ1UWhqRlJVNnN3Z0RNckxkMVd1UVdFNDVyWTFjYURFLVBmZmZrdUJzQ2hjc2lXRlNzaUhzdXVkNG5PcGFqYm9UalkzNjN1bmY0ckctZXd5a2V4?oc=5",
-      "publishedAt": "Fri, 16 Oct 2026 07:00:00 GMT",
-      "source": "Fibre2Fashion"
-    },
-    {
-      "topic": "clothing",
-      "title": "Bangladesh urges higher orange imports as retail prices rise - FreshPlaza",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONFFJYUVzZllsRll5aXU5eWxEaV9MdThIUFYxNndSdE14VTJ1UWQwSGpxc0RmMWtIMTJRbk50S0JtMGVmYWs1ZUZIbEJVUkl0eXlpVEV5NTJieUo5eDZoUjVRWkFsNGhaelI4TVlBM2pkTlhSbi1XTHJUSEFFdWxxenZOcWc5YVF4QzUxaHFvWUUzZ2RLRTlYRWctWllqc3JaYkRBSlhKamN1WUY0VXc?oc=5",
-      "publishedAt": "Mon, 05 Oct 2026 07:00:00 GMT",
-      "source": "FreshPlaza"
-    },
-    {
-      "topic": "clothing",
-      "title": "Standard Chartered Bank Bangladesh Retail Banking Closure | StanChart confirms retail banking exit - The Daily Star",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbkFkbDh1dXZfYzdpTy1YTm56SXpzTGgwTHZiSnhNVnZwcnVjLTBSSklLZF8yRkxhLW16bGhYVmtkVFhDcXRqMHNiaGZCRmFRczktRGM2YmptRXlXeGpRVVNJQndkdXQ1SjR0VS1RR2V0dkNRdHQ2czN3V2RUY2lDcWhwZGpQaTZVaVRXcGVfYUVkOHJldW45N2txUGw?oc=5",
-      "publishedAt": "Fri, 09 Oct 2026 07:00:00 GMT",
-      "source": "The Daily Star"
-    },
-    {
-      "topic": "games",
-      "title": "Xbox is hiring a \"Physical Games Strategist\" — will Helix have discs? - Windows Central",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPeGJyUEJTR2ZUMUVESWlCVlZEQ0VpbWFqV05pbnZqeml3MFRZUnFmOWRraEN4cXNwQjJabGE5WVZ0NFkwNHpkaFB0SE5VOUpqbG9WYXZhcjNtdjhGX3pLc0ZFX0VjT0V5eG1NekU1UEdhZUsyR1lZMnB4dmZnNVdRX2pIdnJGMXoyVXNreFBVYmJReHJCdUdIRkVxYnhvRDV3OE5sdkphelVuWnhRd2dyUkpyc3ZOOURlRlM4SFNkRS04dXdaeUpjVG9kRVhpNm5PSGJGaFdZbXAxa3Z6ZkE?oc=5",
-      "publishedAt": "Sun, 18 Oct 2026 07:00:00 GMT",
-      "source": "Windows Central"
-    },
-    {
-      "topic": "games",
-      "title": "Portland Retro Gaming Expo starts Friday - KPTV",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRWNEUWVQRV90S2V1RzB2UThGQjBvdGU2OTZ0bWdNVklUcWlFWHQwM25KZVF4RTlHMDJyM2M0TXhmazJ4RDZvTWg2WkVrc1JDaV93UnVNYk1xOVhvRWtsQngtdVBNQU5PQzhSSFZMb2NWazdWekZ6YWFkNTZOaURqV0ZWcTNyQQ?oc=5",
-      "publishedAt": "Thu, 08 Oct 2026 07:00:00 GMT",
-      "source": "KPTV"
-    },
-    {
-      "topic": "games",
-      "title": "Portland Retro Gaming Expo marks 20 years with games, competitions and nostalgia - KGW",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPNjcyc2JaMnhiQ1k2T1g5c3BxVGN1WUhqTjViaUVGM0l6VGFtSFhkYWg1Q3BVLVBXVkw1RG1PTENpMzhMYVFNV3RLazJ0dTA0bkIwYXhHTWFxQzdfbEh3TktVdV9Db2NTWk1TN2NDdDRoRklOdVJhSWtWSHhhQ2hQeGJrLTBxZEJ2NnRsZjlINjBUeU5HNlkzc19vbjlQNE5JaFVteW9ibC0waWcycVhBa0Rwc3lFeE9CbzcxMkRqR3E1d3I1a0lqclllQndqcWNQdm9QQURPcG9kMldwSmZOMkFwb3hhNTlGYzEyTFZWOEpYT2hPT245ZA?oc=5",
-      "publishedAt": "Fri, 09 Oct 2026 07:00:00 GMT",
-      "source": "KGW"
-    },
-    {
-      "topic": "games",
-      "title": "Introducing the Raspberry Pi Guide to Retro Gaming - Raspberry Pi",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdjZBNnpWN1ZUcGNuNjQxY3ptbU5WVFRYNkdOeG8xdElyVzlHZFZEdGh1SGdOT2xFX05sc191M21xTG1kU3FfdnJzWFpoQWxFR1BIRVE3bU1SNW9UNkhjekt2ZjlhUWtuS0RPd3MzaGtEWDdFNlNvNS1ZOXRoSlh2RkdLUktUS3pzam1FMA?oc=5",
-      "publishedAt": "Tue, 20 Oct 2026 07:00:00 GMT",
-      "source": "Raspberry Pi"
-    },
-    {
-      "topic": "games",
-      "title": "Kohr Explores: Portland Retro Gaming Expo powers on - KOIN.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUTZZMnZfbU16ZWM0OURjSEtWcG5lS3ZBLVN1X3dZMWdTT2VmSDFzaUdxYVZKMWRtdTRGRVY2aWZfUUNHclBtNGNsWTRodTFVS3ZaeEJpZkJvcUZYY0V4NDJTQTJHOWQyVW00VTNRVG1SRlVBQzRPcmEzUWczNkpVamN4Qkx0MmdwMU5hYnpVREp1QUppUGhJTA?oc=5",
-      "publishedAt": "Fri, 09 Oct 2026 07:00:00 GMT",
-      "source": "KOIN.com"
-    },
-    {
-      "topic": "agriculture",
-      "title": "China cooperation needed to modernise and develop Bangladesh’s agriculture sector - The Climate Watch",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSHU3MlhZMVFlWjFsR2F3Vm5wN3dsak11Q21OeDVkMkViWmVwOGFneVIwR1dFb2xMVDBMcDFwVVQyUm1OcU1zNWRXMl9RVWVvTTlicDRVQzBkZXItN2EwV0g0OW5kbDkyS2Y5emVsTWxBblJleWpwbU94TzBDTFpCRUtwbnVJaW1oOGVhX3NUV3JyTVdZX3pocjhGVEZsaGdBYkNobzNteTQ3RmNncGc?oc=5",
-      "publishedAt": "Wed, 07 Oct 2026 07:00:00 GMT",
-      "source": "The Climate Watch"
-    },
-    {
-      "topic": "agriculture",
-      "title": "ADB to lend Bangladesh $100m to commercialise agriculture - The Financial Express",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQ2JfMzQ0MnZ0WXJNLU5yRWNINUFDMHBidGhXWmt3eU1kQ0lLc0kxRjEyNkJLZ0hwR0JzdkcwZkNDaDBoTmVtU2FFVURzdXE1YjVPVkFRemV3U0tDS2ZHVGFZeTRKRnhzWk1iNUg1eExvU3pNai1BU05XejJuNjNpSGk1VUR3WVgzeVJYT3BxbGVmdjZ4UFhNQ0I2QnEzdw?oc=5",
-      "publishedAt": "Sat, 03 Oct 2026 07:00:00 GMT",
-      "source": "The Financial Express"
-    },
-    {
-      "topic": "agriculture",
-      "title": "Govt to create 20,000 agricultural entrepreneurs nationwide - Bangladesh Sangbad Sangstha (BSS)",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5XR0ZNVl93Szcxd1lGRlB4Rkk1dzQyOFQxQTVoNk9zNlVDOHlIbXAxOFp1Yk5kMlFpMDduYmJteTZ2X1FkN3lBTS1SS1EwcDNsV19V?oc=5",
-      "publishedAt": "Sat, 10 Oct 2026 07:00:00 GMT",
-      "source": "Bangladesh Sangbad Sangstha (BSS)"
-    },
-    {
-      "topic": "agriculture",
-      "title": "Bangladesh celebrates World Food Day 2026 with National Seminar: “Innovate today, Nourish tomorrow” - Food and Agriculture Organization",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYVZ5RTg4OTF5YWhMUTJXdl9JTzZjLTFCZEI3NkxNckMxYm9Mb2hjbmpDVEttSzFwM1V3Ukdtd0Y1a2J3aWFKX1cwbk5rSWljSExiUmk5LU03bVBXSm5MWGkxX2MtRXJpY0JCemRiR0JSYmhWTnNqb0pLV29kcXNVWWxscEdpRnBBaUt1Sjl4R2lIdXJRclV2ZzRWczEzMjFUOW1ITTFubGZTeVk4V1BUWUp0d3V6YzNvZlNpZmIxUC1BNk93OHlnbzZFTGVWZFdtWEZXcHRQSUY4QzRq?oc=5",
-      "publishedAt": "Sun, 18 Oct 2026 07:00:00 GMT",
-      "source": "Food and Agriculture Organization"
-    },
-    {
-      "topic": "agriculture",
-      "title": "Bangladesh, Algeria seek broader cooperation in energy, agriculture, textiles - Dhaka Tribune",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPa0N5NnZfSzRscFV1NEVVanhrNEVzeUUxalJVdGNwVTg1b1hIVWtycHRHeDRWcFdPU0ZsVFlmY05NMEg5c2pVMjFVaUJPTFA3WXc3YkxxdVBVWEtPUGdqNE42aVRMQ0dEVHNHZHo2NU5hTlJhYTROV1dZYUI5bjVWRXVJdWdldk9TanoxUFhTaEI5YXI4N1NGVnl2X2xOM2RvbllrMDEyeTFrNWViaGfSAbMBQVVfeXFMTVlIYk01N1phN3pmS19MNEI1ZGJrUnhrSWktSGJKR2JoOU5KcGVvTEFkWWRLdkFEdnhrUXBkVUNMSFBmdTBXaHZ2SHJpODJ6NXFQQkt5bE1CbllucU02UUpyQ0xsS1M2UldyQ1ZMaXpyaUFMRWNFZjlxRFY1RzJnY3RvSFhoS3lYZDJJcEdhTkJVTUl5TDZSRzEzbW9MakdtNmt0WDcwcjF2NzE5dUo4UnJtT28?oc=5",
-      "publishedAt": "Thu, 22 Oct 2026 07:00:00 GMT",
-      "source": "Dhaka Tribune"
-    }
-  ],
+  "headlines": [],
   "feedStatus": [
     {
       "topic": "creator",
-      "checkedAt": "2026-11-01T15:15:16.338979+00:00",
-      "status": "ok"
+      "checkedAt": "2026-11-01T19:47:02.520058+00:00",
+      "status": "unavailable",
+      "error": "HTTP Error 503: Service Unavailable"
     },
     {
       "topic": "clothing",
-      "checkedAt": "2026-11-01T15:15:16.704461+00:00",
-      "status": "ok"
+      "checkedAt": "2026-11-01T19:47:10.213676+00:00",
+      "status": "unavailable",
+      "error": "HTTP Error 503: Service Unavailable"
     },
     {
       "topic": "games",
-      "checkedAt": "2026-11-01T15:15:17.063845+00:00",
-      "status": "ok"
+      "checkedAt": "2026-11-01T19:47:19.686326+00:00",
+      "status": "unavailable",
+      "error": "HTTP Error 503: Service Unavailable"
     },
     {
       "topic": "agriculture",
-      "checkedAt": "2026-11-01T15:15:17.468099+00:00",
-      "status": "ok"
+      "checkedAt": "2026-11-01T19:47:29.036329+00:00",
+      "status": "unavailable",
+      "error": "HTTP Error 503: Service Unavailable"
     }
   ]
 }
