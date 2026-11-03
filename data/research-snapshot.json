@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "checkedAt": "2026-11-03T15:14:40.398147+00:00",
+  "checkedAt": "2026-11-03T21:05:35.737244+00:00",
   "competitors": [
     {
       "name": "Social Square",
       "url": "https://socialsquare.co/",
-      "checkedAt": "2026-11-03T15:14:40.398164+00:00",
+      "checkedAt": "2026-11-03T21:05:35.737259+00:00",
       "title": "Social Square | UGC Marketplace for Creators",
       "description": "Get paid to create content for brands with Social Square. Discover UGC campaigns, collaborate with companies, publish",
       "mentions": [
@@ -19,7 +19,7 @@
     {
       "name": "Bengal Reach",
       "url": "https://www.bengalreach.com/",
-      "checkedAt": "2026-11-03T15:14:42.101924+00:00",
+      "checkedAt": "2026-11-03T21:05:37.874270+00:00",
       "title": "bengalReach - Connect Influencers with Brands in Bangladesh",
       "description": "Leading influencer marketing platform in Bangladesh. Connect local influencers with brands for authentic social media campaigns across",
       "mentions": [
@@ -33,7 +33,7 @@
     {
       "name": "Maroon Ltd.",
       "url": "https://www.maroonltd.com/",
-      "checkedAt": "2026-11-03T15:14:43.505328+00:00",
+      "checkedAt": "2026-11-03T21:05:39.849343+00:00",
       "title": "Maroon Limited",
       "description": "A PR and Digital Communication Agency in Dhaka, Bangladesh.",
       "mentions": [
@@ -48,7 +48,7 @@
     {
       "name": "Ngital",
       "url": "https://ngital.com/",
-      "checkedAt": "2026-11-03T15:14:48.776386+00:00",
+      "checkedAt": "2026-11-03T21:05:45.033438+00:00",
       "title": "Ngital — Best Digital Marketing Agency in Dhaka,",
       "description": "Award-winning digital marketing agency in Dhaka, Bangladesh. Expert SEO, Google Ads, Meta Ads & Creative — trusted",
       "mentions": [
@@ -68,7 +68,7 @@
       "name": "Internet use",
       "unit": "% of population",
       "url": "https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=BD",
-      "checkedAt": "2026-11-03T15:14:54.547799+00:00",
+      "checkedAt": "2026-11-03T21:05:49.929993+00:00",
       "status": "ok",
       "value": 53.42171316,
       "year": "2024"
@@ -78,7 +78,7 @@
       "name": "Population",
       "unit": "people",
       "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=BD",
-      "checkedAt": "2026-11-03T15:14:54.689415+00:00",
+      "checkedAt": "2026-11-03T21:05:50.277634+00:00",
       "status": "ok",
       "value": 175686899,
       "year": "2025"
@@ -88,7 +88,7 @@
       "name": "Inflation",
       "unit": "% annual",
       "url": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=BD",
-      "checkedAt": "2026-11-03T15:14:54.772242+00:00",
+      "checkedAt": "2026-11-03T21:05:50.416384+00:00",
       "status": "ok",
       "value": 8.7687628116114,
       "year": "2025"
@@ -111,13 +111,6 @@
     },
     {
       "topic": "clothing",
-      "title": "Bangladesh garment workers stage fourth day of wage protests - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPS0VYQlJKckJ0eWh5QVdLX2tDQ0JXMjkxS1BDMUw4VkNRMDBkR0g0OTJTM0FCTEk5UFlQelVad0hRN252YW8yS01qdGJTaXZ5VXp3ZDJpMWN1U01vMzFGMDlRMVg4eW15NGh0YWMtSHlGaDFFVU0xc180Mlpxb29zRXM1MThtNkdKc3V5Vml4YklsZjFISURyN294azJpSXdkZkUwZWJNNUowYVdmLW9TbzlFaDZac2c5a0E?oc=5",
-      "publishedAt": "Tue, 03 Nov 2026 07:37:00 GMT",
-      "source": "Reuters"
-    },
-    {
-      "topic": "clothing",
       "title": "Adaptive fashion: Bangladesh makes clothes for the world, but not for everyone - The Business Standard",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObTB0SEptUi1JeGl0c2VDVzdiVE42VDE3c1o0WGVKWHdfLUc3NjNpRjZOS1c0V25ycEVlSFprQm1NcU9XZms0VzVHaUQ3Wno5ZEo0UzRMQ1lSSVVfbF90a19DZk5pOENyTXR3b1Yyc28zVmQ0QkIxT18wV0JNeWd1VVVoeGhNdWhDQUhwa0pUS2Noa0tBZjdaSV9LaUxnQmJPNkl0RXd0S1NtMWUtcW0w?oc=5",
       "publishedAt": "Fri, 16 Oct 2026 14:02:49 GMT",
@@ -136,6 +129,13 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONFFJYUVzZllsRll5aXU5eWxEaV9MdThIUFYxNndSdE14VTJ1UWQwSGpxc0RmMWtIMTJRbk50S0JtMGVmYWs1ZUZIbEJVUkl0eXlpVEV5NTJieUo5eDZoUjVRWkFsNGhaelI4TVlBM2pkTlhSbi1XTHJUSEFFdWxxenZOcWc5YVF4QzUxaHFvWUUzZ2RLRTlYRWctWllqc3JaYkRBSlhKamN1WUY0VXc?oc=5",
       "publishedAt": "Mon, 05 Oct 2026 07:00:00 GMT",
       "source": "FreshPlaza"
+    },
+    {
+      "topic": "clothing",
+      "title": "Fashion brands urged to fund Bangladesh’s garment sector energy transition - Daily Sun",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUHlOUEljLVB3QVYxYVB4RFJXLWtlM1pzVmo0dXM5aE81dmVxU2lMNGpzMzdXMW8wQU1ud3dyTEh1ZzRoczZuRzRQN0VQQzhHTnhDcDNkWG5VckdLTjlINnhjTzdaSHdpVHI2c3phNkZLdUc5S2wyUk5lenZsR3RrOGhUWjFJQUlVem5CcjV5X0hLWU1qNVlXd0VYdklocjhMaE1XVDlrTWRMcDJWaEJWWklKWjM?oc=5",
+      "publishedAt": "Tue, 27 Oct 2026 08:49:07 GMT",
+      "source": "Daily Sun"
     },
     {
       "topic": "games",
@@ -174,10 +174,10 @@
     },
     {
       "topic": "agriculture",
-      "title": "Farmers Food Insecurity In Bangladesh | Who will feed the farmers who feed the nation? - The Daily Star",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZkluczNwN0E1a0I3NVlnWWVHc05QSUdiMXJHRmk5QmNXRGlzLWR4SjRYSjJucjhnUVg4Y2t0QmdhU0duS2xQdjFXT2l5RFlvM0J6blBLc2QxODhkV28td2JuT0U2d29sdWJ1N2NIenFITlVwNXpCRWRPXzByaWRuQ3NZWnE0T3AwYl9HbGFhSjg0eFFpRnFpM3BxQTN2cEtkdWdr?oc=5",
-      "publishedAt": "Fri, 16 Oct 2026 07:00:00 GMT",
-      "source": "The Daily Star"
+      "title": "China cooperation needed to modernise and develop Bangladesh’s agriculture sector - The Climate Watch",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSHU3MlhZMVFlWjFsR2F3Vm5wN3dsak11Q21OeDVkMkViWmVwOGFneVIwR1dFb2xMVDBMcDFwVVQyUm1OcU1zNWRXMl9RVWVvTTlicDRVQzBkZXItN2EwV0g0OW5kbDkyS2Y5emVsTWxBblJleWpwbU94TzBDTFpCRUtwbnVJaW1oOGVhX3NUV3JyTVdZX3pocjhGVEZsaGdBYkNobzNteTQ3RmNncGc?oc=5",
+      "publishedAt": "Wed, 07 Oct 2026 07:00:00 GMT",
+      "source": "The Climate Watch"
     },
     {
       "topic": "agriculture",
@@ -202,31 +202,31 @@
     },
     {
       "topic": "agriculture",
-      "title": "Bangladesh’s nano urea patent opens new agricultural horizons - Bangladesh Sangbad Sangstha (BSS)",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9QWkFDOVJaREljVk14SVd2eFQtN19Td0JCN1pwSUZuWXZOODRyQ24tUU9NYVVrazNfOVFKTHdOUWtaenNVRXl3aDFraW5YbDRPeHpqLThwUFFMUGc?oc=5",
-      "publishedAt": "Wed, 28 Oct 2026 10:08:55 GMT",
-      "source": "Bangladesh Sangbad Sangstha (BSS)"
+      "title": "FAO Representative Jiaoqun Shi Hopes to Strengthen Collaboration in Bangladesh’s Agricultural Innovation - https://businessinbangladesh.com.bd/",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWVcyZUFRX25tZnE5VkxjVkJMRS1PN2U0dzhpcm1jeGtMdTZzeDJjZXdkeE5QUUk2T1JXZDZTcnc2TTdqUTVYaW9wbnJMSXkwWjA5WUFhaFptT3B3YkRTYmZ4YmhHSlRzbDZ4eGUzZjlkMUpRWmJQdlprXzVVR09yMERYdDVfR1ZSX3BPTUx5N2txNndzaTBkdXJyZzd0a2tSTkdya1dDWjVScm0zb3RhcU9DZnFCRjFwOE8wRnlFdXRtYW5tNWZlM2RVbE9EVGN1Y29ablMxdw?oc=5",
+      "publishedAt": "Sun, 01 Nov 2026 06:48:20 GMT",
+      "source": "https://businessinbangladesh.com.bd/"
     }
   ],
   "feedStatus": [
     {
       "topic": "creator",
-      "checkedAt": "2026-11-03T15:14:54.897313+00:00",
+      "checkedAt": "2026-11-03T21:05:50.705169+00:00",
       "status": "ok"
     },
     {
       "topic": "clothing",
-      "checkedAt": "2026-11-03T15:14:55.466809+00:00",
+      "checkedAt": "2026-11-03T21:05:51.155465+00:00",
       "status": "ok"
     },
     {
       "topic": "games",
-      "checkedAt": "2026-11-03T15:14:56.075642+00:00",
+      "checkedAt": "2026-11-03T21:05:51.605951+00:00",
       "status": "ok"
     },
     {
       "topic": "agriculture",
-      "checkedAt": "2026-11-03T15:14:56.680434+00:00",
+      "checkedAt": "2026-11-03T21:05:52.183867+00:00",
       "status": "ok"
     }
   ]
