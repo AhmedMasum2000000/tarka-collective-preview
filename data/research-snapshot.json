@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "checkedAt": "2026-11-07T10:19:03.141909+00:00",
+  "checkedAt": "2026-11-07T16:51:48.718453+00:00",
   "competitors": [
     {
       "name": "Social Square",
       "url": "https://socialsquare.co/",
-      "checkedAt": "2026-11-07T10:19:03.141925+00:00",
+      "checkedAt": "2026-11-07T16:51:48.718467+00:00",
       "title": "Social Square | UGC Marketplace for Creators",
       "description": "Get paid to create content for brands with Social Square. Discover UGC campaigns, collaborate with companies, publish",
       "mentions": [
@@ -19,7 +19,7 @@
     {
       "name": "Bengal Reach",
       "url": "https://www.bengalreach.com/",
-      "checkedAt": "2026-11-07T10:19:04.478696+00:00",
+      "checkedAt": "2026-11-07T16:51:50.178515+00:00",
       "title": "bengalReach - Connect Influencers with Brands in Bangladesh",
       "description": "Leading influencer marketing platform in Bangladesh. Connect local influencers with brands for authentic social media campaigns across",
       "mentions": [
@@ -33,7 +33,7 @@
     {
       "name": "Maroon Ltd.",
       "url": "https://www.maroonltd.com/",
-      "checkedAt": "2026-11-07T10:19:06.023590+00:00",
+      "checkedAt": "2026-11-07T16:51:51.772620+00:00",
       "title": "Maroon Limited",
       "description": "A PR and Digital Communication Agency in Dhaka, Bangladesh.",
       "mentions": [
@@ -48,7 +48,7 @@
     {
       "name": "Ngital",
       "url": "https://ngital.com/",
-      "checkedAt": "2026-11-07T10:19:11.568024+00:00",
+      "checkedAt": "2026-11-07T16:51:55.848294+00:00",
       "title": "Ngital – Digital Marketing Agency in Dhaka, Bangladesh",
       "description": "Digital Marketing Agency in Dhaka, Bangladesh",
       "mentions": [
@@ -59,7 +59,7 @@
       ],
       "status": "ok",
       "hash": "a90a43f715b041aa3cde58a54e40ebb04eb8c48ea944247f57f7ecd670299c44",
-      "changed": true
+      "changed": false
     }
   ],
   "indicators": [
@@ -68,7 +68,7 @@
       "name": "Internet use",
       "unit": "% of population",
       "url": "https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=BD",
-      "checkedAt": "2026-11-07T10:19:15.558034+00:00",
+      "checkedAt": "2026-11-07T16:51:59.211324+00:00",
       "status": "ok",
       "value": 53.42171316,
       "year": "2024"
@@ -78,7 +78,7 @@
       "name": "Population",
       "unit": "people",
       "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=BD",
-      "checkedAt": "2026-11-07T10:19:15.745564+00:00",
+      "checkedAt": "2026-11-07T16:51:59.338459+00:00",
       "status": "ok",
       "value": 175686899,
       "year": "2025"
@@ -88,7 +88,7 @@
       "name": "Inflation",
       "unit": "% annual",
       "url": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=BD",
-      "checkedAt": "2026-11-07T10:19:23.143612+00:00",
+      "checkedAt": "2026-11-07T16:51:59.407115+00:00",
       "status": "ok",
       "value": 8.7687628116114,
       "year": "2025"
@@ -118,17 +118,17 @@
     },
     {
       "topic": "clothing",
-      "title": "Fashion brands urged to back Bangladesh workers - Just Style",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTGQtMF9qMHF4Zml2NkJVaXZGal90cUdJRHVSbjAwMDl5NUstN2NQM3lPWGpDYkY5MUhnTloybVBkQUVYZmI2Rk9mRUJBQzRYUXh0OHRrMEt3ZDBMcEp6QUN6b1dNbjZKU0dXTVdSeVNRTnNjUm5IanU3X1JjZGk5cXVRTkxKQ3M?oc=5",
-      "publishedAt": "Thu, 05 Nov 2026 11:23:24 GMT",
-      "source": "Just Style"
-    },
-    {
-      "topic": "clothing",
       "title": "Adaptive fashion: Bangladesh makes clothes for the world, but not for everyone - The Business Standard",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObTB0SEptUi1JeGl0c2VDVzdiVE42VDE3c1o0WGVKWHdfLUc3NjNpRjZOS1c0V25ycEVlSFprQm1NcU9XZms0VzVHaUQ3Wno5ZEo0UzRMQ1lSSVVfbF90a19DZk5pOENyTXR3b1Yyc28zVmQ0QkIxT18wV0JNeWd1VVVoeGhNdWhDQUhwa0pUS2Noa0tBZjdaSV9LaUxnQmJPNkl0RXd0S1NtMWUtcW0w?oc=5",
       "publishedAt": "Fri, 16 Oct 2026 14:02:49 GMT",
       "source": "The Business Standard"
+    },
+    {
+      "topic": "clothing",
+      "title": "Fashion brands urged to back Bangladesh workers - Just Style",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTGQtMF9qMHF4Zml2NkJVaXZGal90cUdJRHVSbjAwMDl5NUstN2NQM3lPWGpDYkY5MUhnTloybVBkQUVYZmI2Rk9mRUJBQzRYUXh0OHRrMEt3ZDBMcEp6QUN6b1dNbjZKU0dXTVdSeVNRTnNjUm5IanU3X1JjZGk5cXVRTkxKQ3M?oc=5",
+      "publishedAt": "Thu, 05 Nov 2026 11:23:24 GMT",
+      "source": "Just Style"
     },
     {
       "topic": "clothing",
@@ -211,22 +211,22 @@
   "feedStatus": [
     {
       "topic": "creator",
-      "checkedAt": "2026-11-07T10:19:36.153617+00:00",
+      "checkedAt": "2026-11-07T16:51:59.468116+00:00",
       "status": "ok"
     },
     {
       "topic": "clothing",
-      "checkedAt": "2026-11-07T10:19:36.516812+00:00",
+      "checkedAt": "2026-11-07T16:51:59.803460+00:00",
       "status": "ok"
     },
     {
       "topic": "games",
-      "checkedAt": "2026-11-07T10:19:36.865808+00:00",
+      "checkedAt": "2026-11-07T16:52:00.295052+00:00",
       "status": "ok"
     },
     {
       "topic": "agriculture",
-      "checkedAt": "2026-11-07T10:19:37.288886+00:00",
+      "checkedAt": "2026-11-07T16:52:00.689625+00:00",
       "status": "ok"
     }
   ]
