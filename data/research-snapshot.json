@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "checkedAt": "2026-11-07T02:52:39.523907+00:00",
+  "checkedAt": "2026-11-07T10:19:03.141909+00:00",
   "competitors": [
     {
       "name": "Social Square",
       "url": "https://socialsquare.co/",
-      "checkedAt": "2026-11-07T02:52:39.523953+00:00",
+      "checkedAt": "2026-11-07T10:19:03.141925+00:00",
       "title": "Social Square | UGC Marketplace for Creators",
       "description": "Get paid to create content for brands with Social Square. Discover UGC campaigns, collaborate with companies, publish",
       "mentions": [
@@ -19,7 +19,7 @@
     {
       "name": "Bengal Reach",
       "url": "https://www.bengalreach.com/",
-      "checkedAt": "2026-11-07T02:52:41.074639+00:00",
+      "checkedAt": "2026-11-07T10:19:04.478696+00:00",
       "title": "bengalReach - Connect Influencers with Brands in Bangladesh",
       "description": "Leading influencer marketing platform in Bangladesh. Connect local influencers with brands for authentic social media campaigns across",
       "mentions": [
@@ -33,7 +33,7 @@
     {
       "name": "Maroon Ltd.",
       "url": "https://www.maroonltd.com/",
-      "checkedAt": "2026-11-07T02:52:42.489235+00:00",
+      "checkedAt": "2026-11-07T10:19:06.023590+00:00",
       "title": "Maroon Limited",
       "description": "A PR and Digital Communication Agency in Dhaka, Bangladesh.",
       "mentions": [
@@ -48,9 +48,9 @@
     {
       "name": "Ngital",
       "url": "https://ngital.com/",
-      "checkedAt": "2026-11-07T02:52:44.582690+00:00",
-      "title": "Ngital — Best Digital Marketing Agency in Dhaka,",
-      "description": "Award-winning digital marketing agency in Dhaka, Bangladesh. Expert SEO, Google Ads, Meta Ads & Creative — trusted",
+      "checkedAt": "2026-11-07T10:19:11.568024+00:00",
+      "title": "Ngital – Digital Marketing Agency in Dhaka, Bangladesh",
+      "description": "Digital Marketing Agency in Dhaka, Bangladesh",
       "mentions": [
         "Creator campaigns",
         "Video production",
@@ -58,8 +58,8 @@
         "Brand strategy"
       ],
       "status": "ok",
-      "hash": "2670ac113bb666984646eceda189325e8678e6652683523707a4c3f75764ed92",
-      "changed": false
+      "hash": "a90a43f715b041aa3cde58a54e40ebb04eb8c48ea944247f57f7ecd670299c44",
+      "changed": true
     }
   ],
   "indicators": [
@@ -68,7 +68,7 @@
       "name": "Internet use",
       "unit": "% of population",
       "url": "https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=BD",
-      "checkedAt": "2026-11-07T02:52:48.312922+00:00",
+      "checkedAt": "2026-11-07T10:19:15.558034+00:00",
       "status": "ok",
       "value": 53.42171316,
       "year": "2024"
@@ -78,7 +78,7 @@
       "name": "Population",
       "unit": "people",
       "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=BD",
-      "checkedAt": "2026-11-07T02:52:48.415192+00:00",
+      "checkedAt": "2026-11-07T10:19:15.745564+00:00",
       "status": "ok",
       "value": 175686899,
       "year": "2025"
@@ -88,7 +88,7 @@
       "name": "Inflation",
       "unit": "% annual",
       "url": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=BD",
-      "checkedAt": "2026-11-07T02:52:48.489852+00:00",
+      "checkedAt": "2026-11-07T10:19:23.143612+00:00",
       "status": "ok",
       "value": 8.7687628116114,
       "year": "2025"
@@ -101,13 +101,6 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcFZSaWQ1YWRfMUdHUXJkMlhoVG02d2hRYXdJbjVlcHFTcXV1S2tWMW82MDFIeHR2MUtoWm9jYzdiYTNIaldiMXBKU3JDQmxzYjFlQnVPQk5Ec21FV0swMHQxWEkzblcycE12WlFPQllOVkdkb1ZFN3ZDdDdwZUcyS284ejZTM3VfNU9uZjR3Q2VVRENzbmFLMi0wRnRJTldmQS1xLXVhMUVNOFI0U3c?oc=5",
       "publishedAt": "Thu, 22 Oct 2026 07:00:00 GMT",
       "source": "The Business Standard"
-    },
-    {
-      "topic": "clothing",
-      "title": "StanChart Bangladesh staff walk out over retail banking sale - The Banker magazine",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE92TmpHbGY5Mm94UlFzcFl2RDJLUzBCNWtUR29fNTlvdUg3Sk0yX3lOUS1Pb0l2UFVuSVRvMmprc3dSTHIwTU42c3lMak9JSlk4cmJqTy04dnhJWnFxZ05lMC1nUEJJY2VlWkFnTzFud1hrT243SlcxZzlR?oc=5",
-      "publishedAt": "Thu, 08 Oct 2026 07:00:00 GMT",
-      "source": "The Banker magazine"
     },
     {
       "topic": "clothing",
@@ -138,6 +131,13 @@
       "source": "The Business Standard"
     },
     {
+      "topic": "clothing",
+      "title": "EU traceability push puts Bangladesh's SMEs to the test - Fibre2Fashion",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQR1RVSnY0WVVKcVJLakp0WDdJQ1VlU29GNHdtR3NmRlNNaERBcGt3cXhTX2tCNU00dWowQnhBSE9GZjcwVHpBR2I4U2VHVjgwdS1CUmZuY0dvdzZ2RUZuY2dTWGRlN29RZkZRSThrcjcweTJ1UWhqRlJVNnN3Z0RNckxkMVd1UVdFNDVyWTFjYURFLVBmZmZrdUJzQ2hjc2lXRlNzaUhzdXVkNG5PcGFqYm9UalkzNjN1bmY0ckctZXd5a2V4?oc=5",
+      "publishedAt": "Fri, 16 Oct 2026 07:00:00 GMT",
+      "source": "Fibre2Fashion"
+    },
+    {
       "topic": "games",
       "title": "Retro gaming is being overrun with AI - The Verge",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOc1hBYTZWbDJ5MjVzeFRiWE1xN1ZNZXQ3NEo5Z1QxbVNUVVNELXBBbzJZRHBlNEJMblBDT0lfc0Y2V3cxcDNSSThZNHpvWExpRU1fSUpTa0NtOEdGcWM3WGRqT1B1QVBFaWsyTmRqU3J2eFdXYVJtQnlzNGdCcTRjM1pHcVBqaEdfV3BWUmFTUWJnQzBxNUZJVA?oc=5",
@@ -153,13 +153,6 @@
     },
     {
       "topic": "games",
-      "title": "Portland Retro Gaming Expo starts Friday - KPTV",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRWNEUWVQRV90S2V1RzB2UThGQjBvdGU2OTZ0bWdNVklUcWlFWHQwM25KZVF4RTlHMDJyM2M0TXhmazJ4RDZvTWg2WkVrc1JDaV93UnVNYk1xOVhvRWtsQngtdVBNQU5PQzhSSFZMb2NWazdWekZ6YWFkNTZOaURqV0ZWcTNyQQ?oc=5",
-      "publishedAt": "Thu, 08 Oct 2026 07:00:00 GMT",
-      "source": "KPTV"
-    },
-    {
-      "topic": "games",
       "title": "Portland Retro Gaming Expo marks 20 years with games, competitions and nostalgia - KGW",
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPNjcyc2JaMnhiQ1k2T1g5c3BxVGN1WUhqTjViaUVGM0l6VGFtSFhkYWg1Q3BVLVBXVkw1RG1PTENpMzhMYVFNV3RLazJ0dTA0bkIwYXhHTWFxQzdfbEh3TktVdV9Db2NTWk1TN2NDdDRoRklOdVJhSWtWSHhhQ2hQeGJrLTBxZEJ2NnRsZjlINjBUeU5HNlkzc19vbjlQNE5JaFVteW9ibC0waWcycVhBa0Rwc3lFeE9CbzcxMkRqR3E1d3I1a0lqclllQndqcWNQdm9QQURPcG9kMldwSmZOMkFwb3hhNTlGYzEyTFZWOEpYT2hPT245ZA?oc=5",
       "publishedAt": "Fri, 09 Oct 2026 07:00:00 GMT",
@@ -171,6 +164,13 @@
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPeGJyUEJTR2ZUMUVESWlCVlZEQ0VpbWFqV05pbnZqeml3MFRZUnFmOWRraEN4cXNwQjJabGE5WVZ0NFkwNHpkaFB0SE5VOUpqbG9WYXZhcjNtdjhGX3pLc0ZFX0VjT0V5eG1NekU1UEdhZUsyR1lZMnB4dmZnNVdRX2pIdnJGMXoyVXNreFBVYmJReHJCdUdIRkVxYnhvRDV3OE5sdkphelVuWnhRd2dyUkpyc3ZOOURlRlM4SFNkRS04dXdaeUpjVG9kRVhpNm5PSGJGaFdZbXAxa3Z6ZkE?oc=5",
       "publishedAt": "Sun, 18 Oct 2026 07:00:00 GMT",
       "source": "Windows Central"
+    },
+    {
+      "topic": "games",
+      "title": "Kohr Explores: Portland Retro Gaming Expo powers on - KOIN.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUTZZMnZfbU16ZWM0OURjSEtWcG5lS3ZBLVN1X3dZMWdTT2VmSDFzaUdxYVZKMWRtdTRGRVY2aWZfUUNHclBtNGNsWTRodTFVS3ZaeEJpZkJvcUZYY0V4NDJTQTJHOWQyVW00VTNRVG1SRlVBQzRPcmEzUWczNkpVamN4Qkx0MmdwMU5hYnpVREp1QUppUGhJTA?oc=5",
+      "publishedAt": "Fri, 09 Oct 2026 07:00:00 GMT",
+      "source": "KOIN.com"
     },
     {
       "topic": "agriculture",
@@ -211,22 +211,22 @@
   "feedStatus": [
     {
       "topic": "creator",
-      "checkedAt": "2026-11-07T02:52:48.560075+00:00",
+      "checkedAt": "2026-11-07T10:19:36.153617+00:00",
       "status": "ok"
     },
     {
       "topic": "clothing",
-      "checkedAt": "2026-11-07T02:52:49.016223+00:00",
+      "checkedAt": "2026-11-07T10:19:36.516812+00:00",
       "status": "ok"
     },
     {
       "topic": "games",
-      "checkedAt": "2026-11-07T02:52:49.409347+00:00",
+      "checkedAt": "2026-11-07T10:19:36.865808+00:00",
       "status": "ok"
     },
     {
       "topic": "agriculture",
-      "checkedAt": "2026-11-07T02:52:49.796327+00:00",
+      "checkedAt": "2026-11-07T10:19:37.288886+00:00",
       "status": "ok"
     }
   ]
