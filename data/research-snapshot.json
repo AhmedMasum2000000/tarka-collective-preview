@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "checkedAt": "2026-11-08T00:42:19.501422+00:00",
+  "checkedAt": "2026-11-08T07:25:58.440591+00:00",
   "competitors": [
     {
       "name": "Social Square",
       "url": "https://socialsquare.co/",
-      "checkedAt": "2026-11-08T00:42:19.501439+00:00",
+      "checkedAt": "2026-11-08T07:25:58.440603+00:00",
       "title": "Social Square | UGC Marketplace for Creators",
       "description": "Get paid to create content for brands with Social Square. Discover UGC campaigns, collaborate with companies, publish",
       "mentions": [
@@ -19,7 +19,7 @@
     {
       "name": "Bengal Reach",
       "url": "https://www.bengalreach.com/",
-      "checkedAt": "2026-11-08T00:42:21.025354+00:00",
+      "checkedAt": "2026-11-08T07:25:59.962843+00:00",
       "title": "bengalReach - Connect Influencers with Brands in Bangladesh",
       "description": "Leading influencer marketing platform in Bangladesh. Connect local influencers with brands for authentic social media campaigns across",
       "mentions": [
@@ -33,7 +33,7 @@
     {
       "name": "Maroon Ltd.",
       "url": "https://www.maroonltd.com/",
-      "checkedAt": "2026-11-08T00:42:22.422364+00:00",
+      "checkedAt": "2026-11-08T07:26:01.500484+00:00",
       "title": "Maroon Limited",
       "description": "A PR and Digital Communication Agency in Dhaka, Bangladesh.",
       "mentions": [
@@ -48,7 +48,7 @@
     {
       "name": "Ngital",
       "url": "https://ngital.com/",
-      "checkedAt": "2026-11-08T00:42:27.971214+00:00",
+      "checkedAt": "2026-11-08T07:26:03.774364+00:00",
       "title": "Ngital – Digital Marketing Agency in Dhaka, Bangladesh",
       "description": "Digital Marketing Agency in Dhaka, Bangladesh",
       "mentions": [
@@ -68,7 +68,7 @@
       "name": "Internet use",
       "unit": "% of population",
       "url": "https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=BD",
-      "checkedAt": "2026-11-08T00:42:31.369519+00:00",
+      "checkedAt": "2026-11-08T07:26:06.857130+00:00",
       "status": "ok",
       "value": 53.42171316,
       "year": "2024"
@@ -78,7 +78,7 @@
       "name": "Population",
       "unit": "people",
       "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=BD",
-      "checkedAt": "2026-11-08T00:42:31.545255+00:00",
+      "checkedAt": "2026-11-08T07:26:08.850736+00:00",
       "status": "ok",
       "value": 175686899,
       "year": "2025"
@@ -88,7 +88,7 @@
       "name": "Inflation",
       "unit": "% annual",
       "url": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=BD",
-      "checkedAt": "2026-11-08T00:42:31.615165+00:00",
+      "checkedAt": "2026-11-08T07:26:09.267037+00:00",
       "status": "ok",
       "value": 8.7687628116114,
       "year": "2025"
@@ -118,17 +118,17 @@
     },
     {
       "topic": "clothing",
-      "title": "Fashion brands urged to back Bangladesh workers - Just Style",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTGQtMF9qMHF4Zml2NkJVaXZGal90cUdJRHVSbjAwMDl5NUstN2NQM3lPWGpDYkY5MUhnTloybVBkQUVYZmI2Rk9mRUJBQzRYUXh0OHRrMEt3ZDBMcEp6QUN6b1dNbjZKU0dXTVdSeVNRTnNjUm5IanU3X1JjZGk5cXVRTkxKQ3M?oc=5",
-      "publishedAt": "Thu, 05 Nov 2026 11:23:24 GMT",
-      "source": "Just Style"
-    },
-    {
-      "topic": "clothing",
       "title": "Adaptive fashion: Bangladesh makes clothes for the world, but not for everyone - The Business Standard",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObTB0SEptUi1JeGl0c2VDVzdiVE42VDE3c1o0WGVKWHdfLUc3NjNpRjZOS1c0V25ycEVlSFprQm1NcU9XZms0VzVHaUQ3Wno5ZEo0UzRMQ1lSSVVfbF90a19DZk5pOENyTXR3b1Yyc28zVmQ0QkIxT18wV0JNeWd1VVVoeGhNdWhDQUhwa0pUS2Noa0tBZjdaSV9LaUxnQmJPNkl0RXd0S1NtMWUtcW0w?oc=5",
       "publishedAt": "Fri, 16 Oct 2026 07:00:00 GMT",
       "source": "The Business Standard"
+    },
+    {
+      "topic": "clothing",
+      "title": "Fashion brands urged to back Bangladesh workers - Just Style",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTGQtMF9qMHF4Zml2NkJVaXZGal90cUdJRHVSbjAwMDl5NUstN2NQM3lPWGpDYkY5MUhnTloybVBkQUVYZmI2Rk9mRUJBQzRYUXh0OHRrMEt3ZDBMcEp6QUN6b1dNbjZKU0dXTVdSeVNRTnNjUm5IanU3X1JjZGk5cXVRTkxKQ3M?oc=5",
+      "publishedAt": "Thu, 05 Nov 2026 11:23:24 GMT",
+      "source": "Just Style"
     },
     {
       "topic": "clothing",
@@ -153,13 +153,6 @@
     },
     {
       "topic": "games",
-      "title": "Portland Retro Gaming Expo marks 20 years with games, competitions and nostalgia - KGW",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPNjcyc2JaMnhiQ1k2T1g5c3BxVGN1WUhqTjViaUVGM0l6VGFtSFhkYWg1Q3BVLVBXVkw1RG1PTENpMzhMYVFNV3RLazJ0dTA0bkIwYXhHTWFxQzdfbEh3TktVdV9Db2NTWk1TN2NDdDRoRklOdVJhSWtWSHhhQ2hQeGJrLTBxZEJ2NnRsZjlINjBUeU5HNlkzc19vbjlQNE5JaFVteW9ibC0waWcycVhBa0Rwc3lFeE9CbzcxMkRqR3E1d3I1a0lqclllQndqcWNQdm9QQURPcG9kMldwSmZOMkFwb3hhNTlGYzEyTFZWOEpYT2hPT245ZA?oc=5",
-      "publishedAt": "Fri, 09 Oct 2026 07:00:00 GMT",
-      "source": "KGW"
-    },
-    {
-      "topic": "games",
       "title": "Xbox is hiring a \"Physical Games Strategist\" — will Helix have discs? - Windows Central",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPeGJyUEJTR2ZUMUVESWlCVlZEQ0VpbWFqV05pbnZqeml3MFRZUnFmOWRraEN4cXNwQjJabGE5WVZ0NFkwNHpkaFB0SE5VOUpqbG9WYXZhcjNtdjhGX3pLc0ZFX0VjT0V5eG1NekU1UEdhZUsyR1lZMnB4dmZnNVdRX2pIdnJGMXoyVXNreFBVYmJReHJCdUdIRkVxYnhvRDV3OE5sdkphelVuWnhRd2dyUkpyc3ZOOURlRlM4SFNkRS04dXdaeUpjVG9kRVhpNm5PSGJGaFdZbXAxa3Z6ZkE?oc=5",
       "publishedAt": "Sun, 18 Oct 2026 07:00:00 GMT",
@@ -167,10 +160,17 @@
     },
     {
       "topic": "games",
-      "title": "Kohr Explores: Portland Retro Gaming Expo powers on - KOIN.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUTZZMnZfbU16ZWM0OURjSEtWcG5lS3ZBLVN1X3dZMWdTT2VmSDFzaUdxYVZKMWRtdTRGRVY2aWZfUUNHclBtNGNsWTRodTFVS3ZaeEJpZkJvcUZYY0V4NDJTQTJHOWQyVW00VTNRVG1SRlVBQzRPcmEzUWczNkpVamN4Qkx0MmdwMU5hYnpVREp1QUppUGhJTA?oc=5",
-      "publishedAt": "Fri, 09 Oct 2026 07:00:00 GMT",
-      "source": "KOIN.com"
+      "title": "A Third Of PlayStation 5 Game Discs Don't Fully Work Without A Download - BGR",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQld3cHhUOXdDc3lQZ0xMOUVlLUhyQ1RqNk1ZQkg1YjJUMk5teXlkVTVYVUtXQmRheUp1bWdWbDUwZWgtTmk2TGw2amE0NnBuejNJYVNqRHZCWlFtQWdfVnBKd0h3V1YweFY1R1ozcWM1REVoZTFuOUdhUTJKb2dRYw?oc=5",
+      "publishedAt": "Sat, 07 Nov 2026 23:17:00 GMT",
+      "source": "BGR"
+    },
+    {
+      "topic": "games",
+      "title": "Sony Axing Game Discs Will Have Outsized Impact on Low-Income Gamers, Experts Say - Decrypt",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUExobVdMbkU4YkhjaERlamdRNWlSTmE0NHktd1R4NWdYWGE3a2dDak5RNzhqc2xiUm1xWjR3amlZMDlGYjBPS1lfRWhfZ09oMURNNGlUZnFrSzQ3Vm1kMVNFc0xxOGRlRkxta0Y3ZXo1UXhqeDNGTjZHUGtKRG5TYnJacV8xOHZ4RndNVVVMSlJjWWgxbjB6OXNXbGE5MHdIektaLXNFV2FEQQ?oc=5",
+      "publishedAt": "Sat, 07 Nov 2026 14:01:02 GMT",
+      "source": "Decrypt"
     },
     {
       "topic": "agriculture",
@@ -211,22 +211,22 @@
   "feedStatus": [
     {
       "topic": "creator",
-      "checkedAt": "2026-11-08T00:42:31.711193+00:00",
+      "checkedAt": "2026-11-08T07:26:09.561257+00:00",
       "status": "ok"
     },
     {
       "topic": "clothing",
-      "checkedAt": "2026-11-08T00:42:32.142984+00:00",
+      "checkedAt": "2026-11-08T07:26:10.026850+00:00",
       "status": "ok"
     },
     {
       "topic": "games",
-      "checkedAt": "2026-11-08T00:42:32.503740+00:00",
+      "checkedAt": "2026-11-08T07:26:10.493209+00:00",
       "status": "ok"
     },
     {
       "topic": "agriculture",
-      "checkedAt": "2026-11-08T00:42:32.916919+00:00",
+      "checkedAt": "2026-11-08T07:26:10.980656+00:00",
       "status": "ok"
     }
   ]
