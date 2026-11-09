@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "checkedAt": "2026-11-09T00:56:46.293782+00:00",
+  "checkedAt": "2026-11-09T08:01:44.126665+00:00",
   "competitors": [
     {
       "name": "Social Square",
       "url": "https://socialsquare.co/",
-      "checkedAt": "2026-11-09T00:56:46.293797+00:00",
+      "checkedAt": "2026-11-09T08:01:44.126683+00:00",
       "title": "Social Square | UGC Marketplace for Creators",
       "description": "Get paid to create content for brands with Social Square. Discover UGC campaigns, collaborate with companies, publish",
       "mentions": [
@@ -19,7 +19,7 @@
     {
       "name": "Bengal Reach",
       "url": "https://www.bengalreach.com/",
-      "checkedAt": "2026-11-09T00:56:47.961172+00:00",
+      "checkedAt": "2026-11-09T08:01:45.744645+00:00",
       "title": "bengalReach - Connect Influencers with Brands in Bangladesh",
       "description": "Leading influencer marketing platform in Bangladesh. Connect local influencers with brands for authentic social media campaigns across",
       "mentions": [
@@ -33,7 +33,7 @@
     {
       "name": "Maroon Ltd.",
       "url": "https://www.maroonltd.com/",
-      "checkedAt": "2026-11-09T00:56:49.305063+00:00",
+      "checkedAt": "2026-11-09T08:01:47.229962+00:00",
       "title": "Maroon Limited",
       "description": "A PR and Digital Communication Agency in Dhaka, Bangladesh.",
       "mentions": [
@@ -48,7 +48,7 @@
     {
       "name": "Ngital",
       "url": "https://ngital.com/",
-      "checkedAt": "2026-11-09T00:56:54.353418+00:00",
+      "checkedAt": "2026-11-09T08:01:52.904074+00:00",
       "title": "Ngital – Digital Marketing Agency in Dhaka, Bangladesh",
       "description": "Digital Marketing Agency in Dhaka, Bangladesh",
       "mentions": [
@@ -68,7 +68,7 @@
       "name": "Internet use",
       "unit": "% of population",
       "url": "https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=BD",
-      "checkedAt": "2026-11-09T00:56:57.690723+00:00",
+      "checkedAt": "2026-11-09T08:01:56.295225+00:00",
       "status": "ok",
       "value": 53.42171316,
       "year": "2024"
@@ -78,7 +78,7 @@
       "name": "Population",
       "unit": "people",
       "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=BD",
-      "checkedAt": "2026-11-09T00:56:57.817710+00:00",
+      "checkedAt": "2026-11-09T08:01:56.467228+00:00",
       "status": "ok",
       "value": 175686899,
       "year": "2025"
@@ -88,7 +88,7 @@
       "name": "Inflation",
       "unit": "% annual",
       "url": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=BD",
-      "checkedAt": "2026-11-09T00:56:57.891043+00:00",
+      "checkedAt": "2026-11-09T08:01:56.571373+00:00",
       "status": "ok",
       "value": 8.7687628116114,
       "year": "2025"
@@ -160,23 +160,23 @@
     },
     {
       "topic": "games",
-      "title": "4 Anker Gadgets That Can Charge Your Retro Gaming Handhelds - BGR",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBHWS1nYUowN0ZoUFE3TnFfZ2ZQb1o5VnQxcUp5YTFiaVM0ZVBlTDdjYmo5S05vWGgwY1MzZHVhMlR6dzhQa3RBWlBRaXgzV3FtUlZvUm9fNFVNTUltdjZJN1N3eXdqTXJrTVE4NHRGcDU2bVJCUDRMUHpwYXI?oc=5",
-      "publishedAt": "Sun, 08 Nov 2026 18:47:00 GMT",
-      "source": "BGR"
-    },
-    {
-      "topic": "games",
       "title": "Sony Axing Game Discs Will Have Outsized Impact on Low-Income Gamers, Experts Say - Decrypt",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUExobVdMbkU4YkhjaERlamdRNWlSTmE0NHktd1R4NWdYWGE3a2dDak5RNzhqc2xiUm1xWjR3amlZMDlGYjBPS1lfRWhfZ09oMURNNGlUZnFrSzQ3Vm1kMVNFc0xxOGRlRkxta0Y3ZXo1UXhqeDNGTjZHUGtKRG5TYnJacV8xOHZ4RndNVVVMSlJjWWgxbjB6OXNXbGE5MHdIektaLXNFV2FEQQ?oc=5",
       "publishedAt": "Sat, 07 Nov 2026 14:01:02 GMT",
       "source": "Decrypt"
     },
     {
+      "topic": "games",
+      "title": "A Third Of PlayStation 5 Game Discs Don't Fully Work Without A Download - BGR",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQld3cHhUOXdDc3lQZ0xMOUVlLUhyQ1RqNk1ZQkg1YjJUMk5teXlkVTVYVUtXQmRheUp1bWdWbDUwZWgtTmk2TGw2amE0NnBuejNJYVNqRHZCWlFtQWdfVnBKd0h3V1YweFY1R1ozcWM1REVoZTFuOUdhUTJKb2dRYw?oc=5",
+      "publishedAt": "Sat, 07 Nov 2026 23:17:00 GMT",
+      "source": "BGR"
+    },
+    {
       "topic": "agriculture",
-      "title": "Govt to create 20,000 agricultural entrepreneurs nationwide - Bangladesh Sangbad Sangstha (BSS)",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5XR0ZNVl93Szcxd1lGRlB4Rkk1dzQyOFQxQTVoNk9zNlVDOHlIbXAxOFp1Yk5kMlFpMDduYmJteTZ2X1FkN3lBTS1SS1EwcDNsV19V?oc=5",
-      "publishedAt": "Sat, 10 Oct 2026 07:00:00 GMT",
+      "title": "Bangladesh’s nano urea patent opens new agricultural horizons - Bangladesh Sangbad Sangstha (BSS)",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9QWkFDOVJaREljVk14SVd2eFQtN19Td0JCN1pwSUZuWXZOODRyQ24tUU9NYVVrazNfOVFKTHdOUWtaenNVRXl3aDFraW5YbDRPeHpqLThwUFFMUGc?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 07:00:00 GMT",
       "source": "Bangladesh Sangbad Sangstha (BSS)"
     },
     {
@@ -195,38 +195,38 @@
     },
     {
       "topic": "agriculture",
-      "title": "Bangladesh’s nano urea patent opens new agricultural horizons - Bangladesh Sangbad Sangstha (BSS)",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9QWkFDOVJaREljVk14SVd2eFQtN19Td0JCN1pwSUZuWXZOODRyQ24tUU9NYVVrazNfOVFKTHdOUWtaenNVRXl3aDFraW5YbDRPeHpqLThwUFFMUGc?oc=5",
+      "title": "Netherlands Seeks to Enhance Cooperation with Bangladesh in Agriculture and Seed Sectors - https://businessinbangladesh.com.bd/",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRjBNT0Z2VkxxX2VjT1lLU1NpSUtHS3o5NHFFQTRJamtILTJMLV85c1FKVS05TzQ3OHRfdE1yay1WWDh2TGlCSC1rLTF0OWh6bGpac20tMjJvcFU2djZiM2dkZVlFMXVSdkJMV1RhWTlwaHlTZXVzM0VhV2hKbTZGWGFzWUhoSHFoaFRSOExvUnF6eE41cXhWVkg5QWVSNm5yUXQ5eVFTTUhsaHlObFA1T0paUGctN29iVUxYTjEzUkZVVXM?oc=5",
       "publishedAt": "Wed, 28 Oct 2026 07:00:00 GMT",
-      "source": "Bangladesh Sangbad Sangstha (BSS)"
+      "source": "https://businessinbangladesh.com.bd/"
     },
     {
       "topic": "agriculture",
-      "title": "President calls for making agriculture more profitable - Dhaka Tribune",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdWZrM2lDcExXTEdaVEJkTHY4cFR0UURvTkRmTHIzWHduVi1PaXV4cFFtbWtDYUx6Q1pteXNLWEZMM3dPWTBTZl9vNnlFN2JDMUpiOVlzclZqVFFkUnI4QWxuUlhsSVhmMEt3bGFvMnVhMDZld2F6NWh6ZVREdTRHTHlzOTZ1MkNRTVV6NlFsVndzVTliOEhQNHl6R21RTlRiRWVV0gGjAUFVX3lxTE51ZmszaUNwTFdMR1pUQmRMdjhwVHRRRG9ORGZMcjNYd25WLU9pdXhwUW1ta0NhTHpDWm15c0tYRkwzd09ZMFNmX282eUU3YkMxSmI5WXNyVmpUUWRScjhBbG5SWGxJWGYwS3dsYW8ydWEwNmV3YXo1aHplVER1NEdMeXM5NnUyQ1FNVXo2UWxWd3NVOWI4SFA0eXpHbVFOVGJFZVU?oc=5",
-      "publishedAt": "Thu, 15 Oct 2026 14:39:40 GMT",
-      "source": "Dhaka Tribune"
+      "title": "Solar-powered irrigation reshapes farming in Bangladesh’s Barind region - Bangladesh Sangbad Sangstha (BSS)",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE93RkRPRklnbkRpaUpENGFIWEVDU25sRkt4a050cEg3QU1GVHNkc216YjFLLWNteHZRUEZkUXEwdEpOOC1LNndTWnBvVTNHSGhNS0hQNkZOVklOckk?oc=5",
+      "publishedAt": "Mon, 19 Oct 2026 07:00:00 GMT",
+      "source": "Bangladesh Sangbad Sangstha (BSS)"
     }
   ],
   "feedStatus": [
     {
       "topic": "creator",
-      "checkedAt": "2026-11-09T00:56:57.969387+00:00",
+      "checkedAt": "2026-11-09T08:01:56.688949+00:00",
       "status": "ok"
     },
     {
       "topic": "clothing",
-      "checkedAt": "2026-11-09T00:56:58.353838+00:00",
+      "checkedAt": "2026-11-09T08:01:57.158971+00:00",
       "status": "ok"
     },
     {
       "topic": "games",
-      "checkedAt": "2026-11-09T00:56:58.680962+00:00",
+      "checkedAt": "2026-11-09T08:01:57.606832+00:00",
       "status": "ok"
     },
     {
       "topic": "agriculture",
-      "checkedAt": "2026-11-09T00:56:59.054373+00:00",
+      "checkedAt": "2026-11-09T08:01:58.045185+00:00",
       "status": "ok"
     }
   ]
