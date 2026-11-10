@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "checkedAt": "2026-11-10T09:56:10.706523+00:00",
+  "checkedAt": "2026-11-10T17:53:56.488294+00:00",
   "competitors": [
     {
       "name": "Social Square",
       "url": "https://socialsquare.co/",
-      "checkedAt": "2026-11-10T09:56:10.706538+00:00",
+      "checkedAt": "2026-11-10T17:53:56.488310+00:00",
       "title": "Social Square | UGC Marketplace for Creators",
       "description": "Get paid to create content for brands with Social Square. Discover UGC campaigns, collaborate with companies, publish",
       "mentions": [
@@ -19,7 +19,7 @@
     {
       "name": "Bengal Reach",
       "url": "https://www.bengalreach.com/",
-      "checkedAt": "2026-11-10T09:56:12.378210+00:00",
+      "checkedAt": "2026-11-10T17:53:57.796035+00:00",
       "title": "bengalReach - Connect Influencers with Brands in Bangladesh",
       "description": "Leading influencer marketing platform in Bangladesh. Connect local influencers with brands for authentic social media campaigns across",
       "mentions": [
@@ -33,7 +33,7 @@
     {
       "name": "Maroon Ltd.",
       "url": "https://www.maroonltd.com/",
-      "checkedAt": "2026-11-10T09:56:13.864148+00:00",
+      "checkedAt": "2026-11-10T17:53:59.189540+00:00",
       "title": "Maroon Limited",
       "description": "A PR and Digital Communication Agency in Dhaka, Bangladesh.",
       "mentions": [
@@ -48,7 +48,7 @@
     {
       "name": "Ngital",
       "url": "https://ngital.com/",
-      "checkedAt": "2026-11-10T09:56:16.491391+00:00",
+      "checkedAt": "2026-11-10T17:54:04.199554+00:00",
       "title": "Ngital – Digital Marketing Agency in Dhaka, Bangladesh",
       "description": "Digital Marketing Agency in Dhaka, Bangladesh",
       "mentions": [
@@ -68,7 +68,7 @@
       "name": "Internet use",
       "unit": "% of population",
       "url": "https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=BD",
-      "checkedAt": "2026-11-10T09:56:19.883180+00:00",
+      "checkedAt": "2026-11-10T17:54:07.285111+00:00",
       "status": "ok",
       "value": 53.42171316,
       "year": "2024"
@@ -78,7 +78,7 @@
       "name": "Population",
       "unit": "people",
       "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=BD",
-      "checkedAt": "2026-11-10T09:56:28.717650+00:00",
+      "checkedAt": "2026-11-10T17:54:07.534338+00:00",
       "status": "ok",
       "value": 175686899,
       "year": "2025"
@@ -88,20 +88,13 @@
       "name": "Inflation",
       "unit": "% annual",
       "url": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=BD",
-      "checkedAt": "2026-11-10T09:56:29.451864+00:00",
+      "checkedAt": "2026-11-10T17:54:07.594605+00:00",
       "status": "ok",
       "value": 8.7687628116114,
       "year": "2025"
     }
   ],
   "headlines": [
-    {
-      "topic": "creator",
-      "title": "HypeScout: First ever influencer marketing platform in Bangladesh - The Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcFZSaWQ1YWRfMUdHUXJkMlhoVG02d2hRYXdJbjVlcHFTcXV1S2tWMW82MDFIeHR2MUtoWm9jYzdiYTNIaldiMXBKU3JDQmxzYjFlQnVPQk5Ec21FV0swMHQxWEkzblcycE12WlFPQllOVkdkb1ZFN3ZDdDdwZUcyS284ejZTM3VfNU9uZjR3Q2VVRENzbmFLMi0wRnRJTldmQS1xLXVhMUVNOFI0U3c?oc=5",
-      "publishedAt": "Thu, 22 Oct 2026 07:00:00 GMT",
-      "source": "The Business Standard"
-    },
     {
       "topic": "clothing",
       "title": "Bangladesh Agrees to Raise Minimum Wage for Garment Workers After Protests - The New York Times",
@@ -118,13 +111,6 @@
     },
     {
       "topic": "clothing",
-      "title": "Adaptive fashion: Bangladesh makes clothes for the world, but not for everyone - The Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObTB0SEptUi1JeGl0c2VDVzdiVE42VDE3c1o0WGVKWHdfLUc3NjNpRjZOS1c0V25ycEVlSFprQm1NcU9XZms0VzVHaUQ3Wno5ZEo0UzRMQ1lSSVVfbF90a19DZk5pOENyTXR3b1Yyc28zVmQ0QkIxT18wV0JNeWd1VVVoeGhNdWhDQUhwa0pUS2Noa0tBZjdaSV9LaUxnQmJPNkl0RXd0S1NtMWUtcW0w?oc=5",
-      "publishedAt": "Fri, 16 Oct 2026 07:00:00 GMT",
-      "source": "The Business Standard"
-    },
-    {
-      "topic": "clothing",
       "title": "Fashion brands urged to back Bangladesh workers - Just Style",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTGQtMF9qMHF4Zml2NkJVaXZGal90cUdJRHVSbjAwMDl5NUstN2NQM3lPWGpDYkY5MUhnTloybVBkQUVYZmI2Rk9mRUJBQzRYUXh0OHRrMEt3ZDBMcEp6QUN6b1dNbjZKU0dXTVdSeVNRTnNjUm5IanU3X1JjZGk5cXVRTkxKQ3M?oc=5",
       "publishedAt": "Thu, 05 Nov 2026 11:23:24 GMT",
@@ -136,6 +122,13 @@
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQNUd2ZlgzVElHVU1HSnlmSmxHeW8yTU9PZlVwazRsMTI3S0hjbF9FU3VOZ3JwYUp1ckR5UmhXWnRvNkhFNktKdExDelZJbWx5Y3U5dmFQX180V2llRUJxQUdfV3RBVFhmek9fcFlPTlBndHBDNnZFZVdpSjhNaGhadm9kamhDajZSNkxIX2xyMEFiVkhfOVBKZmJhaGxPeVJTRnBYTHNPQ0VsLWozNDlkb3dPSnNZMmZxRkxzV1BlaHVTZF9TOXQ1eXh5UGEyQ1dYMlFha0JOdVctMFdYRTlBRmd6RHRWQ00?oc=5",
       "publishedAt": "Wed, 04 Nov 2026 14:11:03 GMT",
       "source": "FashionNetwork USA"
+    },
+    {
+      "topic": "clothing",
+      "title": "EU traceability push puts Bangladesh's SMEs to the test - Fibre2Fashion",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNklNNW8zQVFIM3pod1VJNl81Smt1WmFkTl82RklId1RtMEFPTVhURlVoanhROVM2NFlVdzVnX1E0TTFBQkEyMFZzclpDaEV5d0Vwbm9IQ09nWEhSYXVhRThnLVNyMmp6alhwTTVHNHUxVTFhb2pPZENYWl9zT1VCSTJ5cnhxTkhWd0pRbHRmYlhRTjRGNmNOR0JPem9NME1YSDhLZVRYSUZKa3pWUUhwNldDcUQtbVpsX1YxQWFmWGRmTUZxN3BVLW5PeVZZdkNNRlU2N01ZNA?oc=5",
+      "publishedAt": "Fri, 16 Oct 2026 07:00:00 GMT",
+      "source": "Fibre2Fashion"
     },
     {
       "topic": "games",
@@ -211,22 +204,22 @@
   "feedStatus": [
     {
       "topic": "creator",
-      "checkedAt": "2026-11-10T09:56:30.038628+00:00",
+      "checkedAt": "2026-11-10T17:54:07.638154+00:00",
       "status": "ok"
     },
     {
       "topic": "clothing",
-      "checkedAt": "2026-11-10T09:56:30.439410+00:00",
+      "checkedAt": "2026-11-10T17:54:08.100846+00:00",
       "status": "ok"
     },
     {
       "topic": "games",
-      "checkedAt": "2026-11-10T09:56:30.779472+00:00",
+      "checkedAt": "2026-11-10T17:54:08.624148+00:00",
       "status": "ok"
     },
     {
       "topic": "agriculture",
-      "checkedAt": "2026-11-10T09:56:31.264169+00:00",
+      "checkedAt": "2026-11-10T17:54:09.066079+00:00",
       "status": "ok"
     }
   ]
