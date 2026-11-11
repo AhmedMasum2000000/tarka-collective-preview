@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "checkedAt": "2026-11-10T23:26:44.616534+00:00",
+  "checkedAt": "2026-11-11T06:33:02.460038+00:00",
   "competitors": [
     {
       "name": "Social Square",
       "url": "https://socialsquare.co/",
-      "checkedAt": "2026-11-10T23:26:44.616545+00:00",
+      "checkedAt": "2026-11-11T06:33:02.460049+00:00",
       "title": "Social Square | UGC Marketplace for Creators",
       "description": "Get paid to create content for brands with Social Square. Discover UGC campaigns, collaborate with companies, publish",
       "mentions": [
@@ -19,7 +19,7 @@
     {
       "name": "Bengal Reach",
       "url": "https://www.bengalreach.com/",
-      "checkedAt": "2026-11-10T23:26:46.135600+00:00",
+      "checkedAt": "2026-11-11T06:33:03.821457+00:00",
       "title": "bengalReach - Connect Influencers with Brands in Bangladesh",
       "description": "Leading influencer marketing platform in Bangladesh. Connect local influencers with brands for authentic social media campaigns across",
       "mentions": [
@@ -33,7 +33,7 @@
     {
       "name": "Maroon Ltd.",
       "url": "https://www.maroonltd.com/",
-      "checkedAt": "2026-11-10T23:26:47.529257+00:00",
+      "checkedAt": "2026-11-11T06:33:05.532643+00:00",
       "title": "Maroon Limited",
       "description": "A PR and Digital Communication Agency in Dhaka, Bangladesh.",
       "mentions": [
@@ -48,7 +48,7 @@
     {
       "name": "Ngital",
       "url": "https://ngital.com/",
-      "checkedAt": "2026-11-10T23:26:51.236072+00:00",
+      "checkedAt": "2026-11-11T06:33:09.012872+00:00",
       "title": "Ngital – Digital Marketing Agency in Dhaka, Bangladesh",
       "description": "Digital Marketing Agency in Dhaka, Bangladesh",
       "mentions": [
@@ -68,7 +68,7 @@
       "name": "Internet use",
       "unit": "% of population",
       "url": "https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=BD",
-      "checkedAt": "2026-11-10T23:26:54.605854+00:00",
+      "checkedAt": "2026-11-11T06:33:12.183566+00:00",
       "status": "ok",
       "value": 53.42171316,
       "year": "2024"
@@ -78,7 +78,7 @@
       "name": "Population",
       "unit": "people",
       "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=BD",
-      "checkedAt": "2026-11-10T23:26:54.780009+00:00",
+      "checkedAt": "2026-11-11T06:33:12.489656+00:00",
       "status": "ok",
       "value": 175686899,
       "year": "2025"
@@ -88,20 +88,13 @@
       "name": "Inflation",
       "unit": "% annual",
       "url": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=BD",
-      "checkedAt": "2026-11-10T23:26:54.908378+00:00",
+      "checkedAt": "2026-11-11T06:33:12.624227+00:00",
       "status": "ok",
       "value": 8.7687628116114,
       "year": "2025"
     }
   ],
   "headlines": [
-    {
-      "topic": "clothing",
-      "title": "Bangladesh Agrees to Raise Minimum Wage for Garment Workers After Protests - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRUhDS1A5OU9GR3dIRU5HRmJwUlNwZGZsVGg3WjNIcW5Ob3JKWl9acHQ2b0wtQWt0c24zd2lVclRzUDdxT1hGVEM1ck96cmxVb2FxVk8yOFhCUFlZMGdrNzBFVnNKTEdlWWw0RE5rTXdkMHNSYUVCbUF4S1gxYk9VNVhLN01pV2Rubm4zUEN2YVFJTDRj?oc=5",
-      "publishedAt": "Thu, 05 Nov 2026 14:51:08 GMT",
-      "source": "The New York Times"
-    },
     {
       "topic": "clothing",
       "title": "Wage unrest tests Bangladesh garment industry's low-cost edge - Reuters",
@@ -129,6 +122,13 @@
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNklNNW8zQVFIM3pod1VJNl81Smt1WmFkTl82RklId1RtMEFPTVhURlVoanhROVM2NFlVdzVnX1E0TTFBQkEyMFZzclpDaEV5d0Vwbm9IQ09nWEhSYXVhRThnLVNyMmp6alhwTTVHNHUxVTFhb2pPZENYWl9zT1VCSTJ5cnhxTkhWd0pRbHRmYlhRTjRGNmNOR0JPem9NME1YSDhLZVRYSUZKa3pWUUhwNldDcUQtbVpsX1YxQWFmWGRmTUZxN3BVLW5PeVZZdkNNRlU2N01ZNA?oc=5",
       "publishedAt": "Fri, 16 Oct 2026 07:00:00 GMT",
       "source": "Fibre2Fashion"
+    },
+    {
+      "topic": "clothing",
+      "title": "Bangladesh Garment Protests Continue - The Business of Fashion",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTlVjSjdWZjdjcDB5TF82czFsZjJhRFMxRXJmVFd6ak9VVm9lYjVyRFg5NG1TQUpXdGQza2NrNDJTdG1jVWxCaG9Tc2djNVRpcnpqcnBLdUFrYlNtQUlUdHR6NDFObjl6VjJOZGpiU1E2a3BQVGZQN0ZmdlczNmpQN3prMElyTml2VGl1U0g2SUNTenRlM2c?oc=5",
+      "publishedAt": "Fri, 06 Nov 2026 11:13:30 GMT",
+      "source": "The Business of Fashion"
     },
     {
       "topic": "games",
@@ -188,9 +188,9 @@
     },
     {
       "topic": "agriculture",
-      "title": "Bangladesh’s nano urea patent opens new agricultural horizons - Bangladesh Sangbad Sangstha (BSS)",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9QWkFDOVJaREljVk14SVd2eFQtN19Td0JCN1pwSUZuWXZOODRyQ24tUU9NYVVrazNfOVFKTHdOUWtaenNVRXl3aDFraW5YbDRPeHpqLThwUFFMUGc?oc=5",
-      "publishedAt": "Wed, 28 Oct 2026 07:00:00 GMT",
+      "title": "Solar-powered irrigation reshapes farming in Bangladesh’s Barind region - Bangladesh Sangbad Sangstha (BSS)",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE93RkRPRklnbkRpaUpENGFIWEVDU25sRkt4a050cEg3QU1GVHNkc216YjFLLWNteHZRUEZkUXEwdEpOOC1LNndTWnBvVTNHSGhNS0hQNkZOVklOckk?oc=5",
+      "publishedAt": "Mon, 19 Oct 2026 07:00:00 GMT",
       "source": "Bangladesh Sangbad Sangstha (BSS)"
     },
     {
@@ -204,22 +204,22 @@
   "feedStatus": [
     {
       "topic": "creator",
-      "checkedAt": "2026-11-10T23:26:55.102476+00:00",
+      "checkedAt": "2026-11-11T06:33:12.773558+00:00",
       "status": "ok"
     },
     {
       "topic": "clothing",
-      "checkedAt": "2026-11-10T23:26:55.539595+00:00",
+      "checkedAt": "2026-11-11T06:33:13.267460+00:00",
       "status": "ok"
     },
     {
       "topic": "games",
-      "checkedAt": "2026-11-10T23:26:56.036443+00:00",
+      "checkedAt": "2026-11-11T06:33:13.710686+00:00",
       "status": "ok"
     },
     {
       "topic": "agriculture",
-      "checkedAt": "2026-11-10T23:26:56.545035+00:00",
+      "checkedAt": "2026-11-11T06:33:14.207744+00:00",
       "status": "ok"
     }
   ]
