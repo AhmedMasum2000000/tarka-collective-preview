@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "checkedAt": "2026-11-12T12:48:21.362696+00:00",
+  "checkedAt": "2026-11-12T20:51:30.477031+00:00",
   "competitors": [
     {
       "name": "Social Square",
       "url": "https://socialsquare.co/",
-      "checkedAt": "2026-11-12T12:48:21.362710+00:00",
+      "checkedAt": "2026-11-12T20:51:30.477046+00:00",
       "title": "Social Square | UGC Marketplace for Creators",
       "description": "Get paid to create content for brands with Social Square. Discover UGC campaigns, collaborate with companies, publish",
       "mentions": [
@@ -19,7 +19,7 @@
     {
       "name": "Bengal Reach",
       "url": "https://www.bengalreach.com/",
-      "checkedAt": "2026-11-12T12:48:22.575878+00:00",
+      "checkedAt": "2026-11-12T20:51:32.104393+00:00",
       "title": "bengalReach - Connect Influencers with Brands in Bangladesh",
       "description": "Leading influencer marketing platform in Bangladesh. Connect local influencers with brands for authentic social media campaigns across",
       "mentions": [
@@ -33,7 +33,7 @@
     {
       "name": "Maroon Ltd.",
       "url": "https://www.maroonltd.com/",
-      "checkedAt": "2026-11-12T12:48:23.803638+00:00",
+      "checkedAt": "2026-11-12T20:51:33.990692+00:00",
       "title": "Maroon Limited",
       "description": "A PR and Digital Communication Agency in Dhaka, Bangladesh.",
       "mentions": [
@@ -48,7 +48,7 @@
     {
       "name": "Ngital",
       "url": "https://ngital.com/",
-      "checkedAt": "2026-11-12T12:48:29.028080+00:00",
+      "checkedAt": "2026-11-12T20:51:37.577614+00:00",
       "title": "Ngital – Digital Marketing Agency in Dhaka, Bangladesh",
       "description": "Digital Marketing Agency in Dhaka, Bangladesh",
       "mentions": [
@@ -68,7 +68,7 @@
       "name": "Internet use",
       "unit": "% of population",
       "url": "https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=BD",
-      "checkedAt": "2026-11-12T12:48:32.232363+00:00",
+      "checkedAt": "2026-11-12T20:51:40.645901+00:00",
       "status": "unavailable",
       "error": "The read operation timed out"
     },
@@ -77,20 +77,18 @@
       "name": "Population",
       "unit": "people",
       "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=BD",
-      "checkedAt": "2026-11-12T12:48:50.339652+00:00",
-      "status": "ok",
-      "value": 175686899,
-      "year": "2025"
+      "checkedAt": "2026-11-12T20:51:58.750353+00:00",
+      "status": "unavailable",
+      "error": "The read operation timed out"
     },
     {
       "code": "FP.CPI.TOTL.ZG",
       "name": "Inflation",
       "unit": "% annual",
       "url": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=BD",
-      "checkedAt": "2026-11-12T12:48:50.389056+00:00",
-      "status": "ok",
-      "value": 8.7687628116114,
-      "year": "2025"
+      "checkedAt": "2026-11-12T20:52:16.802130+00:00",
+      "status": "unavailable",
+      "error": "The read operation timed out"
     }
   ],
   "headlines": [
@@ -105,7 +103,7 @@
       "topic": "clothing",
       "title": "Wage unrest tests Bangladesh garment industry's low-cost edge - Reuters",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOR05KRGFYbENvaWx0SmpFTC1HdF9TVHFJa015S2gxYVZ5ZUc0eXQ3X1BoZkN2OFdseDdSMGpNa1MtZnpRY2FoUjlOUzBwR1hOY1p3cTZ2V0lRN09zbFl0NXNqX3BXenYtTFhLZDhHOHg4U3RRdDkxaVpGWWNheWVwaWdZcFBsNENiX0ZDQ0g3cGdlRlloZW5fTTNYZG44LUZDLVFsTGxNNWQtOTFSMThLbDJZai0zS29kQmRXUlpn?oc=5",
-      "publishedAt": "Wed, 04 Nov 2026 08:57:05 GMT",
+      "publishedAt": "Wed, 04 Nov 2026 08:00:00 GMT",
       "source": "Reuters"
     },
     {
@@ -159,24 +157,10 @@
     },
     {
       "topic": "games",
-      "title": "A Third Of PlayStation 5 Game Discs Don't Fully Work Without A Download - BGR",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQld3cHhUOXdDc3lQZ0xMOUVlLUhyQ1RqNk1ZQkg1YjJUMk5teXlkVTVYVUtXQmRheUp1bWdWbDUwZWgtTmk2TGw2amE0NnBuejNJYVNqRHZCWlFtQWdfVnBKd0h3V1YweFY1R1ozcWM1REVoZTFuOUdhUTJKb2dRYw?oc=5",
-      "publishedAt": "Sat, 07 Nov 2026 23:17:00 GMT",
-      "source": "BGR"
-    },
-    {
-      "topic": "agriculture",
-      "title": "Farmers Food Insecurity In Bangladesh | Who will feed the farmers who feed the nation? - The Daily Star",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZkluczNwN0E1a0I3NVlnWWVHc05QSUdiMXJHRmk5QmNXRGlzLWR4SjRYSjJucjhnUVg4Y2t0QmdhU0duS2xQdjFXT2l5RFlvM0J6blBLc2QxODhkV28td2JuT0U2d29sdWJ1N2NIenFITlVwNXpCRWRPXzByaWRuQ3NZWnE0T3AwYl9HbGFhSjg0eFFpRnFpM3BxQTN2cEtkdWdr?oc=5",
-      "publishedAt": "Fri, 16 Oct 2026 07:00:00 GMT",
-      "source": "The Daily Star"
-    },
-    {
-      "topic": "agriculture",
-      "title": "Bangladesh, Algeria seek broader cooperation in energy, agriculture, textiles - Dhaka Tribune",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPa0N5NnZfSzRscFV1NEVVanhrNEVzeUUxalJVdGNwVTg1b1hIVWtycHRHeDRWcFdPU0ZsVFlmY05NMEg5c2pVMjFVaUJPTFA3WXc3YkxxdVBVWEtPUGdqNE42aVRMQ0dEVHNHZHo2NU5hTlJhYTROV1dZYUI5bjVWRXVJdWdldk9TanoxUFhTaEI5YXI4N1NGVnl2X2xOM2RvbllrMDEyeTFrNWViaGfSAbMBQVVfeXFMTVlIYk01N1phN3pmS19MNEI1ZGJrUnhrSWktSGJKR2JoOU5KcGVvTEFkWWRLdkFEdnhrUXBkVUNMSFBmdTBXaHZ2SHJpODJ6NXFQQkt5bE1CbllucU02UUpyQ0xsS1M2UldyQ1ZMaXpyaUFMRWNFZjlxRFY1RzJnY3RvSFhoS3lYZDJJcEdhTkJVTUl5TDZSRzEzbW9MakdtNmt0WDcwcjF2NzE5dUo4UnJtT28?oc=5",
-      "publishedAt": "Thu, 22 Oct 2026 07:00:00 GMT",
-      "source": "Dhaka Tribune"
+      "title": "It's OK, Pokémon And Retro Gaming Fans, The Resellers And Vultures Will Eventually Move On - Aftermath",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE50X2FVWGJkaVlObkVJRnp6R1FhUTJrby03ZmRXZEM5NEprTWd4dE8xZzItbUtZd2FBdG8tZl94RXVVbWZDd3NVZjE1d1dwdWRWTGRhSkR4RVpNMkowamsxcHI0VFQ1MWxKUVI2NnRlR1lmZ0QzRm84dFdyWQ?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 07:00:00 GMT",
+      "source": "Aftermath"
     },
     {
       "topic": "agriculture",
@@ -187,6 +171,13 @@
     },
     {
       "topic": "agriculture",
+      "title": "Bangladesh, Algeria seek broader cooperation in energy, agriculture, textiles - Dhaka Tribune",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPa0N5NnZfSzRscFV1NEVVanhrNEVzeUUxalJVdGNwVTg1b1hIVWtycHRHeDRWcFdPU0ZsVFlmY05NMEg5c2pVMjFVaUJPTFA3WXc3YkxxdVBVWEtPUGdqNE42aVRMQ0dEVHNHZHo2NU5hTlJhYTROV1dZYUI5bjVWRXVJdWdldk9TanoxUFhTaEI5YXI4N1NGVnl2X2xOM2RvbllrMDEyeTFrNWViaGfSAbMBQVVfeXFMTVlIYk01N1phN3pmS19MNEI1ZGJrUnhrSWktSGJKR2JoOU5KcGVvTEFkWWRLdkFEdnhrUXBkVUNMSFBmdTBXaHZ2SHJpODJ6NXFQQkt5bE1CbllucU02UUpyQ0xsS1M2UldyQ1ZMaXpyaUFMRWNFZjlxRFY1RzJnY3RvSFhoS3lYZDJJcEdhTkJVTUl5TDZSRzEzbW9MakdtNmt0WDcwcjF2NzE5dUo4UnJtT28?oc=5",
+      "publishedAt": "Thu, 22 Oct 2026 07:00:00 GMT",
+      "source": "Dhaka Tribune"
+    },
+    {
+      "topic": "agriculture",
       "title": "Netherlands Seeks to Enhance Cooperation with Bangladesh in Agriculture and Seed Sectors - https://businessinbangladesh.com.bd/",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRjBNT0Z2VkxxX2VjT1lLU1NpSUtHS3o5NHFFQTRJamtILTJMLV85c1FKVS05TzQ3OHRfdE1yay1WWDh2TGlCSC1rLTF0OWh6bGpac20tMjJvcFU2djZiM2dkZVlFMXVSdkJMV1RhWTlwaHlTZXVzM0VhV2hKbTZGWGFzWUhoSHFoaFRSOExvUnF6eE41cXhWVkg5QWVSNm5yUXQ5eVFTTUhsaHlObFA1T0paUGctN29iVUxYTjEzUkZVVXM?oc=5",
       "publishedAt": "Wed, 28 Oct 2026 07:00:00 GMT",
@@ -194,31 +185,38 @@
     },
     {
       "topic": "agriculture",
-      "title": "Agricultural Paradox in Bangladesh - Daily Sun",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBsSUtmdmNjOWNvaHQ2c2h2SnY5ZWtETi1MNEdGRnVMaXM4TTNyekV3RW1raTN1SC1wdG5DNV80QkZnYTdnNlRRRDctR3RwYUxY?oc=5",
+      "title": "Bangladesh’s nano urea patent opens new agricultural horizons - Bangladesh Sangbad Sangstha (BSS)",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9QWkFDOVJaREljVk14SVd2eFQtN19Td0JCN1pwSUZuWXZOODRyQ24tUU9NYVVrazNfOVFKTHdOUWtaenNVRXl3aDFraW5YbDRPeHpqLThwUFFMUGc?oc=5",
       "publishedAt": "Wed, 28 Oct 2026 07:00:00 GMT",
-      "source": "Daily Sun"
+      "source": "Bangladesh Sangbad Sangstha (BSS)"
+    },
+    {
+      "topic": "agriculture",
+      "title": "President calls for making agriculture more profitable - Dhaka Tribune",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdWZrM2lDcExXTEdaVEJkTHY4cFR0UURvTkRmTHIzWHduVi1PaXV4cFFtbWtDYUx6Q1pteXNLWEZMM3dPWTBTZl9vNnlFN2JDMUpiOVlzclZqVFFkUnI4QWxuUlhsSVhmMEt3bGFvMnVhMDZld2F6NWh6ZVREdTRHTHlzOTZ1MkNRTVV6NlFsVndzVTliOEhQNHl6R21RTlRiRWVV0gGjAUFVX3lxTE51ZmszaUNwTFdMR1pUQmRMdjhwVHRRRG9ORGZMcjNYd25WLU9pdXhwUW1ta0NhTHpDWm15c0tYRkwzd09ZMFNmX282eUU3YkMxSmI5WXNyVmpUUWRScjhBbG5SWGxJWGYwS3dsYW8ydWEwNmV3YXo1aHplVER1NEdMeXM5NnUyQ1FNVXo2UWxWd3NVOWI4SFA0eXpHbVFOVGJFZVU?oc=5",
+      "publishedAt": "Thu, 15 Oct 2026 14:39:40 GMT",
+      "source": "Dhaka Tribune"
     }
   ],
   "feedStatus": [
     {
       "topic": "creator",
-      "checkedAt": "2026-11-12T12:48:50.437113+00:00",
+      "checkedAt": "2026-11-12T20:52:34.825386+00:00",
       "status": "ok"
     },
     {
       "topic": "clothing",
-      "checkedAt": "2026-11-12T12:48:50.781733+00:00",
+      "checkedAt": "2026-11-12T20:52:35.398759+00:00",
       "status": "ok"
     },
     {
       "topic": "games",
-      "checkedAt": "2026-11-12T12:48:51.147157+00:00",
+      "checkedAt": "2026-11-12T20:52:35.879276+00:00",
       "status": "ok"
     },
     {
       "topic": "agriculture",
-      "checkedAt": "2026-11-12T12:48:51.471367+00:00",
+      "checkedAt": "2026-11-12T20:52:36.318809+00:00",
       "status": "ok"
     }
   ]
