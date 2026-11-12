@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "checkedAt": "2026-11-11T22:43:33.081948+00:00",
+  "checkedAt": "2026-11-12T03:50:36.948229+00:00",
   "competitors": [
     {
       "name": "Social Square",
       "url": "https://socialsquare.co/",
-      "checkedAt": "2026-11-11T22:43:33.081961+00:00",
+      "checkedAt": "2026-11-12T03:50:36.948244+00:00",
       "title": "Social Square | UGC Marketplace for Creators",
       "description": "Get paid to create content for brands with Social Square. Discover UGC campaigns, collaborate with companies, publish",
       "mentions": [
@@ -19,7 +19,7 @@
     {
       "name": "Bengal Reach",
       "url": "https://www.bengalreach.com/",
-      "checkedAt": "2026-11-11T22:43:34.427736+00:00",
+      "checkedAt": "2026-11-12T03:50:38.192474+00:00",
       "title": "bengalReach - Connect Influencers with Brands in Bangladesh",
       "description": "Leading influencer marketing platform in Bangladesh. Connect local influencers with brands for authentic social media campaigns across",
       "mentions": [
@@ -33,7 +33,7 @@
     {
       "name": "Maroon Ltd.",
       "url": "https://www.maroonltd.com/",
-      "checkedAt": "2026-11-11T22:43:35.842420+00:00",
+      "checkedAt": "2026-11-12T03:50:39.680272+00:00",
       "title": "Maroon Limited",
       "description": "A PR and Digital Communication Agency in Dhaka, Bangladesh.",
       "mentions": [
@@ -48,7 +48,7 @@
     {
       "name": "Ngital",
       "url": "https://ngital.com/",
-      "checkedAt": "2026-11-11T22:43:40.960152+00:00",
+      "checkedAt": "2026-11-12T03:50:44.884241+00:00",
       "title": "Ngital – Digital Marketing Agency in Dhaka, Bangladesh",
       "description": "Digital Marketing Agency in Dhaka, Bangladesh",
       "mentions": [
@@ -68,7 +68,7 @@
       "name": "Internet use",
       "unit": "% of population",
       "url": "https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=BD",
-      "checkedAt": "2026-11-11T22:43:43.884687+00:00",
+      "checkedAt": "2026-11-12T03:50:48.517196+00:00",
       "status": "ok",
       "value": 53.42171316,
       "year": "2024"
@@ -78,7 +78,7 @@
       "name": "Population",
       "unit": "people",
       "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=BD",
-      "checkedAt": "2026-11-11T22:43:44.030631+00:00",
+      "checkedAt": "2026-11-12T03:50:48.622561+00:00",
       "status": "ok",
       "value": 175686899,
       "year": "2025"
@@ -88,7 +88,7 @@
       "name": "Inflation",
       "unit": "% annual",
       "url": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=BD",
-      "checkedAt": "2026-11-11T22:43:44.096590+00:00",
+      "checkedAt": "2026-11-12T03:50:48.675768+00:00",
       "status": "ok",
       "value": 8.7687628116114,
       "year": "2025"
@@ -195,31 +195,31 @@
     },
     {
       "topic": "agriculture",
-      "title": "Bangladesh’s nano urea patent opens new agricultural horizons - Bangladesh Sangbad Sangstha (BSS)",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9QWkFDOVJaREljVk14SVd2eFQtN19Td0JCN1pwSUZuWXZOODRyQ24tUU9NYVVrazNfOVFKTHdOUWtaenNVRXl3aDFraW5YbDRPeHpqLThwUFFMUGc?oc=5",
-      "publishedAt": "Wed, 28 Oct 2026 07:00:00 GMT",
-      "source": "Bangladesh Sangbad Sangstha (BSS)"
+      "title": "A Warming World, a Threatened Food Future: Can our Agriculture Adapt? - Bangladesh Post",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWlN3MXpRNldaMWp3QkMtMzV3U051X0k4Nktzdjc2cGtrMnZ5MDBQOFRMTlBLWm15WHVkbThiS1NZNlFHRk9NWlBDZUZpZllzVGoyRDRZdUxITjZQRHpHa3lKNkpCTkwwSW9Ball2azI3c3A5d0E4Qkp4U1dHMFRrTExselU0RGc3S1M2MHdoUUxMZWtkNnI4c2k1RjlYMFhjeTd5TXlTcTNWZw?oc=5",
+      "publishedAt": "Tue, 27 Oct 2026 14:41:07 GMT",
+      "source": "Bangladesh Post"
     }
   ],
   "feedStatus": [
     {
       "topic": "creator",
-      "checkedAt": "2026-11-11T22:43:44.212044+00:00",
+      "checkedAt": "2026-11-12T03:50:48.758103+00:00",
       "status": "ok"
     },
     {
       "topic": "clothing",
-      "checkedAt": "2026-11-11T22:43:44.716954+00:00",
+      "checkedAt": "2026-11-12T03:50:49.183736+00:00",
       "status": "ok"
     },
     {
       "topic": "games",
-      "checkedAt": "2026-11-11T22:43:45.095109+00:00",
+      "checkedAt": "2026-11-12T03:50:49.563536+00:00",
       "status": "ok"
     },
     {
       "topic": "agriculture",
-      "checkedAt": "2026-11-11T22:43:45.507816+00:00",
+      "checkedAt": "2026-11-12T03:50:49.925303+00:00",
       "status": "ok"
     }
   ]
