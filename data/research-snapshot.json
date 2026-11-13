@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "checkedAt": "2026-11-13T01:52:27.490840+00:00",
+  "checkedAt": "2026-11-13T09:37:08.219676+00:00",
   "competitors": [
     {
       "name": "Social Square",
       "url": "https://socialsquare.co/",
-      "checkedAt": "2026-11-13T01:52:27.490867+00:00",
+      "checkedAt": "2026-11-13T09:37:08.219693+00:00",
       "title": "Social Square | UGC Marketplace for Creators",
       "description": "Get paid to create content for brands with Social Square. Discover UGC campaigns, collaborate with companies, publish",
       "mentions": [
@@ -19,7 +19,7 @@
     {
       "name": "Bengal Reach",
       "url": "https://www.bengalreach.com/",
-      "checkedAt": "2026-11-13T01:52:28.801623+00:00",
+      "checkedAt": "2026-11-13T09:37:09.412491+00:00",
       "title": "bengalReach - Connect Influencers with Brands in Bangladesh",
       "description": "Leading influencer marketing platform in Bangladesh. Connect local influencers with brands for authentic social media campaigns across",
       "mentions": [
@@ -33,7 +33,7 @@
     {
       "name": "Maroon Ltd.",
       "url": "https://www.maroonltd.com/",
-      "checkedAt": "2026-11-13T01:52:30.172134+00:00",
+      "checkedAt": "2026-11-13T09:37:10.750398+00:00",
       "title": "Maroon Limited",
       "description": "A PR and Digital Communication Agency in Dhaka, Bangladesh.",
       "mentions": [
@@ -48,7 +48,7 @@
     {
       "name": "Ngital",
       "url": "https://ngital.com/",
-      "checkedAt": "2026-11-13T01:52:35.200434+00:00",
+      "checkedAt": "2026-11-13T09:37:16.132354+00:00",
       "title": "Ngital – Digital Marketing Agency in Dhaka, Bangladesh",
       "description": "Digital Marketing Agency in Dhaka, Bangladesh",
       "mentions": [
@@ -68,7 +68,7 @@
       "name": "Internet use",
       "unit": "% of population",
       "url": "https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=BD",
-      "checkedAt": "2026-11-13T01:52:38.498867+00:00",
+      "checkedAt": "2026-11-13T09:37:19.132807+00:00",
       "status": "ok",
       "value": 53.42171316,
       "year": "2024"
@@ -78,29 +78,23 @@
       "name": "Population",
       "unit": "people",
       "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=BD",
-      "checkedAt": "2026-11-13T01:52:39.237039+00:00",
-      "status": "unavailable",
-      "error": "HTTP Error 502: Bad Gateway"
+      "checkedAt": "2026-11-13T09:37:19.276646+00:00",
+      "status": "ok",
+      "value": 175686899,
+      "year": "2025"
     },
     {
       "code": "FP.CPI.TOTL.ZG",
       "name": "Inflation",
       "unit": "% annual",
       "url": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=BD",
-      "checkedAt": "2026-11-13T01:52:39.603305+00:00",
+      "checkedAt": "2026-11-13T09:37:19.353244+00:00",
       "status": "ok",
       "value": 8.7687628116114,
       "year": "2025"
     }
   ],
   "headlines": [
-    {
-      "topic": "clothing",
-      "title": "Bangladesh Agrees to Raise Minimum Wage for Garment Workers After Protests - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRUhDS1A5OU9GR3dIRU5HRmJwUlNwZGZsVGg3WjNIcW5Ob3JKWl9acHQ2b0wtQWt0c24zd2lVclRzUDdxT1hGVEM1ck96cmxVb2FxVk8yOFhCUFlZMGdrNzBFVnNKTEdlWWw0RE5rTXdkMHNSYUVCbUF4S1gxYk9VNVhLN01pV2Rubm4zUEN2YVFJTDRj?oc=5",
-      "publishedAt": "Thu, 05 Nov 2026 14:51:08 GMT",
-      "source": "The New York Times"
-    },
     {
       "topic": "clothing",
       "title": "Wage unrest tests Bangladesh garment industry's low-cost edge - Reuters",
@@ -112,8 +106,15 @@
       "topic": "clothing",
       "title": "Will Fashion Brands Back Higher Wages in Bangladesh? - WWD",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVUhTWG9hd2h6YVpSdkdhM3FWcFJ0QWtOcjVrS0p4V3N4Q2VWY3dYTEpNZ1o1cjJxTi1iNndBQW53ekE1VnQ3WkhxdTFRYnJWYzRWZzd1Y1l6S0xHRnJCcUZzNldHQ1FHb3FVRm4xMmNRYlNpVXJkbjRNdFNxVEl3SGdSZ0VwQmZxQko2N1ZYNlZtcHhxMnhjZTA0ZGFvWHU1RVNzQWU4bWNHQXBoSWFHYk5QTHhtWUZ5RW1ycmJR?oc=5",
-      "publishedAt": "Thu, 12 Nov 2026 23:48:43 GMT",
+      "publishedAt": "Fri, 13 Nov 2026 03:25:47 GMT",
       "source": "WWD"
+    },
+    {
+      "topic": "clothing",
+      "title": "From Roadmap to Action: Advancing a Just Energy Transition for Bangladesh's Fashion Industry and Workers - Stand.earth",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaG9JT2N6WTBfRFVnbEh2N2l6c0hqVUExWmVCR256bzdGWllBT3VsTEc3aTExcUdPTmNUamtuX2UtYTktQXltQ3JCWVVZNDBkbk95ZXJQUXlqNzdqYnVGbUg1VGwzX3ZObkd6QmVaRkItM3pBYWJFQU5meExxTGljUUtqWEdMNjdidnFyUU5LWHVCX2ZFVHlpOE4zWG0xY2Jwa1hzeHhiU3RXaTRnbEh1ZlI0YUdIUFd2R3dOT2VoeUY5ZVZSNFpiR1VMMWI?oc=5",
+      "publishedAt": "Thu, 12 Nov 2026 21:22:50 GMT",
+      "source": "Stand.earth"
     },
     {
       "topic": "clothing",
@@ -203,22 +204,22 @@
   "feedStatus": [
     {
       "topic": "creator",
-      "checkedAt": "2026-11-13T01:52:39.759199+00:00",
+      "checkedAt": "2026-11-13T09:37:19.421984+00:00",
       "status": "ok"
     },
     {
       "topic": "clothing",
-      "checkedAt": "2026-11-13T01:52:40.228203+00:00",
+      "checkedAt": "2026-11-13T09:37:19.820025+00:00",
       "status": "ok"
     },
     {
       "topic": "games",
-      "checkedAt": "2026-11-13T01:52:40.625558+00:00",
+      "checkedAt": "2026-11-13T09:37:20.149290+00:00",
       "status": "ok"
     },
     {
       "topic": "agriculture",
-      "checkedAt": "2026-11-13T01:52:41.104201+00:00",
+      "checkedAt": "2026-11-13T09:37:20.450290+00:00",
       "status": "ok"
     }
   ]
