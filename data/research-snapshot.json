@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "checkedAt": "2026-11-13T17:46:57.864140+00:00",
+  "checkedAt": "2026-11-13T23:37:09.039327+00:00",
   "competitors": [
     {
       "name": "Social Square",
       "url": "https://socialsquare.co/",
-      "checkedAt": "2026-11-13T17:46:57.864160+00:00",
+      "checkedAt": "2026-11-13T23:37:09.039342+00:00",
       "title": "Social Square | UGC Marketplace for Creators",
       "description": "Get paid to create content for brands with Social Square. Discover UGC campaigns, collaborate with companies, publish",
       "mentions": [
@@ -19,7 +19,7 @@
     {
       "name": "Bengal Reach",
       "url": "https://www.bengalreach.com/",
-      "checkedAt": "2026-11-13T17:46:59.348198+00:00",
+      "checkedAt": "2026-11-13T23:37:10.281717+00:00",
       "title": "bengalReach - Connect Influencers with Brands in Bangladesh",
       "description": "Leading influencer marketing platform in Bangladesh. Connect local influencers with brands for authentic social media campaigns across",
       "mentions": [
@@ -33,7 +33,7 @@
     {
       "name": "Maroon Ltd.",
       "url": "https://www.maroonltd.com/",
-      "checkedAt": "2026-11-13T17:47:00.837790+00:00",
+      "checkedAt": "2026-11-13T23:37:11.670605+00:00",
       "title": "Maroon Limited",
       "description": "A PR and Digital Communication Agency in Dhaka, Bangladesh.",
       "mentions": [
@@ -48,7 +48,7 @@
     {
       "name": "Ngital",
       "url": "https://ngital.com/",
-      "checkedAt": "2026-11-13T17:47:03.192528+00:00",
+      "checkedAt": "2026-11-13T23:37:16.922960+00:00",
       "title": "Ngital – Digital Marketing Agency in Dhaka, Bangladesh",
       "description": "Digital Marketing Agency in Dhaka, Bangladesh",
       "mentions": [
@@ -68,7 +68,7 @@
       "name": "Internet use",
       "unit": "% of population",
       "url": "https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=BD",
-      "checkedAt": "2026-11-13T17:47:06.491362+00:00",
+      "checkedAt": "2026-11-13T23:37:20.253358+00:00",
       "status": "ok",
       "value": 53.42171316,
       "year": "2024"
@@ -78,7 +78,7 @@
       "name": "Population",
       "unit": "people",
       "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=BD",
-      "checkedAt": "2026-11-13T17:47:06.608986+00:00",
+      "checkedAt": "2026-11-13T23:37:20.322736+00:00",
       "status": "ok",
       "value": 175686899,
       "year": "2025"
@@ -88,7 +88,7 @@
       "name": "Inflation",
       "unit": "% annual",
       "url": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=BD",
-      "checkedAt": "2026-11-13T17:47:17.245693+00:00",
+      "checkedAt": "2026-11-13T23:37:20.368925+00:00",
       "status": "ok",
       "value": 8.7687628116114,
       "year": "2025"
@@ -104,13 +104,6 @@
     },
     {
       "topic": "clothing",
-      "title": "Will Fashion Brands Back Higher Wages in Bangladesh? - WWD",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVUhTWG9hd2h6YVpSdkdhM3FWcFJ0QWtOcjVrS0p4V3N4Q2VWY3dYTEpNZ1o1cjJxTi1iNndBQW53ekE1VnQ3WkhxdTFRYnJWYzRWZzd1Y1l6S0xHRnJCcUZzNldHQ1FHb3FVRm4xMmNRYlNpVXJkbjRNdFNxVEl3SGdSZ0VwQmZxQko2N1ZYNlZtcHhxMnhjZTA0ZGFvWHU1RVNzQWU4bWNHQXBoSWFHYk5QTHhtWUZ5RW1ycmJR?oc=5",
-      "publishedAt": "Fri, 13 Nov 2026 03:25:47 GMT",
-      "source": "WWD"
-    },
-    {
-      "topic": "clothing",
       "title": "From Roadmap to Action: Advancing a Just Energy Transition for Bangladesh's Fashion Industry and Workers - Stand.earth",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaG9JT2N6WTBfRFVnbEh2N2l6c0hqVUExWmVCR256bzdGWllBT3VsTEc3aTExcUdPTmNUamtuX2UtYTktQXltQ3JCWVVZNDBkbk95ZXJQUXlqNzdqYnVGbUg1VGwzX3ZObkd6QmVaRkItM3pBYWJFQU5meExxTGljUUtqWEdMNjdidnFyUU5LWHVCX2ZFVHlpOE4zWG0xY2Jwa1hzeHhiU3RXaTRnbEh1ZlI0YUdIUFd2R3dOT2VoeUY5ZVZSNFpiR1VMMWI?oc=5",
       "publishedAt": "Thu, 12 Nov 2026 21:22:50 GMT",
@@ -118,10 +111,10 @@
     },
     {
       "topic": "clothing",
-      "title": "Fashion brands urged to back Bangladesh workers - Just Style",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTGQtMF9qMHF4Zml2NkJVaXZGal90cUdJRHVSbjAwMDl5NUstN2NQM3lPWGpDYkY5MUhnTloybVBkQUVYZmI2Rk9mRUJBQzRYUXh0OHRrMEt3ZDBMcEp6QUN6b1dNbjZKU0dXTVdSeVNRTnNjUm5IanU3X1JjZGk5cXVRTkxKQ3M?oc=5",
-      "publishedAt": "Thu, 05 Nov 2026 11:23:24 GMT",
-      "source": "Just Style"
+      "title": "Will Fashion Brands Back Higher Wages in Bangladesh? - WWD",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVUhTWG9hd2h6YVpSdkdhM3FWcFJ0QWtOcjVrS0p4V3N4Q2VWY3dYTEpNZ1o1cjJxTi1iNndBQW53ekE1VnQ3WkhxdTFRYnJWYzRWZzd1Y1l6S0xHRnJCcUZzNldHQ1FHb3FVRm4xMmNRYlNpVXJkbjRNdFNxVEl3SGdSZ0VwQmZxQko2N1ZYNlZtcHhxMnhjZTA0ZGFvWHU1RVNzQWU4bWNHQXBoSWFHYk5QTHhtWUZ5RW1ycmJR?oc=5",
+      "publishedAt": "Fri, 13 Nov 2026 03:25:47 GMT",
+      "source": "WWD"
     },
     {
       "topic": "clothing",
@@ -129,6 +122,13 @@
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQNUd2ZlgzVElHVU1HSnlmSmxHeW8yTU9PZlVwazRsMTI3S0hjbF9FU3VOZ3JwYUp1ckR5UmhXWnRvNkhFNktKdExDelZJbWx5Y3U5dmFQX180V2llRUJxQUdfV3RBVFhmek9fcFlPTlBndHBDNnZFZVdpSjhNaGhadm9kamhDajZSNkxIX2xyMEFiVkhfOVBKZmJhaGxPeVJTRnBYTHNPQ0VsLWozNDlkb3dPSnNZMmZxRkxzV1BlaHVTZF9TOXQ1eXh5UGEyQ1dYMlFha0JOdVctMFdYRTlBRmd6RHRWQ00?oc=5",
       "publishedAt": "Wed, 04 Nov 2026 14:11:03 GMT",
       "source": "FashionNetwork USA"
+    },
+    {
+      "topic": "clothing",
+      "title": "EU traceability push puts Bangladesh's SMEs to the test - Fibre2Fashion",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNklNNW8zQVFIM3pod1VJNl81Smt1WmFkTl82RklId1RtMEFPTVhURlVoanhROVM2NFlVdzVnX1E0TTFBQkEyMFZzclpDaEV5d0Vwbm9IQ09nWEhSYXVhRThnLVNyMmp6alhwTTVHNHUxVTFhb2pPZENYWl9zT1VCSTJ5cnhxTkhWd0pRbHRmYlhRTjRGNmNOR0JPem9NME1YSDhLZVRYSUZKa3pWUUhwNldDcUQtbVpsX1YxQWFmWGRmTUZxN3BVLW5PeVZZdkNNRlU2N01ZNA?oc=5",
+      "publishedAt": "Fri, 16 Oct 2026 07:00:00 GMT",
+      "source": "Fibre2Fashion"
     },
     {
       "topic": "games",
@@ -153,17 +153,17 @@
     },
     {
       "topic": "games",
+      "title": "Sony Axing Game Discs Will Have Outsized Impact on Low-Income Gamers, Experts Say - Decrypt",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUExobVdMbkU4YkhjaERlamdRNWlSTmE0NHktd1R4NWdYWGE3a2dDak5RNzhqc2xiUm1xWjR3amlZMDlGYjBPS1lfRWhfZ09oMURNNGlUZnFrSzQ3Vm1kMVNFc0xxOGRlRkxta0Y3ZXo1UXhqeDNGTjZHUGtKRG5TYnJacV8xOHZ4RndNVVVMSlJjWWgxbjB6OXNXbGE5MHdIektaLXNFV2FEQQ?oc=5",
+      "publishedAt": "Sat, 07 Nov 2026 14:01:02 GMT",
+      "source": "Decrypt"
+    },
+    {
+      "topic": "games",
       "title": "It's OK, Pokémon And Retro Gaming Fans, The Resellers And Vultures Will Eventually Move On - Aftermath",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE50X2FVWGJkaVlObkVJRnp6R1FhUTJrby03ZmRXZEM5NEprTWd4dE8xZzItbUtZd2FBdG8tZl94RXVVbWZDd3NVZjE1d1dwdWRWTGRhSkR4RVpNMkowamsxcHI0VFQ1MWxKUVI2NnRlR1lmZ0QzRm84dFdyWQ?oc=5",
       "publishedAt": "Wed, 28 Oct 2026 07:00:00 GMT",
       "source": "Aftermath"
-    },
-    {
-      "topic": "games",
-      "title": "A Third Of PlayStation 5 Game Discs Don't Fully Work Without A Download - BGR",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQld3cHhUOXdDc3lQZ0xMOUVlLUhyQ1RqNk1ZQkg1YjJUMk5teXlkVTVYVUtXQmRheUp1bWdWbDUwZWgtTmk2TGw2amE0NnBuejNJYVNqRHZCWlFtQWdfVnBKd0h3V1YweFY1R1ozcWM1REVoZTFuOUdhUTJKb2dRYw?oc=5",
-      "publishedAt": "Sat, 07 Nov 2026 23:17:00 GMT",
-      "source": "BGR"
     },
     {
       "topic": "agriculture",
@@ -204,22 +204,22 @@
   "feedStatus": [
     {
       "topic": "creator",
-      "checkedAt": "2026-11-13T17:47:33.622709+00:00",
+      "checkedAt": "2026-11-13T23:37:20.447127+00:00",
       "status": "ok"
     },
     {
       "topic": "clothing",
-      "checkedAt": "2026-11-13T17:47:33.957398+00:00",
+      "checkedAt": "2026-11-13T23:37:20.785033+00:00",
       "status": "ok"
     },
     {
       "topic": "games",
-      "checkedAt": "2026-11-13T17:47:34.340982+00:00",
+      "checkedAt": "2026-11-13T23:37:21.149287+00:00",
       "status": "ok"
     },
     {
       "topic": "agriculture",
-      "checkedAt": "2026-11-13T17:47:34.679483+00:00",
+      "checkedAt": "2026-11-13T23:37:21.708617+00:00",
       "status": "ok"
     }
   ]
