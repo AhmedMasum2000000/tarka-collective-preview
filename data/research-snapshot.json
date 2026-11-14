@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "checkedAt": "2026-11-13T23:37:09.039327+00:00",
+  "checkedAt": "2026-11-14T06:31:48.913229+00:00",
   "competitors": [
     {
       "name": "Social Square",
       "url": "https://socialsquare.co/",
-      "checkedAt": "2026-11-13T23:37:09.039342+00:00",
+      "checkedAt": "2026-11-14T06:31:48.913243+00:00",
       "title": "Social Square | UGC Marketplace for Creators",
       "description": "Get paid to create content for brands with Social Square. Discover UGC campaigns, collaborate with companies, publish",
       "mentions": [
@@ -19,7 +19,7 @@
     {
       "name": "Bengal Reach",
       "url": "https://www.bengalreach.com/",
-      "checkedAt": "2026-11-13T23:37:10.281717+00:00",
+      "checkedAt": "2026-11-14T06:31:50.254199+00:00",
       "title": "bengalReach - Connect Influencers with Brands in Bangladesh",
       "description": "Leading influencer marketing platform in Bangladesh. Connect local influencers with brands for authentic social media campaigns across",
       "mentions": [
@@ -33,7 +33,7 @@
     {
       "name": "Maroon Ltd.",
       "url": "https://www.maroonltd.com/",
-      "checkedAt": "2026-11-13T23:37:11.670605+00:00",
+      "checkedAt": "2026-11-14T06:31:51.835740+00:00",
       "title": "Maroon Limited",
       "description": "A PR and Digital Communication Agency in Dhaka, Bangladesh.",
       "mentions": [
@@ -48,7 +48,7 @@
     {
       "name": "Ngital",
       "url": "https://ngital.com/",
-      "checkedAt": "2026-11-13T23:37:16.922960+00:00",
+      "checkedAt": "2026-11-14T06:31:54.297178+00:00",
       "title": "Ngital – Digital Marketing Agency in Dhaka, Bangladesh",
       "description": "Digital Marketing Agency in Dhaka, Bangladesh",
       "mentions": [
@@ -68,30 +68,27 @@
       "name": "Internet use",
       "unit": "% of population",
       "url": "https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=BD",
-      "checkedAt": "2026-11-13T23:37:20.253358+00:00",
-      "status": "ok",
-      "value": 53.42171316,
-      "year": "2024"
+      "checkedAt": "2026-11-14T06:31:57.448790+00:00",
+      "status": "unavailable",
+      "error": "The read operation timed out"
     },
     {
       "code": "SP.POP.TOTL",
       "name": "Population",
       "unit": "people",
       "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=BD",
-      "checkedAt": "2026-11-13T23:37:20.322736+00:00",
-      "status": "ok",
-      "value": 175686899,
-      "year": "2025"
+      "checkedAt": "2026-11-14T06:32:15.538931+00:00",
+      "status": "unavailable",
+      "error": "The read operation timed out"
     },
     {
       "code": "FP.CPI.TOTL.ZG",
       "name": "Inflation",
       "unit": "% annual",
       "url": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=BD",
-      "checkedAt": "2026-11-13T23:37:20.368925+00:00",
-      "status": "ok",
-      "value": 8.7687628116114,
-      "year": "2025"
+      "checkedAt": "2026-11-14T06:32:33.597925+00:00",
+      "status": "unavailable",
+      "error": "The read operation timed out"
     }
   ],
   "headlines": [
@@ -111,10 +108,17 @@
     },
     {
       "topic": "clothing",
-      "title": "Will Fashion Brands Back Higher Wages in Bangladesh? - WWD",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVUhTWG9hd2h6YVpSdkdhM3FWcFJ0QWtOcjVrS0p4V3N4Q2VWY3dYTEpNZ1o1cjJxTi1iNndBQW53ekE1VnQ3WkhxdTFRYnJWYzRWZzd1Y1l6S0xHRnJCcUZzNldHQ1FHb3FVRm4xMmNRYlNpVXJkbjRNdFNxVEl3SGdSZ0VwQmZxQko2N1ZYNlZtcHhxMnhjZTA0ZGFvWHU1RVNzQWU4bWNHQXBoSWFHYk5QTHhtWUZ5RW1ycmJR?oc=5",
-      "publishedAt": "Fri, 13 Nov 2026 03:25:47 GMT",
-      "source": "WWD"
+      "title": "Will Fashion Brands Back Higher Wages in Bangladesh? - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPU0g1SDVXNnVrelNHNy16UnBVcHVKNDhCMWduaTJpckhHeGdXT0d3Vm43cXQ4ZmZuLU1qak12OW5jb2d5Nm9tRGRHWE5xT0hXYjNfUEwycXhOcnVFQkJyeEtWMFROVnE1RVc4dVhiclo3NDZyWW80bV9oWU8ySEoyNW1hSVZvdHlITGdmMC1vbHZwSXc?oc=5",
+      "publishedAt": "Thu, 12 Nov 2026 23:47:06 GMT",
+      "source": "Yahoo"
+    },
+    {
+      "topic": "clothing",
+      "title": "How fashion brands can support Bangladesh’s garment workers - Just Style",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5IdVJCMExTVU1CQWUzVGFzTDVqWkMycC1reEFQSlllZDF4RUJJTl94YlUyQTZwWG8tajFmck1jcmRMX3FqZXJDLURmb3pVdnVZcmUtMzlpanU5TkktYU1XeXZGeHpycXMteWFFUW1YNzFCU2U4R3p2QVNVTQ?oc=5",
+      "publishedAt": "Thu, 12 Nov 2026 18:12:06 GMT",
+      "source": "Just Style"
     },
     {
       "topic": "clothing",
@@ -122,13 +126,6 @@
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQNUd2ZlgzVElHVU1HSnlmSmxHeW8yTU9PZlVwazRsMTI3S0hjbF9FU3VOZ3JwYUp1ckR5UmhXWnRvNkhFNktKdExDelZJbWx5Y3U5dmFQX180V2llRUJxQUdfV3RBVFhmek9fcFlPTlBndHBDNnZFZVdpSjhNaGhadm9kamhDajZSNkxIX2xyMEFiVkhfOVBKZmJhaGxPeVJTRnBYTHNPQ0VsLWozNDlkb3dPSnNZMmZxRkxzV1BlaHVTZF9TOXQ1eXh5UGEyQ1dYMlFha0JOdVctMFdYRTlBRmd6RHRWQ00?oc=5",
       "publishedAt": "Wed, 04 Nov 2026 14:11:03 GMT",
       "source": "FashionNetwork USA"
-    },
-    {
-      "topic": "clothing",
-      "title": "EU traceability push puts Bangladesh's SMEs to the test - Fibre2Fashion",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNklNNW8zQVFIM3pod1VJNl81Smt1WmFkTl82RklId1RtMEFPTVhURlVoanhROVM2NFlVdzVnX1E0TTFBQkEyMFZzclpDaEV5d0Vwbm9IQ09nWEhSYXVhRThnLVNyMmp6alhwTTVHNHUxVTFhb2pPZENYWl9zT1VCSTJ5cnhxTkhWd0pRbHRmYlhRTjRGNmNOR0JPem9NME1YSDhLZVRYSUZKa3pWUUhwNldDcUQtbVpsX1YxQWFmWGRmTUZxN3BVLW5PeVZZdkNNRlU2N01ZNA?oc=5",
-      "publishedAt": "Fri, 16 Oct 2026 07:00:00 GMT",
-      "source": "Fibre2Fashion"
     },
     {
       "topic": "games",
@@ -188,38 +185,38 @@
     },
     {
       "topic": "agriculture",
-      "title": "Bangladesh aims to reduce agricultural imports, says agriculture minister - Daily Sun",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPM3YwZGJJbGxjVk5zczc4TV8xNTBiTktnWnhwUW13VkVmb3l5alJZemFOUW5ENjM1ZVYzbV9xa21URzVRT0JKSDZoM3ljQjhjWGRwVndTX0ZDX0dWUTlmSGxuMTlqVlNRUEpMY0tjU1QzRmo1VnpTQm4wWHZTY0ZXOGh1VHNIdDVkUlBFTVhMekVfMnJyemlSVFgtV2JUZnZjNlZscXVxS3dLZ3ZSX05GUnF3cUpUdw?oc=5",
-      "publishedAt": "Thu, 05 Nov 2026 10:21:24 GMT",
+      "title": "Agricultural Paradox in Bangladesh - Daily Sun",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBsSUtmdmNjOWNvaHQ2c2h2SnY5ZWtETi1MNEdGRnVMaXM4TTNyekV3RW1raTN1SC1wdG5DNV80QkZnYTdnNlRRRDctR3RwYUxY?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 07:00:00 GMT",
       "source": "Daily Sun"
     },
     {
       "topic": "agriculture",
-      "title": "Bangladesh’s nano urea patent opens new agricultural horizons - Bangladesh Sangbad Sangstha (BSS)",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9QWkFDOVJaREljVk14SVd2eFQtN19Td0JCN1pwSUZuWXZOODRyQ24tUU9NYVVrazNfOVFKTHdOUWtaenNVRXl3aDFraW5YbDRPeHpqLThwUFFMUGc?oc=5",
-      "publishedAt": "Wed, 28 Oct 2026 07:00:00 GMT",
-      "source": "Bangladesh Sangbad Sangstha (BSS)"
+      "title": "A Warming World, a Threatened Food Future: Can our Agriculture Adapt? - Bangladesh Post",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWlN3MXpRNldaMWp3QkMtMzV3U051X0k4Nktzdjc2cGtrMnZ5MDBQOFRMTlBLWm15WHVkbThiS1NZNlFHRk9NWlBDZUZpZllzVGoyRDRZdUxITjZQRHpHa3lKNkpCTkwwSW9Ball2azI3c3A5d0E4Qkp4U1dHMFRrTExselU0RGc3S1M2MHdoUUxMZWtkNnI4c2k1RjlYMFhjeTd5TXlTcTNWZw?oc=5",
+      "publishedAt": "Tue, 27 Oct 2026 14:41:07 GMT",
+      "source": "Bangladesh Post"
     }
   ],
   "feedStatus": [
     {
       "topic": "creator",
-      "checkedAt": "2026-11-13T23:37:20.447127+00:00",
+      "checkedAt": "2026-11-14T06:32:51.653554+00:00",
       "status": "ok"
     },
     {
       "topic": "clothing",
-      "checkedAt": "2026-11-13T23:37:20.785033+00:00",
+      "checkedAt": "2026-11-14T06:32:52.109715+00:00",
       "status": "ok"
     },
     {
       "topic": "games",
-      "checkedAt": "2026-11-13T23:37:21.149287+00:00",
+      "checkedAt": "2026-11-14T06:32:52.599124+00:00",
       "status": "ok"
     },
     {
       "topic": "agriculture",
-      "checkedAt": "2026-11-13T23:37:21.708617+00:00",
+      "checkedAt": "2026-11-14T06:32:53.055293+00:00",
       "status": "ok"
     }
   ]
