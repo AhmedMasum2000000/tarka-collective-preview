@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "checkedAt": "2026-11-15T17:46:00.622984+00:00",
+  "checkedAt": "2026-11-15T22:53:16.421976+00:00",
   "competitors": [
     {
       "name": "Social Square",
       "url": "https://socialsquare.co/",
-      "checkedAt": "2026-11-15T17:46:00.622998+00:00",
+      "checkedAt": "2026-11-15T22:53:16.421995+00:00",
       "title": "Social Square | UGC Marketplace for Creators",
       "description": "Get paid to create content for brands with Social Square. Discover UGC campaigns, collaborate with companies, publish",
       "mentions": [
@@ -19,7 +19,7 @@
     {
       "name": "Bengal Reach",
       "url": "https://www.bengalreach.com/",
-      "checkedAt": "2026-11-15T17:46:01.930133+00:00",
+      "checkedAt": "2026-11-15T22:53:17.722703+00:00",
       "title": "bengalReach - Connect Influencers with Brands in Bangladesh",
       "description": "Leading influencer marketing platform in Bangladesh. Connect local influencers with brands for authentic social media campaigns across",
       "mentions": [
@@ -33,7 +33,7 @@
     {
       "name": "Maroon Ltd.",
       "url": "https://www.maroonltd.com/",
-      "checkedAt": "2026-11-15T17:46:03.961906+00:00",
+      "checkedAt": "2026-11-15T22:53:19.045013+00:00",
       "title": "Maroon Limited",
       "description": "A PR and Digital Communication Agency in Dhaka, Bangladesh.",
       "mentions": [
@@ -48,7 +48,7 @@
     {
       "name": "Ngital",
       "url": "https://ngital.com/",
-      "checkedAt": "2026-11-15T17:46:08.966443+00:00",
+      "checkedAt": "2026-11-15T22:53:23.840107+00:00",
       "title": "Ngital – Digital Marketing Agency in Dhaka, Bangladesh",
       "description": "Digital Marketing Agency in Dhaka, Bangladesh",
       "mentions": [
@@ -68,7 +68,7 @@
       "name": "Internet use",
       "unit": "% of population",
       "url": "https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=BD",
-      "checkedAt": "2026-11-15T17:46:11.955333+00:00",
+      "checkedAt": "2026-11-15T22:53:26.725043+00:00",
       "status": "ok",
       "value": 53.42171316,
       "year": "2024"
@@ -78,7 +78,7 @@
       "name": "Population",
       "unit": "people",
       "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=BD",
-      "checkedAt": "2026-11-15T17:46:12.266403+00:00",
+      "checkedAt": "2026-11-15T22:53:26.961327+00:00",
       "status": "ok",
       "value": 175686899,
       "year": "2025"
@@ -88,7 +88,7 @@
       "name": "Inflation",
       "unit": "% annual",
       "url": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=BD",
-      "checkedAt": "2026-11-15T17:46:12.314578+00:00",
+      "checkedAt": "2026-11-15T22:53:26.996252+00:00",
       "status": "ok",
       "value": 8.7687628116114,
       "year": "2025"
@@ -101,13 +101,6 @@
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOR05KRGFYbENvaWx0SmpFTC1HdF9TVHFJa015S2gxYVZ5ZUc0eXQ3X1BoZkN2OFdseDdSMGpNa1MtZnpRY2FoUjlOUzBwR1hOY1p3cTZ2V0lRN09zbFl0NXNqX3BXenYtTFhLZDhHOHg4U3RRdDkxaVpGWWNheWVwaWdZcFBsNENiX0ZDQ0g3cGdlRlloZW5fTTNYZG44LUZDLVFsTGxNNWQtOTFSMThLbDJZai0zS29kQmRXUlpn?oc=5",
       "publishedAt": "Wed, 04 Nov 2026 08:00:00 GMT",
       "source": "Reuters"
-    },
-    {
-      "topic": "clothing",
-      "title": "Clothing factories shut in Bangladesh as workers strike over pay - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13WjJDOU1rc2cxSGd2NkIwN1VxbUZJSXRSUFJmVzVzU3VmOVlheTRqd0JPb2tZYzZlTTcyT3Bhb2lmN1BvclI1V1JYYW02emFZTG9Xcno5cmc5S1U?oc=5",
-      "publishedAt": "Sun, 15 Nov 2026 16:15:20 GMT",
-      "source": "BBC"
     },
     {
       "topic": "clothing",
@@ -129,6 +122,13 @@
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5IdVJCMExTVU1CQWUzVGFzTDVqWkMycC1reEFQSlllZDF4RUJJTl94YlUyQTZwWG8tajFmck1jcmRMX3FqZXJDLURmb3pVdnVZcmUtMzlpanU5TkktYU1XeXZGeHpycXMteWFFUW1YNzFCU2U4R3p2QVNVTQ?oc=5",
       "publishedAt": "Thu, 12 Nov 2026 18:12:06 GMT",
       "source": "Just Style"
+    },
+    {
+      "topic": "clothing",
+      "title": "Bangladesh will see wage negotiations finalised in December, with new rates taking effect in January 2027 - FashionNetwork USA",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQNUd2ZlgzVElHVU1HSnlmSmxHeW8yTU9PZlVwazRsMTI3S0hjbF9FU3VOZ3JwYUp1ckR5UmhXWnRvNkhFNktKdExDelZJbWx5Y3U5dmFQX180V2llRUJxQUdfV3RBVFhmek9fcFlPTlBndHBDNnZFZVdpSjhNaGhadm9kamhDajZSNkxIX2xyMEFiVkhfOVBKZmJhaGxPeVJTRnBYTHNPQ0VsLWozNDlkb3dPSnNZMmZxRkxzV1BlaHVTZF9TOXQ1eXh5UGEyQ1dYMlFha0JOdVctMFdYRTlBRmd6RHRWQ00?oc=5",
+      "publishedAt": "Wed, 04 Nov 2026 08:00:00 GMT",
+      "source": "FashionNetwork USA"
     },
     {
       "topic": "games",
@@ -204,22 +204,22 @@
   "feedStatus": [
     {
       "topic": "creator",
-      "checkedAt": "2026-11-15T17:46:12.363015+00:00",
+      "checkedAt": "2026-11-15T22:53:27.031874+00:00",
       "status": "ok"
     },
     {
       "topic": "clothing",
-      "checkedAt": "2026-11-15T17:46:12.879808+00:00",
+      "checkedAt": "2026-11-15T22:53:27.525640+00:00",
       "status": "ok"
     },
     {
       "topic": "games",
-      "checkedAt": "2026-11-15T17:46:13.290161+00:00",
+      "checkedAt": "2026-11-15T22:53:27.835165+00:00",
       "status": "ok"
     },
     {
       "topic": "agriculture",
-      "checkedAt": "2026-11-15T17:46:13.698402+00:00",
+      "checkedAt": "2026-11-15T22:53:28.206843+00:00",
       "status": "ok"
     }
   ]
