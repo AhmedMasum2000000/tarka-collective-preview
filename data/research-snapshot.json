@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "checkedAt": "2026-11-17T04:32:52.530439+00:00",
+  "checkedAt": "2026-11-17T14:30:14.247617+00:00",
   "competitors": [
     {
       "name": "Social Square",
       "url": "https://socialsquare.co/",
-      "checkedAt": "2026-11-17T04:32:52.530455+00:00",
+      "checkedAt": "2026-11-17T14:30:14.247630+00:00",
       "title": "Social Square | UGC Marketplace for Creators",
       "description": "Get paid to create content for brands with Social Square. Discover UGC campaigns, collaborate with companies, publish",
       "mentions": [
@@ -19,7 +19,7 @@
     {
       "name": "Bengal Reach",
       "url": "https://www.bengalreach.com/",
-      "checkedAt": "2026-11-17T04:32:53.687315+00:00",
+      "checkedAt": "2026-11-17T14:30:15.598295+00:00",
       "title": "bengalReach - Connect Influencers with Brands in Bangladesh",
       "description": "Leading influencer marketing platform in Bangladesh. Connect local influencers with brands for authentic social media campaigns across",
       "mentions": [
@@ -33,7 +33,7 @@
     {
       "name": "Maroon Ltd.",
       "url": "https://www.maroonltd.com/",
-      "checkedAt": "2026-11-17T04:32:55.044589+00:00",
+      "checkedAt": "2026-11-17T14:30:17.168580+00:00",
       "title": "Maroon Limited",
       "description": "A PR and Digital Communication Agency in Dhaka, Bangladesh.",
       "mentions": [
@@ -48,7 +48,7 @@
     {
       "name": "Ngital",
       "url": "https://ngital.com/",
-      "checkedAt": "2026-11-17T04:33:00.051222+00:00",
+      "checkedAt": "2026-11-17T14:30:22.243034+00:00",
       "title": "Ngital – Digital Marketing Agency in Dhaka, Bangladesh",
       "description": "Digital Marketing Agency in Dhaka, Bangladesh",
       "mentions": [
@@ -68,7 +68,7 @@
       "name": "Internet use",
       "unit": "% of population",
       "url": "https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=BD",
-      "checkedAt": "2026-11-17T04:33:02.992928+00:00",
+      "checkedAt": "2026-11-17T14:30:25.397287+00:00",
       "status": "ok",
       "value": 53.42171316,
       "year": "2024"
@@ -78,7 +78,7 @@
       "name": "Population",
       "unit": "people",
       "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=BD",
-      "checkedAt": "2026-11-17T04:33:03.060464+00:00",
+      "checkedAt": "2026-11-17T14:30:25.550988+00:00",
       "status": "ok",
       "value": 175686899,
       "year": "2025"
@@ -88,7 +88,7 @@
       "name": "Inflation",
       "unit": "% annual",
       "url": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=BD",
-      "checkedAt": "2026-11-17T04:33:03.099564+00:00",
+      "checkedAt": "2026-11-17T14:30:25.601033+00:00",
       "status": "ok",
       "value": 8.7687628116114,
       "year": "2025"
@@ -125,68 +125,34 @@
     },
     {
       "topic": "clothing",
-      "title": "Bangladesh will see wage negotiations finalised in December, with new rates taking effect in January 2027 - FashionNetwork USA",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQNUd2ZlgzVElHVU1HSnlmSmxHeW8yTU9PZlVwazRsMTI3S0hjbF9FU3VOZ3JwYUp1ckR5UmhXWnRvNkhFNktKdExDelZJbWx5Y3U5dmFQX180V2llRUJxQUdfV3RBVFhmek9fcFlPTlBndHBDNnZFZVdpSjhNaGhadm9kamhDajZSNkxIX2xyMEFiVkhfOVBKZmJhaGxPeVJTRnBYTHNPQ0VsLWozNDlkb3dPSnNZMmZxRkxzV1BlaHVTZF9TOXQ1eXh5UGEyQ1dYMlFha0JOdVctMFdYRTlBRmd6RHRWQ00?oc=5",
-      "publishedAt": "Wed, 04 Nov 2026 08:00:00 GMT",
+      "title": "Bangladesh textile federations threaten indefinite factory shutdown - FashionNetwork USA",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSkloTGVQY3pmZVJZTThBd083RGctelJKdklBMjg2bkg1LTM3SFZYNnFzOGpyTm12YktpV0pLRWpfMHRrNW44ZlhyR1BzcjVMZXJZWU56WUxiQUxBR0hMZzlibHRrNmhNTllqakY3d2I1QXNqMkRlYzlDRWhJMjdXSHZUMV9LYk42V2JqeDctTEZFTTNoQktPRWVOUHNwN1hHVWVXemJWZmY2WWJDU055bG1HWTNlQQ?oc=5",
+      "publishedAt": "Mon, 16 Nov 2026 16:51:20 GMT",
       "source": "FashionNetwork USA"
-    },
-    {
-      "topic": "agriculture",
-      "title": "Bangladesh's agriculture needs shift towards quality, value addition: Agri experts - The Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNamdxODVnNFdOVU1mVEhiT1hzOGViSng3bFlFX1VkUzlWVGpKakxJSHhLRTFvNVBySzVCME9wa0xJVTI3Rm5FbTlad1JxdC1fSmdoa0swWlVDeE1lLXJNQXUxVU9pcFBDYlVub1g0UGNIXzlzZWVmWjVESEUyREM3c25lekZlNEpHbkNHdm1fbC12TllqM3RSbFcxZHc4MzhMa203THpiVnd1WUtQX3k2b2lkLWFCWFkycm1RMFYwZU4?oc=5",
-      "publishedAt": "Sun, 15 Nov 2026 15:12:19 GMT",
-      "source": "The Business Standard"
-    },
-    {
-      "topic": "agriculture",
-      "title": "Bangladesh celebrates World Food Day 2026 with National Seminar: “Innovate today, Nourish tomorrow” - Food and Agriculture Organization",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYVZ5RTg4OTF5YWhMUTJXdl9JTzZjLTFCZEI3NkxNckMxYm9Mb2hjbmpDVEttSzFwM1V3Ukdtd0Y1a2J3aWFKX1cwbk5rSWljSExiUmk5LU03bVBXSm5MWGkxX2MtRXJpY0JCemRiR0JSYmhWTnNqb0pLV29kcXNVWWxscEdpRnBBaUt1Sjl4R2lIdXJRclV2ZzRWczEzMjFUOW1ITTFubGZTeVk4V1BUWUp0d3V6YzNvZlNpZmIxUC1BNk93OHlnbzZFTGVWZFdtWEZXcHRQSUY4QzRq?oc=5",
-      "publishedAt": "Sun, 18 Oct 2026 07:00:00 GMT",
-      "source": "Food and Agriculture Organization"
-    },
-    {
-      "topic": "agriculture",
-      "title": "Bangladesh needs a new generation of tech-savvy farmers - The Daily Star",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRGRJOUtaMGVIc0xVZThvYXpzemRwb05jb2xQc3FyVHdtYXpFTkxpaEF2My0tUG5OeF9ybjFyVDNDSzF0Zk5iaWdoWW1oODgtWWx5REhLcVM0RklyLWFILVJiemJIV0tfN29YcHFjR2dVTVFjWE9TVE9kdUh2MWdrUll3NHZxTW5mMTNuMkl1UnYxYmxkYVVEM3p5N1ZPZG5DekZKVWkxMTNHQQ?oc=5",
-      "publishedAt": "Mon, 16 Nov 2026 11:33:13 GMT",
-      "source": "The Daily Star"
-    },
-    {
-      "topic": "agriculture",
-      "title": "Bangladesh, Algeria seek broader cooperation in energy, agriculture, textiles - Dhaka Tribune",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPa0N5NnZfSzRscFV1NEVVanhrNEVzeUUxalJVdGNwVTg1b1hIVWtycHRHeDRWcFdPU0ZsVFlmY05NMEg5c2pVMjFVaUJPTFA3WXc3YkxxdVBVWEtPUGdqNE42aVRMQ0dEVHNHZHo2NU5hTlJhYTROV1dZYUI5bjVWRXVJdWdldk9TanoxUFhTaEI5YXI4N1NGVnl2X2xOM2RvbllrMDEyeTFrNWViaGfSAbMBQVVfeXFMTVlIYk01N1phN3pmS19MNEI1ZGJrUnhrSWktSGJKR2JoOU5KcGVvTEFkWWRLdkFEdnhrUXBkVUNMSFBmdTBXaHZ2SHJpODJ6NXFQQkt5bE1CbllucU02UUpyQ0xsS1M2UldyQ1ZMaXpyaUFMRWNFZjlxRFY1RzJnY3RvSFhoS3lYZDJJcEdhTkJVTUl5TDZSRzEzbW9MakdtNmt0WDcwcjF2NzE5dUo4UnJtT28?oc=5",
-      "publishedAt": "Thu, 22 Oct 2026 07:00:00 GMT",
-      "source": "Dhaka Tribune"
-    },
-    {
-      "topic": "agriculture",
-      "title": "Solar-powered irrigation reshapes farming in Bangladesh’s Barind region - Bangladesh Sangbad Sangstha (BSS)",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE93RkRPRklnbkRpaUpENGFIWEVDU25sRkt4a050cEg3QU1GVHNkc216YjFLLWNteHZRUEZkUXEwdEpOOC1LNndTWnBvVTNHSGhNS0hQNkZOVklOckk?oc=5",
-      "publishedAt": "Mon, 19 Oct 2026 07:00:00 GMT",
-      "source": "Bangladesh Sangbad Sangstha (BSS)"
     }
   ],
   "feedStatus": [
     {
       "topic": "creator",
-      "checkedAt": "2026-11-17T04:33:03.139349+00:00",
+      "checkedAt": "2026-11-17T14:30:25.657670+00:00",
       "status": "ok"
     },
     {
       "topic": "clothing",
-      "checkedAt": "2026-11-17T04:33:03.560698+00:00",
+      "checkedAt": "2026-11-17T14:30:26.078691+00:00",
       "status": "ok"
     },
     {
       "topic": "games",
-      "checkedAt": "2026-11-17T04:33:03.939915+00:00",
+      "checkedAt": "2026-11-17T14:30:26.453750+00:00",
       "status": "unavailable",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
       "topic": "agriculture",
-      "checkedAt": "2026-11-17T04:33:04.238566+00:00",
-      "status": "ok"
+      "checkedAt": "2026-11-17T14:30:26.854456+00:00",
+      "status": "unavailable",
+      "error": "HTTP Error 429: Too Many Requests"
     }
   ]
 }
