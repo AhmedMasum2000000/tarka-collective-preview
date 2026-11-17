@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "checkedAt": "2026-11-16T22:10:58.722919+00:00",
+  "checkedAt": "2026-11-17T04:32:52.530439+00:00",
   "competitors": [
     {
       "name": "Social Square",
       "url": "https://socialsquare.co/",
-      "checkedAt": "2026-11-16T22:10:58.722932+00:00",
+      "checkedAt": "2026-11-17T04:32:52.530455+00:00",
       "title": "Social Square | UGC Marketplace for Creators",
       "description": "Get paid to create content for brands with Social Square. Discover UGC campaigns, collaborate with companies, publish",
       "mentions": [
@@ -19,7 +19,7 @@
     {
       "name": "Bengal Reach",
       "url": "https://www.bengalreach.com/",
-      "checkedAt": "2026-11-16T22:11:00.098532+00:00",
+      "checkedAt": "2026-11-17T04:32:53.687315+00:00",
       "title": "bengalReach - Connect Influencers with Brands in Bangladesh",
       "description": "Leading influencer marketing platform in Bangladesh. Connect local influencers with brands for authentic social media campaigns across",
       "mentions": [
@@ -33,7 +33,7 @@
     {
       "name": "Maroon Ltd.",
       "url": "https://www.maroonltd.com/",
-      "checkedAt": "2026-11-16T22:11:02.185113+00:00",
+      "checkedAt": "2026-11-17T04:32:55.044589+00:00",
       "title": "Maroon Limited",
       "description": "A PR and Digital Communication Agency in Dhaka, Bangladesh.",
       "mentions": [
@@ -48,7 +48,7 @@
     {
       "name": "Ngital",
       "url": "https://ngital.com/",
-      "checkedAt": "2026-11-16T22:11:07.501348+00:00",
+      "checkedAt": "2026-11-17T04:33:00.051222+00:00",
       "title": "Ngital – Digital Marketing Agency in Dhaka, Bangladesh",
       "description": "Digital Marketing Agency in Dhaka, Bangladesh",
       "mentions": [
@@ -68,7 +68,7 @@
       "name": "Internet use",
       "unit": "% of population",
       "url": "https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=BD",
-      "checkedAt": "2026-11-16T22:11:10.919902+00:00",
+      "checkedAt": "2026-11-17T04:33:02.992928+00:00",
       "status": "ok",
       "value": 53.42171316,
       "year": "2024"
@@ -78,7 +78,7 @@
       "name": "Population",
       "unit": "people",
       "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=BD",
-      "checkedAt": "2026-11-16T22:11:11.078092+00:00",
+      "checkedAt": "2026-11-17T04:33:03.060464+00:00",
       "status": "ok",
       "value": 175686899,
       "year": "2025"
@@ -88,13 +88,48 @@
       "name": "Inflation",
       "unit": "% annual",
       "url": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=BD",
-      "checkedAt": "2026-11-16T22:11:11.209828+00:00",
+      "checkedAt": "2026-11-17T04:33:03.099564+00:00",
       "status": "ok",
       "value": 8.7687628116114,
       "year": "2025"
     }
   ],
   "headlines": [
+    {
+      "topic": "clothing",
+      "title": "Wage unrest tests Bangladesh garment industry's low-cost edge - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOR05KRGFYbENvaWx0SmpFTC1HdF9TVHFJa015S2gxYVZ5ZUc0eXQ3X1BoZkN2OFdseDdSMGpNa1MtZnpRY2FoUjlOUzBwR1hOY1p3cTZ2V0lRN09zbFl0NXNqX3BXenYtTFhLZDhHOHg4U3RRdDkxaVpGWWNheWVwaWdZcFBsNENiX0ZDQ0g3cGdlRlloZW5fTTNYZG44LUZDLVFsTGxNNWQtOTFSMThLbDJZai0zS29kQmRXUlpn?oc=5",
+      "publishedAt": "Wed, 04 Nov 2026 08:00:00 GMT",
+      "source": "Reuters"
+    },
+    {
+      "topic": "clothing",
+      "title": "Will Fashion Brands Back Higher Wages in Bangladesh? - WWD",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVUhTWG9hd2h6YVpSdkdhM3FWcFJ0QWtOcjVrS0p4V3N4Q2VWY3dYTEpNZ1o1cjJxTi1iNndBQW53ekE1VnQ3WkhxdTFRYnJWYzRWZzd1Y1l6S0xHRnJCcUZzNldHQ1FHb3FVRm4xMmNRYlNpVXJkbjRNdFNxVEl3SGdSZ0VwQmZxQko2N1ZYNlZtcHhxMnhjZTA0ZGFvWHU1RVNzQWU4bWNHQXBoSWFHYk5QTHhtWUZ5RW1ycmJR?oc=5",
+      "publishedAt": "Fri, 13 Nov 2026 03:25:47 GMT",
+      "source": "WWD"
+    },
+    {
+      "topic": "clothing",
+      "title": "More clothing factories shut in Bangladesh as workers strike over pay - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQR2NZMDhqUVNOVlp2OEZ6Wk1BWllEamZCY09rNnJfTTZhek9pZXIzZUxWU3Zlc1J3ZWxoOFZaWm44NXp5MHVfQXU5akRnMUNhd1pBY2JRUHFLV1NwQVhnZWpNTzNQNGhSRDlxd00zc2k1TkVESUNCVC1LbUZTQ3NrTTFTS250emttUkZYdVRna05UNElz?oc=5",
+      "publishedAt": "Sun, 15 Nov 2026 16:39:37 GMT",
+      "source": "Yahoo"
+    },
+    {
+      "topic": "clothing",
+      "title": "How fashion brands can support Bangladesh’s garment workers - Just Style",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5IdVJCMExTVU1CQWUzVGFzTDVqWkMycC1reEFQSlllZDF4RUJJTl94YlUyQTZwWG8tajFmck1jcmRMX3FqZXJDLURmb3pVdnVZcmUtMzlpanU5TkktYU1XeXZGeHpycXMteWFFUW1YNzFCU2U4R3p2QVNVTQ?oc=5",
+      "publishedAt": "Thu, 12 Nov 2026 18:12:06 GMT",
+      "source": "Just Style"
+    },
+    {
+      "topic": "clothing",
+      "title": "Bangladesh will see wage negotiations finalised in December, with new rates taking effect in January 2027 - FashionNetwork USA",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQNUd2ZlgzVElHVU1HSnlmSmxHeW8yTU9PZlVwazRsMTI3S0hjbF9FU3VOZ3JwYUp1ckR5UmhXWnRvNkhFNktKdExDelZJbWx5Y3U5dmFQX180V2llRUJxQUdfV3RBVFhmek9fcFlPTlBndHBDNnZFZVdpSjhNaGhadm9kamhDajZSNkxIX2xyMEFiVkhfOVBKZmJhaGxPeVJTRnBYTHNPQ0VsLWozNDlkb3dPSnNZMmZxRkxzV1BlaHVTZF9TOXQ1eXh5UGEyQ1dYMlFha0JOdVctMFdYRTlBRmd6RHRWQ00?oc=5",
+      "publishedAt": "Wed, 04 Nov 2026 08:00:00 GMT",
+      "source": "FashionNetwork USA"
+    },
     {
       "topic": "agriculture",
       "title": "Bangladesh's agriculture needs shift towards quality, value addition: Agri experts - The Business Standard",
@@ -134,24 +169,23 @@
   "feedStatus": [
     {
       "topic": "creator",
-      "checkedAt": "2026-11-16T22:11:11.309644+00:00",
+      "checkedAt": "2026-11-17T04:33:03.139349+00:00",
       "status": "ok"
     },
     {
       "topic": "clothing",
-      "checkedAt": "2026-11-16T22:11:11.824004+00:00",
-      "status": "unavailable",
-      "error": "HTTP Error 429: Too Many Requests"
+      "checkedAt": "2026-11-17T04:33:03.560698+00:00",
+      "status": "ok"
     },
     {
       "topic": "games",
-      "checkedAt": "2026-11-16T22:11:12.341785+00:00",
+      "checkedAt": "2026-11-17T04:33:03.939915+00:00",
       "status": "unavailable",
       "error": "HTTP Error 429: Too Many Requests"
     },
     {
       "topic": "agriculture",
-      "checkedAt": "2026-11-16T22:11:12.764181+00:00",
+      "checkedAt": "2026-11-17T04:33:04.238566+00:00",
       "status": "ok"
     }
   ]
