@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "checkedAt": "2026-11-18T14:05:45.336441+00:00",
+  "checkedAt": "2026-11-18T22:00:14.248382+00:00",
   "competitors": [
     {
       "name": "Social Square",
       "url": "https://socialsquare.co/",
-      "checkedAt": "2026-11-18T14:05:45.336463+00:00",
+      "checkedAt": "2026-11-18T22:00:14.248410+00:00",
       "title": "Social Square | UGC Marketplace for Creators",
       "description": "Get paid to create content for brands with Social Square. Discover UGC campaigns, collaborate with companies, publish",
       "mentions": [
@@ -19,7 +19,7 @@
     {
       "name": "Bengal Reach",
       "url": "https://www.bengalreach.com/",
-      "checkedAt": "2026-11-18T14:05:46.613808+00:00",
+      "checkedAt": "2026-11-18T22:00:15.457881+00:00",
       "title": "bengalReach - Connect Influencers with Brands in Bangladesh",
       "description": "Leading influencer marketing platform in Bangladesh. Connect local influencers with brands for authentic social media campaigns across",
       "mentions": [
@@ -33,7 +33,7 @@
     {
       "name": "Maroon Ltd.",
       "url": "https://www.maroonltd.com/",
-      "checkedAt": "2026-11-18T14:05:47.869896+00:00",
+      "checkedAt": "2026-11-18T22:00:16.918500+00:00",
       "title": "Maroon Limited",
       "description": "A PR and Digital Communication Agency in Dhaka, Bangladesh.",
       "mentions": [
@@ -48,7 +48,7 @@
     {
       "name": "Ngital",
       "url": "https://ngital.com/",
-      "checkedAt": "2026-11-18T14:05:53.874044+00:00",
+      "checkedAt": "2026-11-18T22:00:22.301602+00:00",
       "title": "Ngital – Digital Marketing Agency in Dhaka, Bangladesh",
       "description": "Digital Marketing Agency in Dhaka, Bangladesh",
       "mentions": [
@@ -68,7 +68,7 @@
       "name": "Internet use",
       "unit": "% of population",
       "url": "https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=BD",
-      "checkedAt": "2026-11-18T14:05:57.136980+00:00",
+      "checkedAt": "2026-11-18T22:00:25.286712+00:00",
       "status": "ok",
       "value": 53.42171316,
       "year": "2024"
@@ -78,7 +78,7 @@
       "name": "Population",
       "unit": "people",
       "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=BD",
-      "checkedAt": "2026-11-18T14:05:57.254633+00:00",
+      "checkedAt": "2026-11-18T22:00:25.620589+00:00",
       "status": "ok",
       "value": 175686899,
       "year": "2025"
@@ -88,7 +88,7 @@
       "name": "Inflation",
       "unit": "% annual",
       "url": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=BD",
-      "checkedAt": "2026-11-18T14:05:57.319702+00:00",
+      "checkedAt": "2026-11-18T22:00:25.878010+00:00",
       "status": "ok",
       "value": 8.7687628116114,
       "year": "2025"
@@ -97,17 +97,17 @@
   "headlines": [
     {
       "topic": "clothing",
+      "title": "Bangladesh Agrees to Raise Minimum Wage for Garment Workers After Protests - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRUhDS1A5OU9GR3dIRU5HRmJwUlNwZGZsVGg3WjNIcW5Ob3JKWl9acHQ2b0wtQWt0c24zd2lVclRzUDdxT1hGVEM1ck96cmxVb2FxVk8yOFhCUFlZMGdrNzBFVnNKTEdlWWw0RE5rTXdkMHNSYUVCbUF4S1gxYk9VNVhLN01pV2Rubm4zUEN2YVFJTDRj?oc=5",
+      "publishedAt": "Thu, 05 Nov 2026 08:00:00 GMT",
+      "source": "The New York Times"
+    },
+    {
+      "topic": "clothing",
       "title": "Wage unrest tests Bangladesh garment industry's low-cost edge - Reuters",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOR05KRGFYbENvaWx0SmpFTC1HdF9TVHFJa015S2gxYVZ5ZUc0eXQ3X1BoZkN2OFdseDdSMGpNa1MtZnpRY2FoUjlOUzBwR1hOY1p3cTZ2V0lRN09zbFl0NXNqX3BXenYtTFhLZDhHOHg4U3RRdDkxaVpGWWNheWVwaWdZcFBsNENiX0ZDQ0g3cGdlRlloZW5fTTNYZG44LUZDLVFsTGxNNWQtOTFSMThLbDJZai0zS29kQmRXUlpn?oc=5",
       "publishedAt": "Wed, 04 Nov 2026 08:00:00 GMT",
       "source": "Reuters"
-    },
-    {
-      "topic": "clothing",
-      "title": "From Roadmap to Action: Advancing a Just Energy Transition for Bangladesh's Fashion Industry and Workers - Stand.earth",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaG9JT2N6WTBfRFVnbEh2N2l6c0hqVUExWmVCR256bzdGWllBT3VsTEc3aTExcUdPTmNUamtuX2UtYTktQXltQ3JCWVVZNDBkbk95ZXJQUXlqNzdqYnVGbUg1VGwzX3ZObkd6QmVaRkItM3pBYWJFQU5meExxTGljUUtqWEdMNjdidnFyUU5LWHVCX2ZFVHlpOE4zWG0xY2Jwa1hzeHhiU3RXaTRnbEh1ZlI0YUdIUFd2R3dOT2VoeUY5ZVZSNFpiR1VMMWI?oc=5",
-      "publishedAt": "Thu, 12 Nov 2026 21:22:50 GMT",
-      "source": "Stand.earth"
     },
     {
       "topic": "clothing",
@@ -160,10 +160,10 @@
     },
     {
       "topic": "games",
-      "title": "Game discs could endure like vinyl Take-Two CEO says - TweakTown",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUXVHMGhobEZqMUJ3Z0xCaVByeHdKcDZzZHl2LVRUc21NRDR2TXprTURJdWdOLTRQbkY4U1JyX1JfbGJsbEFJR0JUdU53ZnNOdVJiTzFCSGI4a1AzTlNla25kd2dNQUtSZEIzUm9ORHprTGYwaWNtR0hmV1VEdldiSFNiRWR2Qi1zTURfLVBTekcwM1QzQVB2UDhBcUpYTlhUazRZ?oc=5",
-      "publishedAt": "Sat, 14 Nov 2026 14:58:15 GMT",
-      "source": "TweakTown"
+      "title": "A Third Of PlayStation 5 Game Discs Don't Fully Work Without A Download - BGR",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQld3cHhUOXdDc3lQZ0xMOUVlLUhyQ1RqNk1ZQkg1YjJUMk5teXlkVTVYVUtXQmRheUp1bWdWbDUwZWgtTmk2TGw2amE0NnBuejNJYVNqRHZCWlFtQWdfVnBKd0h3V1YweFY1R1ozcWM1REVoZTFuOUdhUTJKb2dRYw?oc=5",
+      "publishedAt": "Sat, 07 Nov 2026 08:00:00 GMT",
+      "source": "BGR"
     },
     {
       "topic": "agriculture",
@@ -195,31 +195,31 @@
     },
     {
       "topic": "agriculture",
-      "title": "Bangladesh aims to reduce agricultural imports, says agriculture minister - Daily Sun",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPM3YwZGJJbGxjVk5zczc4TV8xNTBiTktnWnhwUW13VkVmb3l5alJZemFOUW5ENjM1ZVYzbV9xa21URzVRT0JKSDZoM3ljQjhjWGRwVndTX0ZDX0dWUTlmSGxuMTlqVlNRUEpMY0tjU1QzRmo1VnpTQm4wWHZTY0ZXOGh1VHNIdDVkUlBFTVhMekVfMnJyemlSVFgtV2JUZnZjNlZscXVxS3dLZ3ZSX05GUnF3cUpUdw?oc=5",
-      "publishedAt": "Thu, 05 Nov 2026 08:00:00 GMT",
-      "source": "Daily Sun"
+      "title": "Grant-based climate finance stressed to protect agriculture, farmers' rights - Bangladesh Sangbad Sangstha (BSS)",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE42UWdrQTNUZmkwSk9Sem5EWWtqMXYxc3pScENIYllLRVRkOFVLYURpRzBKVzIyeHhQdXFZdVNjVTl5ZGxIclRGTUY1dlBBWWFy?oc=5",
+      "publishedAt": "Sun, 15 Nov 2026 21:27:44 GMT",
+      "source": "Bangladesh Sangbad Sangstha (BSS)"
     }
   ],
   "feedStatus": [
     {
       "topic": "creator",
-      "checkedAt": "2026-11-18T14:05:57.414300+00:00",
+      "checkedAt": "2026-11-18T22:00:26.113950+00:00",
       "status": "ok"
     },
     {
       "topic": "clothing",
-      "checkedAt": "2026-11-18T14:05:57.789439+00:00",
+      "checkedAt": "2026-11-18T22:00:26.563249+00:00",
       "status": "ok"
     },
     {
       "topic": "games",
-      "checkedAt": "2026-11-18T14:05:58.102514+00:00",
+      "checkedAt": "2026-11-18T22:00:27.082049+00:00",
       "status": "ok"
     },
     {
       "topic": "agriculture",
-      "checkedAt": "2026-11-18T14:05:58.417948+00:00",
+      "checkedAt": "2026-11-18T22:00:27.592825+00:00",
       "status": "ok"
     }
   ]
