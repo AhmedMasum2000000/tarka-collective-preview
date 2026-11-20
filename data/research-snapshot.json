@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "checkedAt": "2026-11-19T22:11:44.003492+00:00",
+  "checkedAt": "2026-11-20T03:23:34.077427+00:00",
   "competitors": [
     {
       "name": "Social Square",
       "url": "https://socialsquare.co/",
-      "checkedAt": "2026-11-19T22:11:44.003506+00:00",
+      "checkedAt": "2026-11-20T03:23:34.077440+00:00",
       "title": "Social Square | UGC Marketplace for Creators",
       "description": "Get paid to create content for brands with Social Square. Discover UGC campaigns, collaborate with companies, publish",
       "mentions": [
@@ -19,7 +19,7 @@
     {
       "name": "Bengal Reach",
       "url": "https://www.bengalreach.com/",
-      "checkedAt": "2026-11-19T22:11:45.655236+00:00",
+      "checkedAt": "2026-11-20T03:23:35.267996+00:00",
       "title": "bengalReach - Connect Influencers with Brands in Bangladesh",
       "description": "Leading influencer marketing platform in Bangladesh. Connect local influencers with brands for authentic social media campaigns across",
       "mentions": [
@@ -33,7 +33,7 @@
     {
       "name": "Maroon Ltd.",
       "url": "https://www.maroonltd.com/",
-      "checkedAt": "2026-11-19T22:11:47.463527+00:00",
+      "checkedAt": "2026-11-20T03:23:36.583672+00:00",
       "title": "Maroon Limited",
       "description": "A PR and Digital Communication Agency in Dhaka, Bangladesh.",
       "mentions": [
@@ -48,7 +48,7 @@
     {
       "name": "Ngital",
       "url": "https://ngital.com/",
-      "checkedAt": "2026-11-19T22:11:51.186538+00:00",
+      "checkedAt": "2026-11-20T03:23:41.635555+00:00",
       "title": "Ngital – Digital Marketing Agency in Dhaka, Bangladesh",
       "description": "Digital Marketing Agency in Dhaka, Bangladesh",
       "mentions": [
@@ -68,7 +68,7 @@
       "name": "Internet use",
       "unit": "% of population",
       "url": "https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=BD",
-      "checkedAt": "2026-11-19T22:11:54.500822+00:00",
+      "checkedAt": "2026-11-20T03:23:44.511335+00:00",
       "status": "ok",
       "value": 53.42171316,
       "year": "2024"
@@ -78,7 +78,7 @@
       "name": "Population",
       "unit": "people",
       "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=BD",
-      "checkedAt": "2026-11-19T22:11:56.164530+00:00",
+      "checkedAt": "2026-11-20T03:23:45.304246+00:00",
       "status": "ok",
       "value": 175686899,
       "year": "2025"
@@ -88,13 +88,20 @@
       "name": "Inflation",
       "unit": "% annual",
       "url": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=BD",
-      "checkedAt": "2026-11-19T22:11:57.429487+00:00",
+      "checkedAt": "2026-11-20T03:23:45.831468+00:00",
       "status": "ok",
       "value": 8.7687628116114,
       "year": "2025"
     }
   ],
   "headlines": [
+    {
+      "topic": "clothing",
+      "title": "Bangladesh Agrees to Raise Minimum Wage for Garment Workers After Protests - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRUhDS1A5OU9GR3dIRU5HRmJwUlNwZGZsVGg3WjNIcW5Ob3JKWl9acHQ2b0wtQWt0c24zd2lVclRzUDdxT1hGVEM1ck96cmxVb2FxVk8yOFhCUFlZMGdrNzBFVnNKTEdlWWw0RE5rTXdkMHNSYUVCbUF4S1gxYk9VNVhLN01pV2Rubm4zUEN2YVFJTDRj?oc=5",
+      "publishedAt": "Thu, 05 Nov 2026 08:00:00 GMT",
+      "source": "The New York Times"
+    },
     {
       "topic": "clothing",
       "title": "Wage unrest tests Bangladesh garment industry's low-cost edge - Reuters",
@@ -122,13 +129,6 @@
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQR2NZMDhqUVNOVlp2OEZ6Wk1BWllEamZCY09rNnJfTTZhek9pZXIzZUxWU3Zlc1J3ZWxoOFZaWm44NXp5MHVfQXU5akRnMUNhd1pBY2JRUHFLV1NwQVhnZWpNTzNQNGhSRDlxd00zc2k1TkVESUNCVC1LbUZTQ3NrTTFTS250emttUkZYdVRna05UNElz?oc=5",
       "publishedAt": "Mon, 16 Nov 2026 01:05:00 GMT",
       "source": "Yahoo"
-    },
-    {
-      "topic": "clothing",
-      "title": "How fashion brands can support Bangladesh’s garment workers - Just Style",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5IdVJCMExTVU1CQWUzVGFzTDVqWkMycC1reEFQSlllZDF4RUJJTl94YlUyQTZwWG8tajFmck1jcmRMX3FqZXJDLURmb3pVdnVZcmUtMzlpanU5TkktYU1XeXZGeHpycXMteWFFUW1YNzFCU2U4R3p2QVNVTQ?oc=5",
-      "publishedAt": "Thu, 12 Nov 2026 18:12:06 GMT",
-      "source": "Just Style"
     },
     {
       "topic": "games",
@@ -167,6 +167,13 @@
     },
     {
       "topic": "agriculture",
+      "title": "Investment Opportunities in Agriculture, Fisheries, and Food Processing; Initiatives for Agreements on Skilled Workforce Recruitment - https://businessinbangladesh.com.bd/",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPZEFnR0tSelI2TmVDSkZUSzVOTXljeXgzTnBsRDUySHhxMGF2OTFZY0NwaG1vZkw2UjVlc2w3NmFweWd5RXMxeFBaRWFvTkFuZHB2T29DZjVKelN0eVFVTnlNdERjVmNjcEsxWTRVM2pkSW4tUVdZSGJ0dmtSak83UkV0bjlXenVaeXFMUHFXOEpocnBVTHl6cVpXSjFidVdXWm1INTlNS0JDMEMyWWRlaTViODFQcWQzbHE2NlpERFBSN0hsUDZJV3FIUFppNURJbWtsZWRpampSSHIzQWE0OGUtZENkUHduZ1ZNQUowX1NDM0w2VWZkdWt3?oc=5",
+      "publishedAt": "Tue, 17 Nov 2026 11:23:28 GMT",
+      "source": "https://businessinbangladesh.com.bd/"
+    },
+    {
+      "topic": "agriculture",
       "title": "Bangladesh's agriculture needs shift towards quality, value addition: Agri experts - The Business Standard",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNamdxODVnNFdOVU1mVEhiT1hzOGViSng3bFlFX1VkUzlWVGpKakxJSHhLRTFvNVBySzVCME9wa0xJVTI3Rm5FbTlad1JxdC1fSmdoa0swWlVDeE1lLXJNQXUxVU9pcFBDYlVub1g0UGNIXzlzZWVmWjVESEUyREM3c25lekZlNEpHbkNHdm1fbC12TllqM3RSbFcxZHc4MzhMa203THpiVnd1WUtQX3k2b2lkLWFCWFkycm1RMFYwZU4?oc=5",
       "publishedAt": "Sun, 15 Nov 2026 15:12:19 GMT",
@@ -189,37 +196,30 @@
     {
       "topic": "agriculture",
       "title": "Bangladesh achieved remarkable success in agriculture: President - Daily Bonik Barta",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE83OGtLN1VsYTZSdW1jX05yZzNyT1ZsR1Y1Z1hYbFU4SmZpdWlxUklSUy1kMzM2NTNqbHh5OXFRczhlem02WUpZTXFISmpONTdmNkhuLXN2bHBXb3h0YjZTekJUUQ?oc=5",
-      "publishedAt": "Thu, 19 Nov 2026 18:53:19 GMT",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9lZFgyX0NUcTF0ZVA0bDVxTV9ELVJndEl1Y2pTS1c5RUlpbmk5SlVodmVTcFRacUlhVjk4bGJrSWtMUEtkOC0wWG13NUpNQzVfa3pXbk9RUXJMMWY0bU1OZTM3Vnc?oc=5",
+      "publishedAt": "Thu, 19 Nov 2026 12:24:08 GMT",
       "source": "Daily Bonik Barta"
-    },
-    {
-      "topic": "agriculture",
-      "title": "Bangladesh aims to reduce agricultural imports, says agriculture minister - Daily Sun",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPM3YwZGJJbGxjVk5zczc4TV8xNTBiTktnWnhwUW13VkVmb3l5alJZemFOUW5ENjM1ZVYzbV9xa21URzVRT0JKSDZoM3ljQjhjWGRwVndTX0ZDX0dWUTlmSGxuMTlqVlNRUEpMY0tjU1QzRmo1VnpTQm4wWHZTY0ZXOGh1VHNIdDVkUlBFTVhMekVfMnJyemlSVFgtV2JUZnZjNlZscXVxS3dLZ3ZSX05GUnF3cUpUdw?oc=5",
-      "publishedAt": "Thu, 05 Nov 2026 08:00:00 GMT",
-      "source": "Daily Sun"
     }
   ],
   "feedStatus": [
     {
       "topic": "creator",
-      "checkedAt": "2026-11-19T22:11:58.509904+00:00",
+      "checkedAt": "2026-11-20T03:23:46.571000+00:00",
       "status": "ok"
     },
     {
       "topic": "clothing",
-      "checkedAt": "2026-11-19T22:11:58.892011+00:00",
+      "checkedAt": "2026-11-20T03:23:47.009429+00:00",
       "status": "ok"
     },
     {
       "topic": "games",
-      "checkedAt": "2026-11-19T22:11:59.256155+00:00",
+      "checkedAt": "2026-11-20T03:23:47.414062+00:00",
       "status": "ok"
     },
     {
       "topic": "agriculture",
-      "checkedAt": "2026-11-19T22:11:59.557201+00:00",
+      "checkedAt": "2026-11-20T03:23:47.829534+00:00",
       "status": "ok"
     }
   ]
