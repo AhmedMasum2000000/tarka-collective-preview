@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "checkedAt": "2026-11-21T02:22:20.539480+00:00",
+  "checkedAt": "2026-11-21T11:13:03.427310+00:00",
   "competitors": [
     {
       "name": "Social Square",
       "url": "https://socialsquare.co/",
-      "checkedAt": "2026-11-21T02:22:20.539497+00:00",
+      "checkedAt": "2026-11-21T11:13:03.427325+00:00",
       "title": "Social Square | UGC Marketplace for Creators",
       "description": "Get paid to create content for brands with Social Square. Discover UGC campaigns, collaborate with companies, publish",
       "mentions": [
@@ -19,7 +19,7 @@
     {
       "name": "Bengal Reach",
       "url": "https://www.bengalreach.com/",
-      "checkedAt": "2026-11-21T02:22:21.735641+00:00",
+      "checkedAt": "2026-11-21T11:13:04.670112+00:00",
       "title": "bengalReach - Connect Influencers with Brands in Bangladesh",
       "description": "Leading influencer marketing platform in Bangladesh. Connect local influencers with brands for authentic social media campaigns across",
       "mentions": [
@@ -33,7 +33,7 @@
     {
       "name": "Maroon Ltd.",
       "url": "https://www.maroonltd.com/",
-      "checkedAt": "2026-11-21T02:22:23.420291+00:00",
+      "checkedAt": "2026-11-21T11:13:06.172078+00:00",
       "title": "Maroon Limited",
       "description": "A PR and Digital Communication Agency in Dhaka, Bangladesh.",
       "mentions": [
@@ -48,7 +48,7 @@
     {
       "name": "Ngital",
       "url": "https://ngital.com/",
-      "checkedAt": "2026-11-21T02:22:28.946244+00:00",
+      "checkedAt": "2026-11-21T11:13:11.699272+00:00",
       "title": "Ngital – Digital Marketing Agency in Dhaka, Bangladesh",
       "description": "Digital Marketing Agency in Dhaka, Bangladesh",
       "mentions": [
@@ -68,7 +68,7 @@
       "name": "Internet use",
       "unit": "% of population",
       "url": "https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=BD",
-      "checkedAt": "2026-11-21T02:22:32.287342+00:00",
+      "checkedAt": "2026-11-21T11:13:14.765348+00:00",
       "status": "ok",
       "value": 53.42171316,
       "year": "2024"
@@ -78,7 +78,7 @@
       "name": "Population",
       "unit": "people",
       "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=BD",
-      "checkedAt": "2026-11-21T02:22:32.621413+00:00",
+      "checkedAt": "2026-11-21T11:13:15.053478+00:00",
       "status": "ok",
       "value": 175686899,
       "year": "2025"
@@ -88,7 +88,7 @@
       "name": "Inflation",
       "unit": "% annual",
       "url": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=BD",
-      "checkedAt": "2026-11-21T02:22:32.893344+00:00",
+      "checkedAt": "2026-11-21T11:13:15.157530+00:00",
       "status": "ok",
       "value": 8.7687628116114,
       "year": "2025"
@@ -132,10 +132,10 @@
     },
     {
       "topic": "games",
-      "title": "This massive retro gaming handheld comes with 200 fully licensed games – you can sleep better at night - T3",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZUpfcG5XLVNneVUxbHAwRXJjXzMwNlZFUjZHU2VEWXVCZ2twcXl2RUxLbzhXa3g2RldiOVYtUjdYSFRrMXVqc3NMcGZNTERHdVBaQWg0THVmNjhMOE9zSVNlT2o2SzUwODBXTFY1dXpWcGdlYXFldE1najFTV1duQTFZY2J0TG4wUkdTWXNTU1RObUQ1eE12ZDM5TDQ1dTlBSGpWNVdZSmxXanN1Si1vWmdITVJ1RHlPd2tfN0FybXV6ZHVSdjFISmdaRFYyQzFFSjAybmY2QQ?oc=5",
-      "publishedAt": "Fri, 30 Oct 2026 07:00:00 GMT",
-      "source": "T3"
+      "title": "A Guide to Portland Retro Gaming Expo - travelportland.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5XUTRjUjdoTWxQLWVrME16TXhHLTg1SmMyaUMzSUF4bUYtTVVndTN0UGR4MW8zS2ViZkFmZ0xyZXp1YWtnSFFqOW9oX2xHYTRma0lqcG9kMk5HXzZob3ZJLTZYYVhDaE0?oc=5",
+      "publishedAt": "Wed, 18 Nov 2026 19:39:37 GMT",
+      "source": "travelportland.com"
     },
     {
       "topic": "games",
@@ -143,6 +143,13 @@
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUWI4M19nT1c1anFsWGhoaGUxeE16RWE2V3N6X01pdW1Ca25lLVFuUHVSd2R0TG5TUkpXdlE0WVNDQ1BFMnFJZkVTTGJ6ZXpkUUpXeVAwTnJtdGhfVWxPNENoQWRQbGNVdWVvNnl2SkFQWmhVaTAtQmx4R2pzeEUxUUxkTnlqbEcyQ21vc0VNT0lxYUF3OHFwWmIxQmpUaVFIZEFFaVZlbnhvVDBRVkIw?oc=5",
       "publishedAt": "Fri, 20 Nov 2026 19:45:05 GMT",
       "source": "Mashable"
+    },
+    {
+      "topic": "games",
+      "title": "This massive retro gaming handheld comes with 200 fully licensed games – you can sleep better at night - T3",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZUpfcG5XLVNneVUxbHAwRXJjXzMwNlZFUjZHU2VEWXVCZ2twcXl2RUxLbzhXa3g2RldiOVYtUjdYSFRrMXVqc3NMcGZNTERHdVBaQWg0THVmNjhMOE9zSVNlT2o2SzUwODBXTFY1dXpWcGdlYXFldE1najFTV1duQTFZY2J0TG4wUkdTWXNTU1RObUQ1eE12ZDM5TDQ1dTlBSGpWNVdZSmxXanN1Si1vWmdITVJ1RHlPd2tfN0FybXV6ZHVSdjFISmdaRFYyQzFFSjAybmY2QQ?oc=5",
+      "publishedAt": "Fri, 30 Oct 2026 07:00:00 GMT",
+      "source": "T3"
     },
     {
       "topic": "games",
@@ -159,34 +166,6 @@
       "source": "PC Gamer"
     },
     {
-      "topic": "games",
-      "title": "It's OK, Pokémon And Retro Gaming Fans, The Resellers And Vultures Will Eventually Move On - Aftermath",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE50X2FVWGJkaVlObkVJRnp6R1FhUTJrby03ZmRXZEM5NEprTWd4dE8xZzItbUtZd2FBdG8tZl94RXVVbWZDd3NVZjE1d1dwdWRWTGRhSkR4RVpNMkowamsxcHI0VFQ1MWxKUVI2NnRlR1lmZ0QzRm84dFdyWQ?oc=5",
-      "publishedAt": "Wed, 28 Oct 2026 07:00:00 GMT",
-      "source": "Aftermath"
-    },
-    {
-      "topic": "agriculture",
-      "title": "Bangladesh's agriculture needs shift towards quality, value addition: Agri experts - The Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNamdxODVnNFdOVU1mVEhiT1hzOGViSng3bFlFX1VkUzlWVGpKakxJSHhLRTFvNVBySzVCME9wa0xJVTI3Rm5FbTlad1JxdC1fSmdoa0swWlVDeE1lLXJNQXUxVU9pcFBDYlVub1g0UGNIXzlzZWVmWjVESEUyREM3c25lekZlNEpHbkNHdm1fbC12TllqM3RSbFcxZHc4MzhMa203THpiVnd1WUtQX3k2b2lkLWFCWFkycm1RMFYwZU4?oc=5",
-      "publishedAt": "Sun, 15 Nov 2026 15:12:19 GMT",
-      "source": "The Business Standard"
-    },
-    {
-      "topic": "agriculture",
-      "title": "Bangladesh needs a new generation of tech-savvy farmers - The Daily Star",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRGRJOUtaMGVIc0xVZThvYXpzemRwb05jb2xQc3FyVHdtYXpFTkxpaEF2My0tUG5OeF9ybjFyVDNDSzF0Zk5iaWdoWW1oODgtWWx5REhLcVM0RklyLWFILVJiemJIV0tfN29YcHFjR2dVTVFjWE9TVE9kdUh2MWdrUll3NHZxTW5mMTNuMkl1UnYxYmxkYVVEM3p5N1ZPZG5DekZKVWkxMTNHQQ?oc=5",
-      "publishedAt": "Wed, 18 Nov 2026 15:18:52 GMT",
-      "source": "The Daily Star"
-    },
-    {
-      "topic": "agriculture",
-      "title": "Bangladesh, Algeria seek broader cooperation in energy, agriculture, textiles - Dhaka Tribune",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPa0N5NnZfSzRscFV1NEVVanhrNEVzeUUxalJVdGNwVTg1b1hIVWtycHRHeDRWcFdPU0ZsVFlmY05NMEg5c2pVMjFVaUJPTFA3WXc3YkxxdVBVWEtPUGdqNE42aVRMQ0dEVHNHZHo2NU5hTlJhYTROV1dZYUI5bjVWRXVJdWdldk9TanoxUFhTaEI5YXI4N1NGVnl2X2xOM2RvbllrMDEyeTFrNWViaGfSAbMBQVVfeXFMTVlIYk01N1phN3pmS19MNEI1ZGJrUnhrSWktSGJKR2JoOU5KcGVvTEFkWWRLdkFEdnhrUXBkVUNMSFBmdTBXaHZ2SHJpODJ6NXFQQkt5bE1CbllucU02UUpyQ0xsS1M2UldyQ1ZMaXpyaUFMRWNFZjlxRFY1RzJnY3RvSFhoS3lYZDJJcEdhTkJVTUl5TDZSRzEzbW9MakdtNmt0WDcwcjF2NzE5dUo4UnJtT28?oc=5",
-      "publishedAt": "Thu, 22 Oct 2026 07:00:00 GMT",
-      "source": "Dhaka Tribune"
-    },
-    {
       "topic": "agriculture",
       "title": "Investment Opportunities in Agriculture, Fisheries, and Food Processing; Initiatives for Agreements on Skilled Workforce Recruitment - https://businessinbangladesh.com.bd/",
       "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPZEFnR0tSelI2TmVDSkZUSzVOTXljeXgzTnBsRDUySHhxMGF2OTFZY0NwaG1vZkw2UjVlc2w3NmFweWd5RXMxeFBaRWFvTkFuZHB2T29DZjVKelN0eVFVTnlNdERjVmNjcEsxWTRVM2pkSW4tUVdZSGJ0dmtSak83UkV0bjlXenVaeXFMUHFXOEpocnBVTHl6cVpXSjFidVdXWm1INTlNS0JDMEMyWWRlaTViODFQcWQzbHE2NlpERFBSN0hsUDZJV3FIUFppNURJbWtsZWRpampSSHIzQWE0OGUtZENkUHduZ1ZNQUowX1NDM0w2VWZkdWt3?oc=5",
@@ -195,31 +174,52 @@
     },
     {
       "topic": "agriculture",
-      "title": "Bangladesh achieved remarkable success in agriculture: President - Daily Bonik Barta",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9lZFgyX0NUcTF0ZVA0bDVxTV9ELVJndEl1Y2pTS1c5RUlpbmk5SlVodmVTcFRacUlhVjk4bGJrSWtMUEtkOC0wWG13NUpNQzVfa3pXbk9RUXJMMWY0bU1OZTM3Vnc?oc=5",
-      "publishedAt": "Thu, 19 Nov 2026 12:24:08 GMT",
-      "source": "Daily Bonik Barta"
+      "title": "Bangladesh needs a new generation of tech-savvy farmers - The Daily Star",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRGRJOUtaMGVIc0xVZThvYXpzemRwb05jb2xQc3FyVHdtYXpFTkxpaEF2My0tUG5OeF9ybjFyVDNDSzF0Zk5iaWdoWW1oODgtWWx5REhLcVM0RklyLWFILVJiemJIV0tfN29YcHFjR2dVTVFjWE9TVE9kdUh2MWdrUll3NHZxTW5mMTNuMkl1UnYxYmxkYVVEM3p5N1ZPZG5DekZKVWkxMTNHQQ?oc=5",
+      "publishedAt": "Mon, 16 Nov 2026 11:32:08 GMT",
+      "source": "The Daily Star"
+    },
+    {
+      "topic": "agriculture",
+      "title": "President: Bangladesh achieves remarkable success in agriculture - Dhaka Tribune",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTmdfUnMwLWRWVDFLcG9sY0hoVnh2TGNEVDJpdnNQOFkwWHUzLVhIVUJLdS1QODhsUzYyTkdyeFlsUkxFNVBCcHhMRFZ3UWEtTjRYVUctd05JTnp1RU9iNnZaUnNubXRGRnA4N0R0REhGRXJiZHlKSFBZNVVDczRyUDFSRWswQTY2SkN2RExXc2dkeEpnSmVOSkJoTWQ1UEl3Q09KdVMyajN6Z9IBqgFBVV95cUxNTmdfUnMwLWRWVDFLcG9sY0hoVnh2TGNEVDJpdnNQOFkwWHUzLVhIVUJLdS1QODhsUzYyTkdyeFlsUkxFNVBCcHhMRFZ3UWEtTjRYVUctd05JTnp1RU9iNnZaUnNubXRGRnA4N0R0REhGRXJiZHlKSFBZNVVDczRyUDFSRWswQTY2SkN2RExXc2dkeEpnSmVOSkJoTWQ1UEl3Q09KdVMyajN6Zw?oc=5",
+      "publishedAt": "Thu, 19 Nov 2026 14:17:06 GMT",
+      "source": "Dhaka Tribune"
+    },
+    {
+      "topic": "agriculture",
+      "title": "Agricultural Paradox in Bangladesh - Daily Sun",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBsSUtmdmNjOWNvaHQ2c2h2SnY5ZWtETi1MNEdGRnVMaXM4TTNyekV3RW1raTN1SC1wdG5DNV80QkZnYTdnNlRRRDctR3RwYUxY?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 07:00:00 GMT",
+      "source": "Daily Sun"
+    },
+    {
+      "topic": "agriculture",
+      "title": "‘KRISHIBIR’, Bangladesh’s first agriculture-based mega reality show, officially launches - bdnews24.com",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE82U243SENwX2o5ZkhtVEtOZUg5X0REU25fY1JVb0F3QlZVdUpRUmFURmZwQjhlWEo4QTVoRV9fYUlTM1NBSzFTMUwzd2Y0U3VVLTJ0Mw?oc=5",
+      "publishedAt": "Mon, 16 Nov 2026 08:20:00 GMT",
+      "source": "bdnews24.com"
     }
   ],
   "feedStatus": [
     {
       "topic": "creator",
-      "checkedAt": "2026-11-21T02:22:33.180351+00:00",
+      "checkedAt": "2026-11-21T11:13:15.402530+00:00",
       "status": "ok"
     },
     {
       "topic": "clothing",
-      "checkedAt": "2026-11-21T02:22:33.611084+00:00",
+      "checkedAt": "2026-11-21T11:13:15.997936+00:00",
       "status": "ok"
     },
     {
       "topic": "games",
-      "checkedAt": "2026-11-21T02:22:34.002662+00:00",
+      "checkedAt": "2026-11-21T11:13:16.458410+00:00",
       "status": "ok"
     },
     {
       "topic": "agriculture",
-      "checkedAt": "2026-11-21T02:22:34.354659+00:00",
+      "checkedAt": "2026-11-21T11:13:16.960484+00:00",
       "status": "ok"
     }
   ]
