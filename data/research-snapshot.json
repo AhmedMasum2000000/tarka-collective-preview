@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "checkedAt": "2026-11-21T11:13:03.427310+00:00",
+  "checkedAt": "2026-11-21T18:01:43.387727+00:00",
   "competitors": [
     {
       "name": "Social Square",
       "url": "https://socialsquare.co/",
-      "checkedAt": "2026-11-21T11:13:03.427325+00:00",
+      "checkedAt": "2026-11-21T18:01:43.387743+00:00",
       "title": "Social Square | UGC Marketplace for Creators",
       "description": "Get paid to create content for brands with Social Square. Discover UGC campaigns, collaborate with companies, publish",
       "mentions": [
@@ -19,7 +19,7 @@
     {
       "name": "Bengal Reach",
       "url": "https://www.bengalreach.com/",
-      "checkedAt": "2026-11-21T11:13:04.670112+00:00",
+      "checkedAt": "2026-11-21T18:01:44.677217+00:00",
       "title": "bengalReach - Connect Influencers with Brands in Bangladesh",
       "description": "Leading influencer marketing platform in Bangladesh. Connect local influencers with brands for authentic social media campaigns across",
       "mentions": [
@@ -33,7 +33,7 @@
     {
       "name": "Maroon Ltd.",
       "url": "https://www.maroonltd.com/",
-      "checkedAt": "2026-11-21T11:13:06.172078+00:00",
+      "checkedAt": "2026-11-21T18:01:46.015694+00:00",
       "title": "Maroon Limited",
       "description": "A PR and Digital Communication Agency in Dhaka, Bangladesh.",
       "mentions": [
@@ -48,7 +48,7 @@
     {
       "name": "Ngital",
       "url": "https://ngital.com/",
-      "checkedAt": "2026-11-21T11:13:11.699272+00:00",
+      "checkedAt": "2026-11-21T18:01:51.658226+00:00",
       "title": "Ngital – Digital Marketing Agency in Dhaka, Bangladesh",
       "description": "Digital Marketing Agency in Dhaka, Bangladesh",
       "mentions": [
@@ -68,7 +68,7 @@
       "name": "Internet use",
       "unit": "% of population",
       "url": "https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=BD",
-      "checkedAt": "2026-11-21T11:13:14.765348+00:00",
+      "checkedAt": "2026-11-21T18:01:55.067156+00:00",
       "status": "ok",
       "value": 53.42171316,
       "year": "2024"
@@ -78,7 +78,7 @@
       "name": "Population",
       "unit": "people",
       "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=BD",
-      "checkedAt": "2026-11-21T11:13:15.053478+00:00",
+      "checkedAt": "2026-11-21T18:01:55.180814+00:00",
       "status": "ok",
       "value": 175686899,
       "year": "2025"
@@ -88,7 +88,7 @@
       "name": "Inflation",
       "unit": "% annual",
       "url": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=BD",
-      "checkedAt": "2026-11-21T11:13:15.157530+00:00",
+      "checkedAt": "2026-11-21T18:01:55.281461+00:00",
       "status": "ok",
       "value": 8.7687628116114,
       "year": "2025"
@@ -176,7 +176,7 @@
       "topic": "agriculture",
       "title": "Bangladesh needs a new generation of tech-savvy farmers - The Daily Star",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRGRJOUtaMGVIc0xVZThvYXpzemRwb05jb2xQc3FyVHdtYXpFTkxpaEF2My0tUG5OeF9ybjFyVDNDSzF0Zk5iaWdoWW1oODgtWWx5REhLcVM0RklyLWFILVJiemJIV0tfN29YcHFjR2dVTVFjWE9TVE9kdUh2MWdrUll3NHZxTW5mMTNuMkl1UnYxYmxkYVVEM3p5N1ZPZG5DekZKVWkxMTNHQQ?oc=5",
-      "publishedAt": "Mon, 16 Nov 2026 11:32:08 GMT",
+      "publishedAt": "Wed, 18 Nov 2026 15:18:52 GMT",
       "source": "The Daily Star"
     },
     {
@@ -204,22 +204,22 @@
   "feedStatus": [
     {
       "topic": "creator",
-      "checkedAt": "2026-11-21T11:13:15.402530+00:00",
+      "checkedAt": "2026-11-21T18:01:55.424533+00:00",
       "status": "ok"
     },
     {
       "topic": "clothing",
-      "checkedAt": "2026-11-21T11:13:15.997936+00:00",
+      "checkedAt": "2026-11-21T18:01:55.909193+00:00",
       "status": "ok"
     },
     {
       "topic": "games",
-      "checkedAt": "2026-11-21T11:13:16.458410+00:00",
+      "checkedAt": "2026-11-21T18:01:56.319505+00:00",
       "status": "ok"
     },
     {
       "topic": "agriculture",
-      "checkedAt": "2026-11-21T11:13:16.960484+00:00",
+      "checkedAt": "2026-11-21T18:01:56.712440+00:00",
       "status": "ok"
     }
   ]
