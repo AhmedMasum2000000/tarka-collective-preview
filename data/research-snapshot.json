@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "checkedAt": "2026-11-22T21:51:01.274586+00:00",
+  "checkedAt": "2026-11-23T02:50:37.937274+00:00",
   "competitors": [
     {
       "name": "Social Square",
       "url": "https://socialsquare.co/",
-      "checkedAt": "2026-11-22T21:51:01.274602+00:00",
+      "checkedAt": "2026-11-23T02:50:37.937291+00:00",
       "title": "Social Square | UGC Marketplace for Creators",
       "description": "Get paid to create content for brands with Social Square. Discover UGC campaigns, collaborate with companies, publish",
       "mentions": [
@@ -19,7 +19,7 @@
     {
       "name": "Bengal Reach",
       "url": "https://www.bengalreach.com/",
-      "checkedAt": "2026-11-22T21:51:02.534748+00:00",
+      "checkedAt": "2026-11-23T02:50:39.260955+00:00",
       "title": "bengalReach - Connect Influencers with Brands in Bangladesh",
       "description": "Leading influencer marketing platform in Bangladesh. Connect local influencers with brands for authentic social media campaigns across",
       "mentions": [
@@ -33,7 +33,7 @@
     {
       "name": "Maroon Ltd.",
       "url": "https://www.maroonltd.com/",
-      "checkedAt": "2026-11-22T21:51:04.151634+00:00",
+      "checkedAt": "2026-11-23T02:50:40.774006+00:00",
       "title": "Maroon Limited",
       "description": "A PR and Digital Communication Agency in Dhaka, Bangladesh.",
       "mentions": [
@@ -48,7 +48,7 @@
     {
       "name": "Ngital",
       "url": "https://ngital.com/",
-      "checkedAt": "2026-11-22T21:51:07.601437+00:00",
+      "checkedAt": "2026-11-23T02:50:43.628325+00:00",
       "title": "Ngital – Digital Marketing Agency in Dhaka, Bangladesh",
       "description": "Digital Marketing Agency in Dhaka, Bangladesh",
       "mentions": [
@@ -68,7 +68,7 @@
       "name": "Internet use",
       "unit": "% of population",
       "url": "https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=BD",
-      "checkedAt": "2026-11-22T21:51:10.878557+00:00",
+      "checkedAt": "2026-11-23T02:50:47.030421+00:00",
       "status": "ok",
       "value": 53.42171316,
       "year": "2024"
@@ -78,7 +78,7 @@
       "name": "Population",
       "unit": "people",
       "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=BD",
-      "checkedAt": "2026-11-22T21:51:10.992749+00:00",
+      "checkedAt": "2026-11-23T02:50:47.120308+00:00",
       "status": "ok",
       "value": 175686899,
       "year": "2025"
@@ -88,7 +88,7 @@
       "name": "Inflation",
       "unit": "% annual",
       "url": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=BD",
-      "checkedAt": "2026-11-22T21:51:11.084736+00:00",
+      "checkedAt": "2026-11-23T02:50:47.193525+00:00",
       "status": "ok",
       "value": 8.7687628116114,
       "year": "2025"
@@ -97,17 +97,17 @@
   "headlines": [
     {
       "topic": "clothing",
-      "title": "Wage unrest tests Bangladesh garment industry's low-cost edge - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOR05KRGFYbENvaWx0SmpFTC1HdF9TVHFJa015S2gxYVZ5ZUc0eXQ3X1BoZkN2OFdseDdSMGpNa1MtZnpRY2FoUjlOUzBwR1hOY1p3cTZ2V0lRN09zbFl0NXNqX3BXenYtTFhLZDhHOHg4U3RRdDkxaVpGWWNheWVwaWdZcFBsNENiX0ZDQ0g3cGdlRlloZW5fTTNYZG44LUZDLVFsTGxNNWQtOTFSMThLbDJZai0zS29kQmRXUlpn?oc=5",
-      "publishedAt": "Wed, 04 Nov 2026 08:00:00 GMT",
-      "source": "Reuters"
-    },
-    {
-      "topic": "clothing",
       "title": "Bangladesh Agrees to Raise Minimum Wage for Garment Workers After Protests - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRUhDS1A5OU9GR3dIRU5HRmJwUlNwZGZsVGg3WjNIcW5Ob3JKWl9acHQ2b0wtQWt0c24zd2lVclRzUDdxT1hGVEM1ck96cmxVb2FxVk8yOFhCUFlZMGdrNzBFVnNKTEdlWWw0RE5rTXdkMHNSYUVCbUF4S1gxYk9VNVhLN01pV2Rubm4zUEN2YVFJTDRj?oc=5",
       "publishedAt": "Thu, 05 Nov 2026 08:00:00 GMT",
       "source": "The New York Times"
+    },
+    {
+      "topic": "clothing",
+      "title": "Wage unrest tests Bangladesh garment industry's low-cost edge - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOR05KRGFYbENvaWx0SmpFTC1HdF9TVHFJa015S2gxYVZ5ZUc0eXQ3X1BoZkN2OFdseDdSMGpNa1MtZnpRY2FoUjlOUzBwR1hOY1p3cTZ2V0lRN09zbFl0NXNqX3BXenYtTFhLZDhHOHg4U3RRdDkxaVpGWWNheWVwaWdZcFBsNENiX0ZDQ0g3cGdlRlloZW5fTTNYZG44LUZDLVFsTGxNNWQtOTFSMThLbDJZai0zS29kQmRXUlpn?oc=5",
+      "publishedAt": "Wed, 04 Nov 2026 08:00:00 GMT",
+      "source": "Reuters"
     },
     {
       "topic": "clothing",
@@ -167,6 +167,13 @@
     },
     {
       "topic": "agriculture",
+      "title": "Japan looks to Bangladesh, Nepal for farm workers as Southeast Asian arrivals slow - South China Morning Post",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSjdOU1ZVdEJrb19VaTBnejB0d0dTdDZNUnlOY2hPTnlNWVBjTHQ3ZjYtajdjdzNUdnRfakxxZ1M1bjNpVmNDeUFpeGEtQ3ViQmU4N2ZadVdEZVlBZlhBZjVtOU10M3I5cFZmRlRvZUkxdXJ4SC1mb2kxcVZFSWIwbkNhWGlTdWZKY3VZYmNKa3c5aGtFYzM5bTZkYzNwZFJiSEJlc0NCZjEwcDhxdENKbmF0dTBQU0IydHpkYUR4UGRUTkFuOG8w?oc=5",
+      "publishedAt": "Mon, 23 Nov 2026 02:44:20 GMT",
+      "source": "South China Morning Post"
+    },
+    {
+      "topic": "agriculture",
       "title": "Bangladesh needs a new generation of tech-savvy farmers - The Daily Star",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRGRJOUtaMGVIc0xVZThvYXpzemRwb05jb2xQc3FyVHdtYXpFTkxpaEF2My0tUG5OeF9ybjFyVDNDSzF0Zk5iaWdoWW1oODgtWWx5REhLcVM0RklyLWFILVJiemJIV0tfN29YcHFjR2dVTVFjWE9TVE9kdUh2MWdrUll3NHZxTW5mMTNuMkl1UnYxYmxkYVVEM3p5N1ZPZG5DekZKVWkxMTNHQQ?oc=5",
       "publishedAt": "Mon, 16 Nov 2026 11:32:08 GMT",
@@ -192,34 +199,27 @@
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE82U243SENwX2o5ZkhtVEtOZUg5X0REU25fY1JVb0F3QlZVdUpRUmFURmZwQjhlWEo4QTVoRV9fYUlTM1NBSzFTMUwzd2Y0U3VVLTJ0Mw?oc=5",
       "publishedAt": "Mon, 16 Nov 2026 08:20:00 GMT",
       "source": "bdnews24.com"
-    },
-    {
-      "topic": "agriculture",
-      "title": "Bangladesh's agriculture needs shift towards quality, value addition: Agri experts - The Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNamdxODVnNFdOVU1mVEhiT1hzOGViSng3bFlFX1VkUzlWVGpKakxJSHhLRTFvNVBySzVCME9wa0xJVTI3Rm5FbTlad1JxdC1fSmdoa0swWlVDeE1lLXJNQXUxVU9pcFBDYlVub1g0UGNIXzlzZWVmWjVESEUyREM3c25lekZlNEpHbkNHdm1fbC12TllqM3RSbFcxZHc4MzhMa203THpiVnd1WUtQX3k2b2lkLWFCWFkycm1RMFYwZU4?oc=5",
-      "publishedAt": "Sun, 15 Nov 2026 15:12:19 GMT",
-      "source": "The Business Standard"
     }
   ],
   "feedStatus": [
     {
       "topic": "creator",
-      "checkedAt": "2026-11-22T21:51:11.139168+00:00",
+      "checkedAt": "2026-11-23T02:50:47.246923+00:00",
       "status": "ok"
     },
     {
       "topic": "clothing",
-      "checkedAt": "2026-11-22T21:51:11.498985+00:00",
+      "checkedAt": "2026-11-23T02:50:47.726653+00:00",
       "status": "ok"
     },
     {
       "topic": "games",
-      "checkedAt": "2026-11-22T21:51:11.841444+00:00",
+      "checkedAt": "2026-11-23T02:50:48.099349+00:00",
       "status": "ok"
     },
     {
       "topic": "agriculture",
-      "checkedAt": "2026-11-22T21:51:12.171612+00:00",
+      "checkedAt": "2026-11-23T02:50:48.469802+00:00",
       "status": "ok"
     }
   ]
