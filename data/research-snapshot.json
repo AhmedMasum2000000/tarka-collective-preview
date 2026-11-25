@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "checkedAt": "2026-11-24T21:16:47.291799+00:00",
+  "checkedAt": "2026-11-25T04:20:37.034919+00:00",
   "competitors": [
     {
       "name": "Social Square",
       "url": "https://socialsquare.co/",
-      "checkedAt": "2026-11-24T21:16:47.291815+00:00",
+      "checkedAt": "2026-11-25T04:20:37.034934+00:00",
       "title": "Social Square | UGC Marketplace for Creators",
       "description": "Get paid to create content for brands with Social Square. Discover UGC campaigns, collaborate with companies, publish",
       "mentions": [
@@ -19,14 +19,14 @@
     {
       "name": "Bengal Reach",
       "url": "https://www.bengalreach.com/",
-      "checkedAt": "2026-11-24T21:16:48.534130+00:00",
+      "checkedAt": "2026-11-25T04:20:38.229191+00:00",
       "status": "unavailable",
       "error": "HTTP Error 402: Payment Required"
     },
     {
       "name": "Maroon Ltd.",
       "url": "https://www.maroonltd.com/",
-      "checkedAt": "2026-11-24T21:16:49.830427+00:00",
+      "checkedAt": "2026-11-25T04:20:39.484368+00:00",
       "title": "Maroon Limited",
       "description": "A PR and Digital Communication Agency in Dhaka, Bangladesh.",
       "mentions": [
@@ -41,7 +41,7 @@
     {
       "name": "Ngital",
       "url": "https://ngital.com/",
-      "checkedAt": "2026-11-24T21:16:53.028816+00:00",
+      "checkedAt": "2026-11-25T04:20:44.518538+00:00",
       "title": "Ngital – Digital Marketing Agency in Dhaka, Bangladesh",
       "description": "Digital Marketing Agency in Dhaka, Bangladesh",
       "mentions": [
@@ -61,7 +61,7 @@
       "name": "Internet use",
       "unit": "% of population",
       "url": "https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=BD",
-      "checkedAt": "2026-11-24T21:16:55.876380+00:00",
+      "checkedAt": "2026-11-25T04:20:47.427498+00:00",
       "status": "ok",
       "value": 53.42171316,
       "year": "2024"
@@ -71,7 +71,7 @@
       "name": "Population",
       "unit": "people",
       "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=BD",
-      "checkedAt": "2026-11-24T21:16:56.287995+00:00",
+      "checkedAt": "2026-11-25T04:20:47.686145+00:00",
       "status": "ok",
       "value": 175686899,
       "year": "2025"
@@ -81,7 +81,7 @@
       "name": "Inflation",
       "unit": "% annual",
       "url": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=BD",
-      "checkedAt": "2026-11-24T21:16:56.491205+00:00",
+      "checkedAt": "2026-11-25T04:20:47.766445+00:00",
       "status": "ok",
       "value": 8.7687628116114,
       "year": "2025"
@@ -139,6 +139,13 @@
     },
     {
       "topic": "games",
+      "title": "Roanoke Starcade and Pinball Museum works to keep retro gaming alive - WSLS",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVERSampldldtWlBLMkdGRXhQM1RrX2poWnVlRFBqZURWTS0tX2U1LTUxM04teVVyajRwbV9PalNJSE51YXozejFhMVJKVFZVOTEtTldrRlc2UGlSeEhhc1RJdjU0dEJDMDhXOUNGWnZybGFjWllGTDJIaVhiVEJmWnlEbEpfcDBETTJNekQzLVB0Yjczcm5WZVkxbTNFdjFGcy1yUUhpdjQteERkd2FPWnBfZw?oc=5",
+      "publishedAt": "Wed, 18 Nov 2026 22:08:20 GMT",
+      "source": "WSLS"
+    },
+    {
+      "topic": "games",
       "title": "Early Black Friday deal: Play 1000s of retro games with this $90 console - Mashable",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQREdlWXc4XzdTek9paEdyTkVBd09NaDZuSlY4cDNTOEU2VldJNlRGUmUxRUlYWHJmc2lnZ1NoWV9YanRJakFqOUVvQll4ZXluc3pqRjFndEJ5UEVoeHdMeW1Na0EtQzNMU2NjZV9RdUtZdlRSX3VLQWVqY3VUVVpvWVc1aHU0dzE1NXlIU21VSmV3M29PU1FfTFh4aGNkdTRjQmxF?oc=5",
       "publishedAt": "Mon, 16 Nov 2026 08:00:00 GMT",
@@ -152,25 +159,11 @@
       "source": "PC Gamer"
     },
     {
-      "topic": "games",
-      "title": "Roanoke Starcade and Pinball Museum works to keep retro gaming alive - WSLS",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVERSampldldtWlBLMkdGRXhQM1RrX2poWnVlRFBqZURWTS0tX2U1LTUxM04teVVyajRwbV9PalNJSE51YXozejFhMVJKVFZVOTEtTldrRlc2UGlSeEhhc1RJdjU0dEJDMDhXOUNGWnZybGFjWllGTDJIaVhiVEJmWnlEbEpfcDBETTJNekQzLVB0Yjczcm5WZVkxbTNFdjFGcy1yUUhpdjQteERkd2FPWnBfZw?oc=5",
-      "publishedAt": "Wed, 18 Nov 2026 22:08:20 GMT",
-      "source": "WSLS"
-    },
-    {
       "topic": "agriculture",
       "title": "Japan looks to Bangladesh, Nepal for farm workers as Southeast Asian arrivals slow - South China Morning Post",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSjdOU1ZVdEJrb19VaTBnejB0d0dTdDZNUnlOY2hPTnlNWVBjTHQ3ZjYtajdjdzNUdnRfakxxZ1M1bjNpVmNDeUFpeGEtQ3ViQmU4N2ZadVdEZVlBZlhBZjVtOU10M3I5cFZmRlRvZUkxdXJ4SC1mb2kxcVZFSWIwbkNhWGlTdWZKY3VZYmNKa3c5aGtFYzM5bTZkYzNwZFJiSEJlc0NCZjEwcDhxdENKbmF0dTBQU0IydHpkYUR4UGRUTkFuOG8w0gHHAUFVX3lxTE5GajNwQ0JMSnZ6VS1DT2ZNc2htOWx5M1U5T0l0TmRmQktIV2huMDN0NzhpbDFNUEdzdXk1b0czVUVhRnZISTNUMzhvWm9KV0QzOFhwMU9rWXpVdGo3QWRwMVlNMXo1d0I1M3B0MFVJR0dDdnZKaFBGRUZ1cVdQZU5pbkU5Yi1LS0NlREdwek5NeWJOSXJHZ1hva1JwQ3RIbXZCbmZXSUlFalAtcnhoUDdHSjBqU01tTjlkNmh3SHo2SHVkTU1pTE0?oc=5",
       "publishedAt": "Mon, 23 Nov 2026 02:44:20 GMT",
       "source": "South China Morning Post"
-    },
-    {
-      "topic": "agriculture",
-      "title": "Bangladesh joins 4th International Food and Agriculture Exhibition in Karachi - New Age BD",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQblZUME5XZ0N0cU5jTGZzZ2tjNm1meGIzTTBsekR4cUYyMkJQUy12SXZUTVROQlVnXzFtOHJ0WWxUS3dNeEo3WDlua0ktdlNDS0dpWHZhQnpjeGxlRFc4c0FTTklRNjVYVmFtM1lyajB6cHdQSktYOFdqMjlCOW93Y0lzaFp2ZGgzQl9KeFpyUmdRalBZdDNOUkRKUll2V0N5ZlNsTTRGckhkTkRKaVlQVGtGLVVBSC1JTEtnMElnbTVxQWFJ?oc=5",
-      "publishedAt": "Mon, 23 Nov 2026 18:00:00 GMT",
-      "source": "New Age BD"
     },
     {
       "topic": "agriculture",
@@ -188,31 +181,38 @@
     },
     {
       "topic": "agriculture",
-      "title": "Bangladesh’s Participation in Pakistan’s Food and Agriculture Exhibiti - dhakamagazine.com",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeVh0Q0lBZXdkVm5oM29yeXhsbERiOXpyMk5wWFRvWEhqUWtldmtwUTZnWDE2NUxsMmNMR28yM054RXR3UndmcEdVMGE0dnJlc2xGNkpFaEVPaTlKSS1QWW9qVEhHc3U1VGJWVkwtUU5CQjJWWWo3enR0bEI1a3Zad2hNRjVoYmIxYVVURk1Xb1RoU1BTaTFDSDg0ZVNiRldtY2s2V1dmd0NlazU5UV94ZkFnczlOZXNoUEE?oc=5",
-      "publishedAt": "Mon, 23 Nov 2026 11:06:00 GMT",
-      "source": "dhakamagazine.com"
+      "title": "President: Bangladesh achieves remarkable success in agriculture - Dhaka Tribune",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQLW5QcnpQdzBZTjRjcjdDOWFKbmEyZTJDclJXeFFrZGo4NHpJdHhhemc4aWk5TGF0MFZYTTJkZmdwc3dyRFJiNHg4Um9raDhTSERPQldkMWZ6UTFyUmphLTJmUWZpZG5idXBpTUl3bzhVU3BneksyMFdjaGxjSnVxamxxQk43Z0o3cDdSMnNWUEFwUm4tQ2pnZFVGU1QxUWpOZE93M9IBqgFBVV95cUxNTmdfUnMwLWRWVDFLcG9sY0hoVnh2TGNEVDJpdnNQOFkwWHUzLVhIVUJLdS1QODhsUzYyTkdyeFlsUkxFNVBCcHhMRFZ3UWEtTjRYVUctd05JTnp1RU9iNnZaUnNubXRGRnA4N0R0REhGRXJiZHlKSFBZNVVDczRyUDFSRWswQTY2SkN2RExXc2dkeEpnSmVOSkJoTWQ1UEl3Q09KdVMyajN6Zw?oc=5",
+      "publishedAt": "Thu, 19 Nov 2026 14:17:06 GMT",
+      "source": "Dhaka Tribune"
+    },
+    {
+      "topic": "agriculture",
+      "title": "Bangladesh’s nano urea patent opens new agricultural horizons - Bangladesh Sangbad Sangstha (BSS)",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9QWkFDOVJaREljVk14SVd2eFQtN19Td0JCN1pwSUZuWXZOODRyQ24tUU9NYVVrazNfOVFKTHdOUWtaenNVRXl3aDFraW5YbDRPeHpqLThwUFFMUGc?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 07:00:00 GMT",
+      "source": "Bangladesh Sangbad Sangstha (BSS)"
     }
   ],
   "feedStatus": [
     {
       "topic": "creator",
-      "checkedAt": "2026-11-24T21:16:56.658704+00:00",
+      "checkedAt": "2026-11-25T04:20:47.828095+00:00",
       "status": "ok"
     },
     {
       "topic": "clothing",
-      "checkedAt": "2026-11-24T21:16:57.059023+00:00",
+      "checkedAt": "2026-11-25T04:20:48.251667+00:00",
       "status": "ok"
     },
     {
       "topic": "games",
-      "checkedAt": "2026-11-24T21:16:57.569149+00:00",
+      "checkedAt": "2026-11-25T04:20:48.779402+00:00",
       "status": "ok"
     },
     {
       "topic": "agriculture",
-      "checkedAt": "2026-11-24T21:16:57.914790+00:00",
+      "checkedAt": "2026-11-25T04:20:49.281372+00:00",
       "status": "ok"
     }
   ]
