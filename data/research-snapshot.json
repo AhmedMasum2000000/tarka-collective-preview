@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "checkedAt": "2026-11-25T15:40:31.551195+00:00",
+  "checkedAt": "2026-11-26T00:26:32.309901+00:00",
   "competitors": [
     {
       "name": "Social Square",
       "url": "https://socialsquare.co/",
-      "checkedAt": "2026-11-25T15:40:31.551211+00:00",
+      "checkedAt": "2026-11-26T00:26:32.309919+00:00",
       "title": "Social Square | UGC Marketplace for Creators",
       "description": "Get paid to create content for brands with Social Square. Discover UGC campaigns, collaborate with companies, publish",
       "mentions": [
@@ -19,14 +19,14 @@
     {
       "name": "Bengal Reach",
       "url": "https://www.bengalreach.com/",
-      "checkedAt": "2026-11-25T15:40:32.910446+00:00",
+      "checkedAt": "2026-11-26T00:26:33.603831+00:00",
       "status": "unavailable",
       "error": "HTTP Error 402: Payment Required"
     },
     {
       "name": "Maroon Ltd.",
       "url": "https://www.maroonltd.com/",
-      "checkedAt": "2026-11-25T15:40:34.474324+00:00",
+      "checkedAt": "2026-11-26T00:26:35.013913+00:00",
       "title": "Maroon Limited",
       "description": "A PR and Digital Communication Agency in Dhaka, Bangladesh.",
       "mentions": [
@@ -41,7 +41,7 @@
     {
       "name": "Ngital",
       "url": "https://ngital.com/",
-      "checkedAt": "2026-11-25T15:40:39.826350+00:00",
+      "checkedAt": "2026-11-26T00:26:40.239182+00:00",
       "title": "Ngital – Digital Marketing Agency in Dhaka, Bangladesh",
       "description": "Digital Marketing Agency in Dhaka, Bangladesh",
       "mentions": [
@@ -61,7 +61,7 @@
       "name": "Internet use",
       "unit": "% of population",
       "url": "https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=BD",
-      "checkedAt": "2026-11-25T15:40:43.065061+00:00",
+      "checkedAt": "2026-11-26T00:26:43.235236+00:00",
       "status": "ok",
       "value": 53.42171316,
       "year": "2024"
@@ -71,7 +71,7 @@
       "name": "Population",
       "unit": "people",
       "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=BD",
-      "checkedAt": "2026-11-25T15:40:43.163003+00:00",
+      "checkedAt": "2026-11-26T00:26:43.460492+00:00",
       "status": "ok",
       "value": 175686899,
       "year": "2025"
@@ -81,7 +81,7 @@
       "name": "Inflation",
       "unit": "% annual",
       "url": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=BD",
-      "checkedAt": "2026-11-25T15:40:43.210046+00:00",
+      "checkedAt": "2026-11-26T00:26:43.683996+00:00",
       "status": "ok",
       "value": 8.7687628116114,
       "year": "2025"
@@ -167,13 +167,6 @@
     },
     {
       "topic": "agriculture",
-      "title": "Bangladesh needs a new generation of tech-savvy farmers - The Daily Star",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRGRJOUtaMGVIc0xVZThvYXpzemRwb05jb2xQc3FyVHdtYXpFTkxpaEF2My0tUG5OeF9ybjFyVDNDSzF0Zk5iaWdoWW1oODgtWWx5REhLcVM0RklyLWFILVJiemJIV0tfN29YcHFjR2dVTVFjWE9TVE9kdUh2MWdrUll3NHZxTW5mMTNuMkl1UnYxYmxkYVVEM3p5N1ZPZG5DekZKVWkxMTNHQQ?oc=5",
-      "publishedAt": "Mon, 16 Nov 2026 08:00:00 GMT",
-      "source": "The Daily Star"
-    },
-    {
-      "topic": "agriculture",
       "title": "Bangladesh's agriculture needs shift towards quality, value addition: Agri experts - The Business Standard",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNamdxODVnNFdOVU1mVEhiT1hzOGViSng3bFlFX1VkUzlWVGpKakxJSHhLRTFvNVBySzVCME9wa0xJVTI3Rm5FbTlad1JxdC1fSmdoa0swWlVDeE1lLXJNQXUxVU9pcFBDYlVub1g0UGNIXzlzZWVmWjVESEUyREM3c25lekZlNEpHbkNHdm1fbC12TllqM3RSbFcxZHc4MzhMa203THpiVnd1WUtQX3k2b2lkLWFCWFkycm1RMFYwZU4?oc=5",
       "publishedAt": "Sun, 15 Nov 2026 08:00:00 GMT",
@@ -181,38 +174,45 @@
     },
     {
       "topic": "agriculture",
-      "title": "Investment Opportunities in Agriculture, Fisheries, and Food Processing; Initiatives for Agreements on Skilled Workforce Recruitment - https://businessinbangladesh.com.bd/",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPZEFnR0tSelI2TmVDSkZUSzVOTXljeXgzTnBsRDUySHhxMGF2OTFZY0NwaG1vZkw2UjVlc2w3NmFweWd5RXMxeFBaRWFvTkFuZHB2T29DZjVKelN0eVFVTnlNdERjVmNjcEsxWTRVM2pkSW4tUVdZSGJ0dmtSak83UkV0bjlXenVaeXFMUHFXOEpocnBVTHl6cVpXSjFidVdXWm1INTlNS0JDMEMyWWRlaTViODFQcWQzbHE2NlpERFBSN0hsUDZJV3FIUFppNURJbWtsZWRpampSSHIzQWE0OGUtZENkUHduZ1ZNQUowX1NDM0w2VWZkdWt3?oc=5",
-      "publishedAt": "Tue, 17 Nov 2026 11:23:28 GMT",
-      "source": "https://businessinbangladesh.com.bd/"
+      "title": "Bangladesh needs a new generation of tech-savvy farmers - The Daily Star",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRGRJOUtaMGVIc0xVZThvYXpzemRwb05jb2xQc3FyVHdtYXpFTkxpaEF2My0tUG5OeF9ybjFyVDNDSzF0Zk5iaWdoWW1oODgtWWx5REhLcVM0RklyLWFILVJiemJIV0tfN29YcHFjR2dVTVFjWE9TVE9kdUh2MWdrUll3NHZxTW5mMTNuMkl1UnYxYmxkYVVEM3p5N1ZPZG5DekZKVWkxMTNHQQ?oc=5",
+      "publishedAt": "Mon, 16 Nov 2026 11:32:08 GMT",
+      "source": "The Daily Star"
     },
     {
       "topic": "agriculture",
-      "title": "Grant-based climate finance stressed to protect agriculture, farmers' rights - Bangladesh Sangbad Sangstha (BSS)",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE42UWdrQTNUZmkwSk9Sem5EWWtqMXYxc3pScENIYllLRVRkOFVLYURpRzBKVzIyeHhQdXFZdVNjVTl5ZGxIclRGTUY1dlBBWWFy?oc=5",
-      "publishedAt": "Sun, 15 Nov 2026 08:00:00 GMT",
+      "title": "President: Bangladesh achieves remarkable success in agriculture - Dhaka Tribune",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQLW5QcnpQdzBZTjRjcjdDOWFKbmEyZTJDclJXeFFrZGo4NHpJdHhhemc4aWk5TGF0MFZYTTJkZmdwc3dyRFJiNHg4Um9raDhTSERPQldkMWZ6UTFyUmphLTJmUWZpZG5idXBpTUl3bzhVU3BneksyMFdjaGxjSnVxamxxQk43Z0o3cDdSMnNWUEFwUm4tQ2pnZFVGU1QxUWpOZE93M9IBqgFBVV95cUxNTmdfUnMwLWRWVDFLcG9sY0hoVnh2TGNEVDJpdnNQOFkwWHUzLVhIVUJLdS1QODhsUzYyTkdyeFlsUkxFNVBCcHhMRFZ3UWEtTjRYVUctd05JTnp1RU9iNnZaUnNubXRGRnA4N0R0REhGRXJiZHlKSFBZNVVDczRyUDFSRWswQTY2SkN2RExXc2dkeEpnSmVOSkJoTWQ1UEl3Q09KdVMyajN6Zw?oc=5",
+      "publishedAt": "Thu, 19 Nov 2026 14:17:06 GMT",
+      "source": "Dhaka Tribune"
+    },
+    {
+      "topic": "agriculture",
+      "title": "Bangladesh’s nano urea patent opens new agricultural horizons - Bangladesh Sangbad Sangstha (BSS)",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9QWkFDOVJaREljVk14SVd2eFQtN19Td0JCN1pwSUZuWXZOODRyQ24tUU9NYVVrazNfOVFKTHdOUWtaenNVRXl3aDFraW5YbDRPeHpqLThwUFFMUGc?oc=5",
+      "publishedAt": "Wed, 28 Oct 2026 07:00:00 GMT",
       "source": "Bangladesh Sangbad Sangstha (BSS)"
     }
   ],
   "feedStatus": [
     {
       "topic": "creator",
-      "checkedAt": "2026-11-25T15:40:43.250248+00:00",
+      "checkedAt": "2026-11-26T00:26:43.920643+00:00",
       "status": "ok"
     },
     {
       "topic": "clothing",
-      "checkedAt": "2026-11-25T15:40:43.719047+00:00",
+      "checkedAt": "2026-11-26T00:26:44.497270+00:00",
       "status": "ok"
     },
     {
       "topic": "games",
-      "checkedAt": "2026-11-25T15:40:44.108443+00:00",
+      "checkedAt": "2026-11-26T00:26:44.997397+00:00",
       "status": "ok"
     },
     {
       "topic": "agriculture",
-      "checkedAt": "2026-11-25T15:40:44.624010+00:00",
+      "checkedAt": "2026-11-26T00:26:45.631205+00:00",
       "status": "ok"
     }
   ]
