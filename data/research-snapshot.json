@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "checkedAt": "2026-11-27T02:53:42.632259+00:00",
+  "checkedAt": "2026-11-27T12:32:19.391417+00:00",
   "competitors": [
     {
       "name": "Social Square",
       "url": "https://socialsquare.co/",
-      "checkedAt": "2026-11-27T02:53:42.632273+00:00",
+      "checkedAt": "2026-11-27T12:32:19.391427+00:00",
       "title": "Social Square | UGC Marketplace for Creators",
       "description": "Get paid to create content for brands with Social Square. Discover UGC campaigns, collaborate with companies, publish",
       "mentions": [
@@ -19,14 +19,14 @@
     {
       "name": "Bengal Reach",
       "url": "https://www.bengalreach.com/",
-      "checkedAt": "2026-11-27T02:53:43.830453+00:00",
+      "checkedAt": "2026-11-27T12:32:20.573447+00:00",
       "status": "unavailable",
       "error": "HTTP Error 402: Payment Required"
     },
     {
       "name": "Maroon Ltd.",
       "url": "https://www.maroonltd.com/",
-      "checkedAt": "2026-11-27T02:53:45.083539+00:00",
+      "checkedAt": "2026-11-27T12:32:21.913601+00:00",
       "title": "Maroon Limited",
       "description": "A PR and Digital Communication Agency in Dhaka, Bangladesh.",
       "mentions": [
@@ -41,7 +41,7 @@
     {
       "name": "Ngital",
       "url": "https://ngital.com/",
-      "checkedAt": "2026-11-27T02:53:50.218978+00:00",
+      "checkedAt": "2026-11-27T12:32:27.456936+00:00",
       "title": "Ngital – Digital Marketing Agency in Dhaka, Bangladesh",
       "description": "Digital Marketing Agency in Dhaka, Bangladesh",
       "mentions": [
@@ -61,7 +61,7 @@
       "name": "Internet use",
       "unit": "% of population",
       "url": "https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=BD",
-      "checkedAt": "2026-11-27T02:53:53.221045+00:00",
+      "checkedAt": "2026-11-27T12:32:30.467704+00:00",
       "status": "ok",
       "value": 53.42171316,
       "year": "2024"
@@ -71,7 +71,7 @@
       "name": "Population",
       "unit": "people",
       "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=BD",
-      "checkedAt": "2026-11-27T02:53:53.384717+00:00",
+      "checkedAt": "2026-11-27T12:32:30.610385+00:00",
       "status": "ok",
       "value": 175686899,
       "year": "2025"
@@ -81,7 +81,7 @@
       "name": "Inflation",
       "unit": "% annual",
       "url": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=BD",
-      "checkedAt": "2026-11-27T02:53:53.439583+00:00",
+      "checkedAt": "2026-11-27T12:32:30.684086+00:00",
       "status": "ok",
       "value": 8.7687628116114,
       "year": "2025"
@@ -132,10 +132,10 @@
     },
     {
       "topic": "games",
-      "title": "This massive retro gaming handheld comes with 200 fully licensed games – you can sleep better at night - T3",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZUpfcG5XLVNneVUxbHAwRXJjXzMwNlZFUjZHU2VEWXVCZ2twcXl2RUxLbzhXa3g2RldiOVYtUjdYSFRrMXVqc3NMcGZNTERHdVBaQWg0THVmNjhMOE9zSVNlT2o2SzUwODBXTFY1dXpWcGdlYXFldE1najFTV1duQTFZY2J0TG4wUkdTWXNTU1RObUQ1eE12ZDM5TDQ1dTlBSGpWNVdZSmxXanN1Si1vWmdITVJ1RHlPd2tfN0FybXV6ZHVSdjFISmdaRFYyQzFFSjAybmY2QQ?oc=5",
-      "publishedAt": "Fri, 30 Oct 2026 07:00:00 GMT",
-      "source": "T3"
+      "title": "Bring retro gaming back for $84.97 this Black Friday - Mashable",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUWI4M19nT1c1anFsWGhoaGUxeE16RWE2V3N6X01pdW1Ca25lLVFuUHVSd2R0TG5TUkpXdlE0WVNDQ1BFMnFJZkVTTGJ6ZXpkUUpXeVAwTnJtdGhfVWxPNENoQWRQbGNVdWVvNnl2SkFQWmhVaTAtQmx4R2pzeEUxUUxkTnlqbEcyQ21vc0VNT0lxYUF3OHFwWmIxQmpUaVFIZEFFaVZlbnhvVDBRVkIw?oc=5",
+      "publishedAt": "Fri, 20 Nov 2026 10:00:00 GMT",
+      "source": "Mashable"
     },
     {
       "topic": "games",
@@ -146,38 +146,17 @@
     },
     {
       "topic": "games",
-      "title": "GOG wants to bring back physical games, but it's 'a very, very complicated thing' - PC Gamer",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQc1U3dEFQMDdjNzEzZHVzUHpIV0FQWl9Td3l1WUpMVkVHWTNDZko5MXRYVDRSYzhqM0lSeUxJQ25aRTM2dkVCTTdqUE05UzFLTXJxY0N2MUctNGZOZDR0S2pfa3owNEtwTE1vRnBwN1VyWGJHa2FQengzMVBqVTNHZGJqdmRsOWZwTGpZYlhlbUpHbGpTb29lR2RqTlNoNWlkNmdlczREcWhxY3c?oc=5",
-      "publishedAt": "Sun, 01 Nov 2026 07:00:00 GMT",
+      "title": "I'm a nostalgic millennial, so I rounded up some retro gaming gear you can buy this Black Friday - PC Gamer",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNejhybzNCMzg5MVc1ZzFuV1BLYjRyVGoxVUgxUWJwZzQxa3I3ZlZsTzJRME5NbmdLS3BsMnoyNExTeS1ad1M1VEU2TzdzYWkzVmpHVzJQZmxVSXhBVDVOTGdKSGd6SGU1QmxsT0w2QXRwRm5xOTN5RVA0X3dFY0lJbm9rRERyUkdqY00tNkxXa2U3dEFVS3k2V0RsMHp2SUtOclV3cmhQZ184MXhic0F6MDh3SURTYWR0SG9MTWdMejdBaUpTTmpr?oc=5",
+      "publishedAt": "Thu, 26 Nov 2026 17:24:43 GMT",
       "source": "PC Gamer"
     },
     {
       "topic": "games",
-      "title": "It's OK, Pokémon And Retro Gaming Fans, The Resellers And Vultures Will Eventually Move On - Aftermath",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE50X2FVWGJkaVlObkVJRnp6R1FhUTJrby03ZmRXZEM5NEprTWd4dE8xZzItbUtZd2FBdG8tZl94RXVVbWZDd3NVZjE1d1dwdWRWTGRhSkR4RVpNMkowamsxcHI0VFQ1MWxKUVI2NnRlR1lmZ0QzRm84dFdyWQ?oc=5",
-      "publishedAt": "Wed, 28 Oct 2026 07:00:00 GMT",
-      "source": "Aftermath"
-    },
-    {
-      "topic": "agriculture",
-      "title": "Japan looks to Bangladesh, Nepal for farm workers as Southeast Asian arrivals slow - South China Morning Post",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSjdOU1ZVdEJrb19VaTBnejB0d0dTdDZNUnlOY2hPTnlNWVBjTHQ3ZjYtajdjdzNUdnRfakxxZ1M1bjNpVmNDeUFpeGEtQ3ViQmU4N2ZadVdEZVlBZlhBZjVtOU10M3I5cFZmRlRvZUkxdXJ4SC1mb2kxcVZFSWIwbkNhWGlTdWZKY3VZYmNKa3c5aGtFYzM5bTZkYzNwZFJiSEJlc0NCZjEwcDhxdENKbmF0dTBQU0IydHpkYUR4UGRUTkFuOG8w0gHHAUFVX3lxTE5GajNwQ0JMSnZ6VS1DT2ZNc2htOWx5M1U5T0l0TmRmQktIV2huMDN0NzhpbDFNUEdzdXk1b0czVUVhRnZISTNUMzhvWm9KV0QzOFhwMU9rWXpVdGo3QWRwMVlNMXo1d0I1M3B0MFVJR0dDdnZKaFBGRUZ1cVdQZU5pbkU5Yi1LS0NlREdwek5NeWJOSXJHZ1hva1JwQ3RIbXZCbmZXSUlFalAtcnhoUDdHSjBqU01tTjlkNmh3SHo2SHVkTU1pTE0?oc=5",
-      "publishedAt": "Mon, 23 Nov 2026 02:44:20 GMT",
-      "source": "South China Morning Post"
-    },
-    {
-      "topic": "agriculture",
-      "title": "Japan looks to Bangladesh, Nepal for farmhands as Vietnamese recruiters struggle to fill jobs - VnExpress International",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQclZ6aV9nUWM5bXkwY19VOGpQU1R5WExBakNhY285MFBIX0ZuaXJwV2hZa1BMLVN6aTM3cGt1ZWl5dnZWdzBPUHlFQkI5UE9GWkJFcFYyVTktMDFpRkJJWl8xOEZoQmpjV2pDSzhQdllNLUNsT1pmYUphNVVxYlNyRlJ0RWVoSkdkUFQxUnJiZkN0NjN5N3h4UTdRbEp1bVppQmQ5MTRzN3R3RUxzT2RaYVV6UGtMdUx6NThYZFZUelZ6T0VjUXk2bk96VkFjTzRUYUNpSDRn?oc=5",
-      "publishedAt": "Thu, 26 Nov 2026 08:28:21 GMT",
-      "source": "VnExpress International"
-    },
-    {
-      "topic": "agriculture",
-      "title": "Investment Opportunities in Agriculture, Fisheries, and Food Processing; Initiatives for Agreements on Skilled Workforce Recruitment - https://businessinbangladesh.com.bd/",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPZEFnR0tSelI2TmVDSkZUSzVOTXljeXgzTnBsRDUySHhxMGF2OTFZY0NwaG1vZkw2UjVlc2w3NmFweWd5RXMxeFBaRWFvTkFuZHB2T29DZjVKelN0eVFVTnlNdERjVmNjcEsxWTRVM2pkSW4tUVdZSGJ0dmtSak83UkV0bjlXenVaeXFMUHFXOEpocnBVTHl6cVpXSjFidVdXWm1INTlNS0JDMEMyWWRlaTViODFQcWQzbHE2NlpERFBSN0hsUDZJV3FIUFppNURJbWtsZWRpampSSHIzQWE0OGUtZENkUHduZ1ZNQUowX1NDM0w2VWZkdWt3?oc=5",
-      "publishedAt": "Tue, 17 Nov 2026 11:23:28 GMT",
-      "source": "https://businessinbangladesh.com.bd/"
+      "title": "5 Of The Best Retro Gaming Black Friday Deals Under $50 - SVG",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQakVFeDVPMHYzbmFwd01tMGlVUnpaOUR0ZlpReGs0MVB6MDNSRlMxQzdRc21RV29kd2dBTHFQMzVlZnRQUEJTdjA0NERtRmZBcVpVY0c4OE9SbGNiQTVMT05kZk9UYVBvN2JaU0lyN0hlZ1VYRF8xRTFXMS1FTEhESG5vcGdhOGJSVEE?oc=5",
+      "publishedAt": "Sat, 21 Nov 2026 05:04:22 GMT",
+      "source": "SVG"
     },
     {
       "topic": "agriculture",
@@ -192,27 +171,48 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRGRJOUtaMGVIc0xVZThvYXpzemRwb05jb2xQc3FyVHdtYXpFTkxpaEF2My0tUG5OeF9ybjFyVDNDSzF0Zk5iaWdoWW1oODgtWWx5REhLcVM0RklyLWFILVJiemJIV0tfN29YcHFjR2dVTVFjWE9TVE9kdUh2MWdrUll3NHZxTW5mMTNuMkl1UnYxYmxkYVVEM3p5N1ZPZG5DekZKVWkxMTNHQQ?oc=5",
       "publishedAt": "Mon, 16 Nov 2026 08:00:00 GMT",
       "source": "The Daily Star"
+    },
+    {
+      "topic": "agriculture",
+      "title": "Bangladesh achieved remarkable success in agriculture: President - Bangladesh Sangbad Sangstha (BSS)",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KVmJxMm9CMkdRa1QwckxWTW95eUc2dFVVaHd4UXFHNDhDamF0X3FneV9pS3FUZW96WmdyX3h2cmY3ODZrLXprZFFHd05ZV2p4RzM0?oc=5",
+      "publishedAt": "Thu, 19 Nov 2026 09:55:42 GMT",
+      "source": "Bangladesh Sangbad Sangstha (BSS)"
+    },
+    {
+      "topic": "agriculture",
+      "title": "Bangladesh participates in 4th Int’l Food and Agriculture Exhibition in Karachi - Daily Sun",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLXJRZXpCOG5kc1JfV0RBVTM5bUdYRWk1WG5sMjVYR3oxR0xoelZoYVBvdTRvbWdIM1FlejQ2eHNPeWRBTnZGVEpjUVNkWkFoTUpMUmVHOFRybUoxbDJmQlJPM3dIaF9Ta2o0SmdVMV9BYUpacnVmWW1KMFpnYUxwRjY4Y0todkxuQUs5UUZxSzJ3QTBtQjViY0FQb2JMOGZJRkpJN0Vxa3RkcEdBcE1oR3EwYVByTTJKd1VrV3BR?oc=5",
+      "publishedAt": "Tue, 24 Nov 2026 16:46:53 GMT",
+      "source": "Daily Sun"
+    },
+    {
+      "topic": "agriculture",
+      "title": "Govt plans Tk 14,000-crore project for agriculture transformation - Bangladesh Sangbad Sangstha (BSS)",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5obC13QXBwc0NTZUxTMDVmSEpIQmNKeGdBU2xsYk9LWDRUbUtKZW1jVHVrdEhuSi1BOG9DOWdOSUpmZlpmdlVaeXBwNA?oc=5",
+      "publishedAt": "Fri, 27 Nov 2026 05:21:10 GMT",
+      "source": "Bangladesh Sangbad Sangstha (BSS)"
     }
   ],
   "feedStatus": [
     {
       "topic": "creator",
-      "checkedAt": "2026-11-27T02:53:53.490170+00:00",
+      "checkedAt": "2026-11-27T12:32:30.755262+00:00",
       "status": "ok"
     },
     {
       "topic": "clothing",
-      "checkedAt": "2026-11-27T02:53:53.928023+00:00",
+      "checkedAt": "2026-11-27T12:32:31.260047+00:00",
       "status": "ok"
     },
     {
       "topic": "games",
-      "checkedAt": "2026-11-27T02:53:54.425464+00:00",
+      "checkedAt": "2026-11-27T12:32:31.747012+00:00",
       "status": "ok"
     },
     {
       "topic": "agriculture",
-      "checkedAt": "2026-11-27T02:53:54.799460+00:00",
+      "checkedAt": "2026-11-27T12:32:32.264699+00:00",
       "status": "ok"
     }
   ]
