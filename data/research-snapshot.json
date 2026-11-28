@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "checkedAt": "2026-11-27T22:00:55.557339+00:00",
+  "checkedAt": "2026-11-28T03:56:31.533692+00:00",
   "competitors": [
     {
       "name": "Social Square",
       "url": "https://socialsquare.co/",
-      "checkedAt": "2026-11-27T22:00:55.557352+00:00",
+      "checkedAt": "2026-11-28T03:56:31.533707+00:00",
       "title": "Social Square | UGC Marketplace for Creators",
       "description": "Get paid to create content for brands with Social Square. Discover UGC campaigns, collaborate with companies, publish",
       "mentions": [
@@ -19,14 +19,14 @@
     {
       "name": "Bengal Reach",
       "url": "https://www.bengalreach.com/",
-      "checkedAt": "2026-11-27T22:00:56.869438+00:00",
+      "checkedAt": "2026-11-28T03:56:32.764345+00:00",
       "status": "unavailable",
       "error": "HTTP Error 402: Payment Required"
     },
     {
       "name": "Maroon Ltd.",
       "url": "https://www.maroonltd.com/",
-      "checkedAt": "2026-11-27T22:00:58.099329+00:00",
+      "checkedAt": "2026-11-28T03:56:34.006152+00:00",
       "title": "Maroon Limited",
       "description": "A PR and Digital Communication Agency in Dhaka, Bangladesh.",
       "mentions": [
@@ -41,7 +41,7 @@
     {
       "name": "Ngital",
       "url": "https://ngital.com/",
-      "checkedAt": "2026-11-27T22:01:03.191339+00:00",
+      "checkedAt": "2026-11-28T03:56:39.014639+00:00",
       "title": "Ngital – Digital Marketing Agency in Dhaka, Bangladesh",
       "description": "Digital Marketing Agency in Dhaka, Bangladesh",
       "mentions": [
@@ -61,7 +61,7 @@
       "name": "Internet use",
       "unit": "% of population",
       "url": "https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=BD",
-      "checkedAt": "2026-11-27T22:01:06.528837+00:00",
+      "checkedAt": "2026-11-28T03:56:42.287768+00:00",
       "status": "ok",
       "value": 53.42171316,
       "year": "2024"
@@ -71,7 +71,7 @@
       "name": "Population",
       "unit": "people",
       "url": "https://data.worldbank.org/indicator/SP.POP.TOTL?locations=BD",
-      "checkedAt": "2026-11-27T22:01:06.817348+00:00",
+      "checkedAt": "2026-11-28T03:56:42.401019+00:00",
       "status": "ok",
       "value": 175686899,
       "year": "2025"
@@ -81,37 +81,139 @@
       "name": "Inflation",
       "unit": "% annual",
       "url": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG?locations=BD",
-      "checkedAt": "2026-11-27T22:01:07.346689+00:00",
+      "checkedAt": "2026-11-28T03:56:42.468615+00:00",
       "status": "ok",
       "value": 8.7687628116114,
       "year": "2025"
     }
   ],
-  "headlines": [],
-  "feedStatus": [
+  "headlines": [
     {
-      "topic": "creator",
-      "checkedAt": "2026-11-27T22:01:07.803623+00:00",
-      "status": "unavailable",
-      "error": "HTTP Error 429: Too Many Requests"
+      "topic": "clothing",
+      "title": "From Roadmap to Action: Advancing a Just Energy Transition for Bangladesh's Fashion Industry and Workers - Stand.earth",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaG9JT2N6WTBfRFVnbEh2N2l6c0hqVUExWmVCR256bzdGWllBT3VsTEc3aTExcUdPTmNUamtuX2UtYTktQXltQ3JCWVVZNDBkbk95ZXJQUXlqNzdqYnVGbUg1VGwzX3ZObkd6QmVaRkItM3pBYWJFQU5meExxTGljUUtqWEdMNjdidnFyUU5LWHVCX2ZFVHlpOE4zWG0xY2Jwa1hzeHhiU3RXaTRnbEh1ZlI0YUdIUFd2R3dOT2VoeUY5ZVZSNFpiR1VMMWI?oc=5",
+      "publishedAt": "Thu, 12 Nov 2026 21:22:50 GMT",
+      "source": "Stand.earth"
     },
     {
       "topic": "clothing",
-      "checkedAt": "2026-11-27T22:01:08.272422+00:00",
-      "status": "unavailable",
-      "error": "HTTP Error 429: Too Many Requests"
+      "title": "Bangladesh Agrees to Raise Minimum Wage for Garment Workers After Protests - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRUhDS1A5OU9GR3dIRU5HRmJwUlNwZGZsVGg3WjNIcW5Ob3JKWl9acHQ2b0wtQWt0c24zd2lVclRzUDdxT1hGVEM1ck96cmxVb2FxVk8yOFhCUFlZMGdrNzBFVnNKTEdlWWw0RE5rTXdkMHNSYUVCbUF4S1gxYk9VNVhLN01pV2Rubm4zUEN2YVFJTDRj?oc=5",
+      "publishedAt": "Thu, 05 Nov 2026 08:00:00 GMT",
+      "source": "The New York Times"
+    },
+    {
+      "topic": "clothing",
+      "title": "Wage unrest tests Bangladesh garment industry's low-cost edge - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOR05KRGFYbENvaWx0SmpFTC1HdF9TVHFJa015S2gxYVZ5ZUc0eXQ3X1BoZkN2OFdseDdSMGpNa1MtZnpRY2FoUjlOUzBwR1hOY1p3cTZ2V0lRN09zbFl0NXNqX3BXenYtTFhLZDhHOHg4U3RRdDkxaVpGWWNheWVwaWdZcFBsNENiX0ZDQ0g3cGdlRlloZW5fTTNYZG44LUZDLVFsTGxNNWQtOTFSMThLbDJZai0zS29kQmRXUlpn?oc=5",
+      "publishedAt": "Wed, 04 Nov 2026 08:00:00 GMT",
+      "source": "Reuters"
+    },
+    {
+      "topic": "clothing",
+      "title": "Will Fashion Brands Back Higher Wages in Bangladesh? - WWD",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVUhTWG9hd2h6YVpSdkdhM3FWcFJ0QWtOcjVrS0p4V3N4Q2VWY3dYTEpNZ1o1cjJxTi1iNndBQW53ekE1VnQ3WkhxdTFRYnJWYzRWZzd1Y1l6S0xHRnJCcUZzNldHQ1FHb3FVRm4xMmNRYlNpVXJkbjRNdFNxVEl3SGdSZ0VwQmZxQko2N1ZYNlZtcHhxMnhjZTA0ZGFvWHU1RVNzQWU4bWNHQXBoSWFHYk5QTHhtWUZ5RW1ycmJR?oc=5",
+      "publishedAt": "Thu, 12 Nov 2026 08:00:00 GMT",
+      "source": "WWD"
+    },
+    {
+      "topic": "clothing",
+      "title": "Bangladesh Crisis: Why Emerging Fashion Brands Are Turning to India for Stability - The National Law Review",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVzZBSW5ROFlPY3NMT2FIakdJTlRVSUdtMXk4MVN3cDZqMUtWQW05Y19PZ01abzNrWC16UTBrTDJCbnFQYWlYOVVDVmctRHdfNkNwdzZSLWt1UEg2WF9SdFNiUHlKdjVNUHBhbXY1aWZEc0tkc2hUOVNTa2g0ZWZkUWRrRXRGcWRTSzJ3MWw3UjBEWWVzb0pUX05ybXZNT2J5dTZPM29lcjJLT3BIUDBTcXIwSQ?oc=5",
+      "publishedAt": "Mon, 16 Nov 2026 13:51:40 GMT",
+      "source": "The National Law Review"
     },
     {
       "topic": "games",
-      "checkedAt": "2026-11-27T22:01:08.756058+00:00",
-      "status": "unavailable",
-      "error": "HTTP Error 429: Too Many Requests"
+      "title": "A Guide to Portland Retro Gaming Expo - travelportland.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5XUTRjUjdoTWxQLWVrME16TXhHLTg1SmMyaUMzSUF4bUYtTVVndTN0UGR4MW8zS2ViZkFmZ0xyZXp1YWtnSFFqOW9oX2xHYTRma0lqcG9kMk5HXzZob3ZJLTZYYVhDaE0?oc=5",
+      "publishedAt": "Wed, 18 Nov 2026 19:39:37 GMT",
+      "source": "travelportland.com"
+    },
+    {
+      "topic": "games",
+      "title": "Bring retro gaming back for $84.97 this Black Friday - Mashable",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUWI4M19nT1c1anFsWGhoaGUxeE16RWE2V3N6X01pdW1Ca25lLVFuUHVSd2R0TG5TUkpXdlE0WVNDQ1BFMnFJZkVTTGJ6ZXpkUUpXeVAwTnJtdGhfVWxPNENoQWRQbGNVdWVvNnl2SkFQWmhVaTAtQmx4R2pzeEUxUUxkTnlqbEcyQ21vc0VNT0lxYUF3OHFwWmIxQmpUaVFIZEFFaVZlbnhvVDBRVkIw?oc=5",
+      "publishedAt": "Fri, 20 Nov 2026 10:00:00 GMT",
+      "source": "Mashable"
+    },
+    {
+      "topic": "games",
+      "title": "Roanoke Starcade and Pinball Museum works to keep retro gaming alive - WSLS",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVERSampldldtWlBLMkdGRXhQM1RrX2poWnVlRFBqZURWTS0tX2U1LTUxM04teVVyajRwbV9PalNJSE51YXozejFhMVJKVFZVOTEtTldrRlc2UGlSeEhhc1RJdjU0dEJDMDhXOUNGWnZybGFjWllGTDJIaVhiVEJmWnlEbEpfcDBETTJNekQzLVB0Yjczcm5WZVkxbTNFdjFGcy1yUUhpdjQteERkd2FPWnBfZw?oc=5",
+      "publishedAt": "Wed, 18 Nov 2026 08:00:00 GMT",
+      "source": "WSLS"
+    },
+    {
+      "topic": "games",
+      "title": "Here are retro gaming goodies you can buy on Black Friday - PC Gamer",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNejhybzNCMzg5MVc1ZzFuV1BLYjRyVGoxVUgxUWJwZzQxa3I3ZlZsTzJRME5NbmdLS3BsMnoyNExTeS1ad1M1VEU2TzdzYWkzVmpHVzJQZmxVSXhBVDVOTGdKSGd6SGU1QmxsT0w2QXRwRm5xOTN5RVA0X3dFY0lJbm9rRERyUkdqY00tNkxXa2U3dEFVS3k2V0RsMHp2SUtOclV3cmhQZ184MXhic0F6MDh3SURTYWR0SG9MTWdMejdBaUpTTmpr?oc=5",
+      "publishedAt": "Thu, 26 Nov 2026 17:24:43 GMT",
+      "source": "PC Gamer"
+    },
+    {
+      "topic": "games",
+      "title": "5 Of The Best Retro Gaming Black Friday Deals Under $50 - SVG",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQakVFeDVPMHYzbmFwd01tMGlVUnpaOUR0ZlpReGs0MVB6MDNSRlMxQzdRc21RV29kd2dBTHFQMzVlZnRQUEJTdjA0NERtRmZBcVpVY0c4OE9SbGNiQTVMT05kZk9UYVBvN2JaU0lyN0hlZ1VYRF8xRTFXMS1FTEhESG5vcGdhOGJSVEE?oc=5",
+      "publishedAt": "Sat, 21 Nov 2026 05:04:22 GMT",
+      "source": "SVG"
     },
     {
       "topic": "agriculture",
-      "checkedAt": "2026-11-27T22:01:09.093902+00:00",
-      "status": "unavailable",
-      "error": "HTTP Error 429: Too Many Requests"
+      "title": "Bangladesh's agriculture needs shift towards quality, value addition: Agri experts - The Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNamdxODVnNFdOVU1mVEhiT1hzOGViSng3bFlFX1VkUzlWVGpKakxJSHhLRTFvNVBySzVCME9wa0xJVTI3Rm5FbTlad1JxdC1fSmdoa0swWlVDeE1lLXJNQXUxVU9pcFBDYlVub1g0UGNIXzlzZWVmWjVESEUyREM3c25lekZlNEpHbkNHdm1fbC12TllqM3RSbFcxZHc4MzhMa203THpiVnd1WUtQX3k2b2lkLWFCWFkycm1RMFYwZU4?oc=5",
+      "publishedAt": "Sun, 15 Nov 2026 08:00:00 GMT",
+      "source": "The Business Standard"
+    },
+    {
+      "topic": "agriculture",
+      "title": "Bangladesh needs a new generation of tech-savvy farmers - The Daily Star",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRGRJOUtaMGVIc0xVZThvYXpzemRwb05jb2xQc3FyVHdtYXpFTkxpaEF2My0tUG5OeF9ybjFyVDNDSzF0Zk5iaWdoWW1oODgtWWx5REhLcVM0RklyLWFILVJiemJIV0tfN29YcHFjR2dVTVFjWE9TVE9kdUh2MWdrUll3NHZxTW5mMTNuMkl1UnYxYmxkYVVEM3p5N1ZPZG5DekZKVWkxMTNHQQ?oc=5",
+      "publishedAt": "Mon, 16 Nov 2026 08:00:00 GMT",
+      "source": "The Daily Star"
+    },
+    {
+      "topic": "agriculture",
+      "title": "Bangladesh achieved remarkable success in agriculture: President - Bangladesh Sangbad Sangstha (BSS)",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KVmJxMm9CMkdRa1QwckxWTW95eUc2dFVVaHd4UXFHNDhDamF0X3FneV9pS3FUZW96WmdyX3h2cmY3ODZrLXprZFFHd05ZV2p4RzM0?oc=5",
+      "publishedAt": "Thu, 19 Nov 2026 08:00:00 GMT",
+      "source": "Bangladesh Sangbad Sangstha (BSS)"
+    },
+    {
+      "topic": "agriculture",
+      "title": "Government plans Tk14,000 crore agriculture transformation project - Dhaka Tribune",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaXk2c2prYVVONGVzcndZdmxhM0p3Zi1yOVhvWTExZ1JhYlVkVUNTWGlEZGRYNzBCVWF4Y3JRck9iYzZSZ3E0eDBDQVNkT2Q5YzhrcDVOVGxUZzZ1S2lOSTllMUhYUjZYNlBPWlM2V3habU9YWi1KblRieUFsaW1rSzNVSDZLTVBQTklVa19GNTZycVpjYWR1bzVKY1RXN1QtclpaU29nbDV3UdIBqgFBVV95cUxQaXk2c2prYVVONGVzcndZdmxhM0p3Zi1yOVhvWTExZ1JhYlVkVUNTWGlEZGRYNzBCVWF4Y3JRck9iYzZSZ3E0eDBDQVNkT2Q5YzhrcDVOVGxUZzZ1S2lOSTllMUhYUjZYNlBPWlM2V3habU9YWi1KblRieUFsaW1rSzNVSDZLTVBQTklVa19GNTZycVpjYWR1bzVKY1RXN1QtclpaU29nbDV3UQ?oc=5",
+      "publishedAt": "Fri, 27 Nov 2026 11:54:39 GMT",
+      "source": "Dhaka Tribune"
+    },
+    {
+      "topic": "agriculture",
+      "title": "Bangladesh participates in 4th Int’l Food and Agriculture Exhibition in Karachi - Daily Sun",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLXJRZXpCOG5kc1JfV0RBVTM5bUdYRWk1WG5sMjVYR3oxR0xoelZoYVBvdTRvbWdIM1FlejQ2eHNPeWRBTnZGVEpjUVNkWkFoTUpMUmVHOFRybUoxbDJmQlJPM3dIaF9Ta2o0SmdVMV9BYUpacnVmWW1KMFpnYUxwRjY4Y0todkxuQUs5UUZxSzJ3QTBtQjViY0FQb2JMOGZJRkpJN0Vxa3RkcEdBcE1oR3EwYVByTTJKd1VrV3BR?oc=5",
+      "publishedAt": "Tue, 24 Nov 2026 16:46:53 GMT",
+      "source": "Daily Sun"
+    }
+  ],
+  "feedStatus": [
+    {
+      "topic": "creator",
+      "checkedAt": "2026-11-28T03:56:42.555959+00:00",
+      "status": "ok"
+    },
+    {
+      "topic": "clothing",
+      "checkedAt": "2026-11-28T03:56:43.002154+00:00",
+      "status": "ok"
+    },
+    {
+      "topic": "games",
+      "checkedAt": "2026-11-28T03:56:43.324456+00:00",
+      "status": "ok"
+    },
+    {
+      "topic": "agriculture",
+      "checkedAt": "2026-11-28T03:56:43.680526+00:00",
+      "status": "ok"
     }
   ]
 }
